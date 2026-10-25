@@ -1,0 +1,12 @@
+{
+  "name": "fridge-to-fork",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Find recipes from what's in your fridge, with USDA nutrition and Kroger prices.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "dev:mock": "MOCK=1 node scripts/dev-server.mjs"
+  }
+}

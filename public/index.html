@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fridge to Fork</title>
+<meta name="description" content="Tell Fridge to Fork what's in your fridge and get real recipes with photos, USDA nutrition and live grocery prices for what you're missing.">
+<meta name="theme-color" content="#0f7a73">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect x='12' y='4' width='40' height='56' rx='8' fill='%230f7a73'/><rect x='18' y='26' width='4' height='10' rx='2' fill='white'/><rect x='12' y='22' width='40' height='2' fill='white' opacity='.6'/><circle cx='42' cy='12' r='4' fill='%23ffd84d'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Chivo:wght@400;500;700&family=JetBrains+Mono:wght@500&display=swap">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<nav class="top">
+  <a class="brand" href="/">Fridge <span>to</span> Fork</a>
+  <div class="navlinks">
+    <a href="#find">Find recipes</a>
+    <a href="#cookbook">My cookbook <b id="favCount">0</b></a>
+  </div>
+</nav>
+
+<main class="wrap">
+  <section class="intro">
+    <h1>Cook what you already have.</h1>
+    <p>Stick your ingredients on the fridge door. We'll find real recipes that use them, show you the nutrition, and price out anything you still need at your nearest store.</p>
+  </section>
+
+  <div class="grid" id="find">
+    <form class="door" id="fridgeForm" aria-labelledby="inside">
+      <h2 class="label" id="inside">In my fridge</h2>
+      <div class="magnets" id="magnets" aria-live="polite"></div>
+      <div class="addrow">
+        <input type="text" id="ingInput" placeholder="Add an ingredient, e.g. chicken thighs" autocomplete="off" aria-label="Ingredient to add">
+        <button class="btn" type="button" id="addBtn">Add</button>
+      </div>
+
+      <h2 class="label">Cuisine style</h2>
+      <div class="seg" role="radiogroup" aria-label="Cuisine style" id="cuisines">
+        <label><input type="radio" name="cuisine" value="any" checked><span>Any</span></label>
+        <label><input type="radio" name="cuisine" value="Mexican"><span>Mexican</span></label>
+        <label><input type="radio" name="cuisine" value="Asian"><span>Asian</span></label>
+        <label><input type="radio" name="cuisine" value="Italian"><span>Italian</span></label>
+        <label><input type="radio" name="cuisine" value="Mediterranean"><span>Mediterranean</span></label>
+        <label><input type="radio" name="cuisine" value="Indian"><span>Indian</span></label>
+        <label><input type="radio" name="cuisine" value="American"><span>American</span></label>
+      </div>
+
+      <label class="check"><input type="checkbox" id="pantry" checked> I have basics (salt, pepper, oil, butter, flour, garlic)</label>
+
+      <button class="btn primary" type="submit" id="findBtn">Find recipes</button>
+      <button class="btn ghost" type="button" id="aiBtn" hidden>Or have Claude write a custom recipe</button>
+      <p class="status" id="status" role="status"></p>
+    </form>
+
+    <section class="results" aria-labelledby="resultsTitle">
+      <div class="results-head">
+        <h2 id="resultsTitle">Recipes</h2>
+        <p id="resultsMeta" class="muted"></p>
+      </div>
+      <p class="note" id="note" hidden></p>
+      <div class="cards" id="cards"></div>
+    </section>
+  </div>
+
+  <section class="cookbook" id="cookbook" aria-labelledby="cbTitle">
+    <h2 id="cbTitle">My cookbook</h2>
+    <p class="muted">Recipes you save are kept in this browser.</p>
+    <div class="cards small" id="favs"></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>Recipes and photos from <a href="https://www.themealdb.com" target="_blank" rel="noopener">TheMealDB</a>. Nutrition from <a href="https://fdc.nal.usda.gov" target="_blank" rel="noopener">USDA FoodData Central</a>. Prices from the <a href="https://developer.kroger.com" target="_blank" rel="noopener">Kroger API</a>. Nutrition and prices are estimates.</p>
+</footer>
+
+<dialog id="recipe" aria-labelledby="rTitle">
+  <div class="sheet" id="sheet"></div>
+</dialog>
+
+<script type="module" src="/app.js"></script>
+</body>
+</html>
