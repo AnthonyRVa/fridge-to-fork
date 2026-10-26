@@ -1,6 +1,6 @@
 // Step 4 loop: score recipe search across many fridges x cuisines.
 // Usage: node scripts/loop-eval.mjs [round-label]   (writes loop/round-<label>.json)
-import { findRecipes } from "../lib/mealdb.js";
+import { findRecipes, CUISINES as AREAS, GENERIC_AREAS } from "../lib/mealdb.js";
 import { tokens } from "../lib/ingredients.js";
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 
@@ -69,6 +69,10 @@ for (const [fname, fridge] of Object.entries(FRIDGES)) {
       if (top.need.length > best) fails.push(`top pick needs ${top.need.length} but a ${cuisine} option needs ${best}`);
     }
     if (bad.length) fails.push(`${bad.length} false ingredient matches`);
+    // Added in round 5 after the live test showed "Spanish Tortilla" under Mexican:
+    // an in-style recipe must not carry a different, specific cuisine label.
+    const wrongStyle = cuisine === "any" ? [] : out.recipes.filter(r => r.inStyle && !GENERIC_AREAS.has(r.cuisine || "") && !AREAS[cuisine].includes(r.cuisine));
+    if (wrongStyle.length) fails.push(`${wrongStyle.length} recipes in the wrong style (e.g. ${wrongStyle[0].title}, ${wrongStyle[0].cuisine})`);
     rows.push({ fridge: fname, cuisine, options: useful.length, inStyle: inStyle.length, topNeed: top?.need.length ?? null,
       top: top?.title ?? null, falseMatches: bad.slice(0, 5), note: out.note, styleHits: out.styleHits, pass: fails.length === 0, fails });
   }
