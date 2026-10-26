@@ -5,6 +5,7 @@ const FILLER = new Set([
   "a", "an", "the", "of", "some", "half", "leftover", "leftovers", "fresh", "baby", "frozen",
   "chopped", "diced", "sliced", "minced", "large", "small", "medium", "bag", "can", "canned",
   "jar", "pack", "bunch", "handful", "piece", "pieces", "whole", "raw", "cooked", "old", "and",
+  "grated", "shredded", "crumbled", "finely", "roughly", "thinly", "peeled", "trimmed", "rinsed", "drained", "softened", "melted", "beaten", "ripe",
 ]);
 
 const MODIFIERS = new Set(["black", "white", "cayenne", "powder", "flake", "dried", "paprika", "coconut", "almond", "oat"]);
@@ -35,6 +36,7 @@ export function singular(word) {
 
 export function tokens(text) {
   return String(text || "")
+    .split(",")[0] // "cheddar, grated" -> "cheddar"
     .toLowerCase()
     .replace(/[^a-z\s-]/g, " ")
     .split(/[\s-]+/)

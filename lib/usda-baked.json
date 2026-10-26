@@ -359,24 +359,6 @@
   "fat": 34,
   "query": "cheese cheddar"
  },
- "grated cheese": {
-  "fdcId": 328637,
-  "description": "Cheese, cheddar",
-  "kcal": 408,
-  "protein": 23.3,
-  "carbs": 2.44,
-  "fat": 34,
-  "query": "cheese cheddar"
- },
- "shredded cheese": {
-  "fdcId": 328637,
-  "description": "Cheese, cheddar",
-  "kcal": 408,
-  "protein": 23.3,
-  "carbs": 2.44,
-  "fat": 34,
-  "query": "cheese cheddar"
- },
  "mozzarella": {
   "fdcId": 170845,
   "description": "Cheese, mozzarella, whole milk",
