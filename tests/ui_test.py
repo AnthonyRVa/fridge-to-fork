@@ -53,9 +53,11 @@ with sync_playwright() as p:
                 check("recipe sheet opens", lambda: expect(page.locator("#recipe #rTitle")).to_be_visible(timeout=15000))
                 check("ingredients are marked have/buy", lambda: expect(page.locator("ul.ing .tag").first).to_be_visible())
                 check("nutrition panel shows calories", lambda: expect(page.locator("#nutri .macro b").first).to_have_text(re.compile(r"^\d+$"), timeout=20000))
-                btn = page.locator("#priceAll")
-                btn.click()
-                check("price panel shows a total", lambda: expect(page.locator("#priceOut .total b")).to_have_text(re.compile(r"^\$\d+\.\d\d$"), timeout=20000))
+                if page.evaluate("fetch('/api/config').then(r => r.json()).then(c => c.prices)"):
+                    page.locator("#priceAll").click()
+                    check("price panel shows a total", lambda: expect(page.locator("#priceOut .total b")).to_have_text(re.compile(r"^\$\d+\.\d\d$"), timeout=20000))
+                else:
+                    check("price panel is hidden when Kroger isn't set up", lambda: expect(page.locator("#prices")).to_be_hidden())
                 page.screenshot(path=f"{OUT}/recipe-{tag}.png", full_page=False)
                 page.click("#favBtn")
                 check("saving updates the cookbook count", lambda: expect(page.locator("#favCount")).to_have_text("1"))
