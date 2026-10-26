@@ -50,12 +50,18 @@ function skeletons(n = 6) {
     `<div class="rc skeleton" aria-hidden="true"><div class="ph"></div><div class="body"><div class="line" style="width:80%"></div><div class="line" style="width:50%"></div></div></div>`).join("");
 }
 
+// "Mexican style" when the chosen style came from the dish itself rather than its country label.
+function styleLabel(r) {
+  const c = state.searchedCuisine;
+  return c && c !== "any" && r.inStyle && r.cuisine !== c ? `${c} style` : "";
+}
+
 function card(r) {
   const pct = r.total ? Math.round(((r.have.length + r.staples.length) / r.total) * 100) : 0;
   return `<button class="rc" data-id="${esc(r.id)}" data-src="${esc(r.source)}">
     ${r.photo ? `<div class="ph" style="background-image:url('${esc(r.photo)}')"></div>` : `<div class="ph ai">Claude</div>`}
     <div class="body">
-      <span class="sub">${esc([r.cuisine, r.category].filter(Boolean).join(" · "))}</span>
+      <span class="sub">${esc([styleLabel(r), r.cuisine, r.category].filter(Boolean).join(" · "))}</span>
       <h3>${esc(r.title)}</h3>
       <div class="bar" aria-hidden="true"><i style="width:${pct}%"></i></div>
       <span class="fit">${r.have.length} have · ${r.staples.length} pantry · <span class="${r.need.length ? "buy" : ""}">${r.need.length} to buy</span></span>
@@ -73,6 +79,7 @@ async function search() {
     const j = await r.json();
     if (!r.ok) throw new Error(j.error || "Search failed.");
     state.results = j.recipes || [];
+    state.searchedCuisine = q.get("cuisine");
     $("#cards").innerHTML = state.results.length ? state.results.map(card).join("")
       : `<div class="empty">No recipes use those ingredients yet. Try adding a protein or a staple like rice, pasta or potatoes.</div>`;
     const n = state.results.length;
