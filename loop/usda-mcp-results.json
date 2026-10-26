@@ -1,0 +1,4808 @@
+{
+ "egg whole raw": [
+  {
+   "fdcId": 2707152,
+   "dataType": "Survey (FNDDS)",
+   "description": "Egg, whole, raw",
+   "protein": 12.4,
+   "fat": 9.96,
+   "carbs": 0.96,
+   "kcal": 143
+  },
+  {
+   "fdcId": 171287,
+   "dataType": "SR Legacy",
+   "description": "Egg, whole, raw, fresh",
+   "kcal": 143,
+   "protein": 12.6,
+   "fat": 9.51,
+   "carbs": 0.72
+  },
+  {
+   "fdcId": 172189,
+   "dataType": "SR Legacy",
+   "description": "Egg, duck, whole, fresh, raw",
+   "protein": 12.8,
+   "fat": 13.8,
+   "carbs": 1.45,
+   "kcal": 185
+  }
+ ],
+ "chicken broiler fryers breast meat only raw": [
+  {
+   "fdcId": 171052,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, meat only, raw",
+   "fat": 3.08,
+   "carbs": 0,
+   "kcal": 119,
+   "protein": 21.4
+  },
+  {
+   "fdcId": 171077,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+   "fat": 2.62,
+   "kcal": 120,
+   "protein": 22.5,
+   "carbs": 0
+  },
+  {
+   "fdcId": 171073,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, back, meat only, raw",
+   "protein": 19.6,
+   "fat": 5.92,
+   "carbs": 0,
+   "kcal": 137
+  },
+  {
+   "fdcId": 173619,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, leg, meat only, raw",
+   "carbs": 0,
+   "kcal": 120,
+   "protein": 19.2,
+   "fat": 4.22
+  },
+  {
+   "fdcId": 173623,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, neck, meat only, raw",
+   "fat": 8.78,
+   "carbs": 0,
+   "kcal": 154,
+   "protein": 17.6
+  }
+ ],
+ "chicken broilers or fryers thigh meat only raw": [
+  {
+   "fdcId": 173627,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
+   "kcal": 121,
+   "fat": 4.12,
+   "protein": 19.7,
+   "carbs": 0
+  },
+  {
+   "fdcId": 171052,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, meat only, raw",
+   "fat": 3.08,
+   "carbs": 0,
+   "kcal": 119,
+   "protein": 21.4
+  },
+  {
+   "fdcId": 172385,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, thigh, meat and skin, raw",
+   "kcal": 221,
+   "protein": 16.5,
+   "fat": 16.6,
+   "carbs": 0.25
+  },
+  {
+   "fdcId": 172387,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, thigh, meat only, cooked, fried",
+   "protein": 28.2,
+   "fat": 10.3,
+   "carbs": 1.18,
+   "kcal": 218
+  },
+  {
+   "fdcId": 172388,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted",
+   "protein": 24.8,
+   "fat": 8.15,
+   "kcal": 179,
+   "carbs": 0
+  }
+ ],
+ "chicken broilers or fryers meat only raw": [
+  {
+   "fdcId": 171052,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, meat only, raw",
+   "fat": 3.08,
+   "carbs": 0,
+   "kcal": 119,
+   "protein": 21.4
+  },
+  {
+   "fdcId": 171073,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, back, meat only, raw",
+   "protein": 19.6,
+   "fat": 5.92,
+   "carbs": 0,
+   "kcal": 137
+  },
+  {
+   "fdcId": 173619,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, leg, meat only, raw",
+   "carbs": 0,
+   "kcal": 120,
+   "protein": 19.2,
+   "fat": 4.22
+  },
+  {
+   "fdcId": 173623,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, neck, meat only, raw",
+   "fat": 8.78,
+   "carbs": 0,
+   "kcal": 154,
+   "protein": 17.6
+  },
+  {
+   "fdcId": 173632,
+   "dataType": "SR Legacy",
+   "description": "Chicken, broilers or fryers, wing, meat only, raw",
+   "protein": 22,
+   "fat": 3.54,
+   "carbs": 0,
+   "kcal": 126
+  }
+ ],
+ "beef ground 80% lean meat 20% fat raw": [
+  {
+   "fdcId": 174036,
+   "dataType": "SR Legacy",
+   "description": "Beef, ground, 80% lean meat / 20% fat, raw",
+   "protein": 17.2,
+   "fat": 20,
+   "carbs": 0,
+   "kcal": 254
+  },
+  {
+   "fdcId": 2514744,
+   "dataType": "Foundation",
+   "description": "Beef, ground, 80% lean meat / 20% fat, raw",
+   "fat": 19.4,
+   "protein": 17.5,
+   "carbs": 0,
+   "kcal": 243
+  },
+  {
+   "fdcId": 171800,
+   "dataType": "SR Legacy",
+   "description": "Beef, ground, 80% lean meat / 20% fat, loaf, cooked, baked",
+   "kcal": 254,
+   "carbs": 0,
+   "protein": 25.2,
+   "fat": 16.2
+  },
+  {
+   "fdcId": 171797,
+   "dataType": "SR Legacy",
+   "description": "Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",
+   "carbs": 0,
+   "protein": 25.8,
+   "fat": 17.8,
+   "kcal": 270
+  },
+  {
+   "fdcId": 171799,
+   "dataType": "SR Legacy",
+   "description": "Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",
+   "kcal": 272,
+   "protein": 27,
+   "carbs": 0,
+   "fat": 17.4
+  }
+ ],
+ "pork fresh loin separable lean and fat raw": [
+  {
+   "fdcId": 168312,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, loin, tenderloin, separable lean and fat, raw",
+   "protein": 20.6,
+   "fat": 3.53,
+   "carbs": 0,
+   "kcal": 120
+  },
+  {
+   "fdcId": 167818,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, loin, whole, separable lean and fat, raw",
+   "fat": 12.6,
+   "carbs": 0,
+   "kcal": 198,
+   "protein": 19.7
+  },
+  {
+   "fdcId": 168314,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, raw",
+   "carbs": 0,
+   "kcal": 166,
+   "fat": 8.33,
+   "protein": 21.3
+  },
+  {
+   "fdcId": 168238,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, raw",
+   "fat": 9.03,
+   "carbs": 0,
+   "kcal": 170,
+   "protein": 20.7
+  },
+  {
+   "fdcId": 167839,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw",
+   "fat": 6.94,
+   "carbs": 0,
+   "protein": 21.6,
+   "kcal": 155
+  }
+ ],
+ "pork cured bacon unprepared": [
+  {
+   "fdcId": 168277,
+   "dataType": "SR Legacy",
+   "description": "Pork, cured, bacon, unprepared",
+   "protein": 13.7,
+   "fat": 37.1,
+   "carbs": 0,
+   "kcal": 393
+  },
+  {
+   "fdcId": 2705889,
+   "dataType": "Survey (FNDDS)",
+   "description": "Pork bacon, smoked or cured, cooked",
+   "protein": 33.92,
+   "fat": 35.09,
+   "carbs": 1.7,
+   "kcal": 468
+  },
+  {
+   "fdcId": 167914,
+   "dataType": "SR Legacy",
+   "description": "Pork, cured, bacon, cooked, baked",
+   "protein": 35.7,
+   "fat": 43.3,
+   "carbs": 1.35,
+   "kcal": 548
+  },
+  {
+   "fdcId": 168321,
+   "dataType": "SR Legacy",
+   "description": "Pork, cured, bacon, cooked, microwaved",
+   "fat": 34.1,
+   "carbs": 0.48,
+   "kcal": 476,
+   "protein": 39
+  },
+  {
+   "fdcId": 749420,
+   "dataType": "Foundation",
+   "description": "Pork, cured, bacon, cooked, restaurant",
+   "fat": 36.5,
+   "protein": 40.9,
+   "carbs": 2.1,
+   "kcal": 500
+  }
+ ],
+ "pork sausage fresh raw": [
+  {
+   "fdcId": 167811,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, backfat, raw",
+   "protein": 2.92,
+   "fat": 88.7,
+   "carbs": 0,
+   "kcal": 812
+  },
+  {
+   "fdcId": 167812,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, belly, raw",
+   "fat": 53,
+   "carbs": 0,
+   "kcal": 518,
+   "protein": 9.34
+  },
+  {
+   "fdcId": 167902,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, ground, raw",
+   "protein": 16.9,
+   "fat": 21.2,
+   "carbs": 0,
+   "kcal": 263
+  },
+  {
+   "fdcId": 174617,
+   "dataType": "SR Legacy",
+   "description": "Sausage, turkey, fresh, raw",
+   "fat": 8.08,
+   "protein": 18.8,
+   "carbs": 0.47,
+   "kcal": 155
+  },
+  {
+   "fdcId": 167813,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, separable fat, raw",
+   "kcal": 632,
+   "fat": 65.7,
+   "protein": 9.25,
+   "carbs": 0
+  }
+ ],
+ "lamb ground raw": [
+  {
+   "fdcId": 174370,
+   "dataType": "SR Legacy",
+   "description": "Lamb, ground, raw",
+   "fat": 23.4,
+   "carbs": 0,
+   "kcal": 282,
+   "protein": 16.6
+  },
+  {
+   "fdcId": 2727570,
+   "dataType": "Foundation",
+   "description": "Lamb, ground, raw",
+   "fat": 18.6,
+   "protein": 17.5,
+   "carbs": -0.251,
+   "kcal": 237
+  },
+  {
+   "fdcId": 172617,
+   "dataType": "SR Legacy",
+   "description": "Lamb, New Zealand, imported, ground lamb, raw",
+   "fat": 12.4,
+   "carbs": 0,
+   "kcal": 193,
+   "protein": 20.3
+  },
+  {
+   "fdcId": 2705907,
+   "dataType": "Survey (FNDDS)",
+   "description": "Lamb, ground",
+   "protein": 24.55,
+   "fat": 19.49,
+   "carbs": 0,
+   "kcal": 281
+  },
+  {
+   "fdcId": 172608,
+   "dataType": "SR Legacy",
+   "description": "Lamb, Australian, ground,  85% lean / 15% fat, raw",
+   "protein": 17.1,
+   "fat": 20.7,
+   "carbs": 0,
+   "kcal": 255
+  }
+ ],
+ "fish salmon atlantic farmed raw": [
+  {
+   "fdcId": 175167,
+   "dataType": "SR Legacy",
+   "description": "Fish, salmon, Atlantic, farmed, raw",
+   "kcal": 208,
+   "fat": 13.4,
+   "protein": 20.4,
+   "carbs": 0
+  },
+  {
+   "fdcId": 2684441,
+   "dataType": "Foundation",
+   "description": "Fish, salmon, Atlantic, farm raised, raw",
+   "fat": 13.1,
+   "protein": 20.3,
+   "carbs": 0,
+   "kcal": 197
+  },
+  {
+   "fdcId": 173686,
+   "dataType": "SR Legacy",
+   "description": "Fish, salmon, Atlantic, wild, raw",
+   "protein": 19.8,
+   "fat": 6.34,
+   "carbs": 0,
+   "kcal": 142
+  },
+  {
+   "fdcId": 173715,
+   "dataType": "SR Legacy",
+   "description": "Fish, salmon, coho, farmed, raw",
+   "protein": 21.3,
+   "fat": 7.67,
+   "carbs": 0,
+   "kcal": 160
+  },
+  {
+   "fdcId": 175168,
+   "dataType": "SR Legacy",
+   "description": "Fish, salmon, Atlantic, farmed, cooked, dry heat",
+   "fat": 12.4,
+   "carbs": 0,
+   "protein": 22.1,
+   "kcal": 206
+  }
+ ],
+ "crustaceans shrimp raw": [
+  {
+   "fdcId": 175179,
+   "dataType": "SR Legacy",
+   "description": "Crustaceans, shrimp, raw",
+   "fat": 0.51,
+   "carbs": 0,
+   "kcal": 85,
+   "protein": 20.1
+  },
+  {
+   "fdcId": 2684443,
+   "dataType": "Foundation",
+   "description": "Crustaceans, shrimp, farm raised, raw",
+   "fat": 0.801,
+   "protein": 15.6,
+   "carbs": 0.485,
+   "kcal": 71.4
+  },
+  {
+   "fdcId": 175180,
+   "dataType": "SR Legacy",
+   "description": "Crustaceans, shrimp, cooked",
+   "protein": 24,
+   "fat": 0.28,
+   "carbs": 0.2,
+   "kcal": 99
+  },
+  {
+   "fdcId": 174204,
+   "dataType": "SR Legacy",
+   "description": "Crustaceans, crab, blue, raw",
+   "fat": 1.08,
+   "carbs": 0.04,
+   "kcal": 87,
+   "protein": 18.1
+  },
+  {
+   "fdcId": 171968,
+   "dataType": "SR Legacy",
+   "description": "Crustaceans, crab, dungeness, raw",
+   "protein": 17.4,
+   "fat": 0.97,
+   "carbs": 0.74,
+   "kcal": 86
+  }
+ ],
+ "fish cod atlantic raw": [
+  {
+   "fdcId": 171955,
+   "dataType": "SR Legacy",
+   "description": "Fish, cod, Atlantic, raw",
+   "kcal": 82,
+   "protein": 17.8,
+   "fat": 0.67,
+   "carbs": 0
+  },
+  {
+   "fdcId": 2684444,
+   "dataType": "Foundation",
+   "description": "Fish, cod, Atlantic, wild caught, raw",
+   "fat": 0.668,
+   "protein": 16.1,
+   "carbs": 0,
+   "kcal": 66
+  },
+  {
+   "fdcId": 174190,
+   "dataType": "SR Legacy",
+   "description": "Fish, cod, Atlantic, dried and salted",
+   "kcal": 290,
+   "fat": 2.37,
+   "carbs": 0,
+   "protein": 62.8
+  },
+  {
+   "fdcId": 174192,
+   "dataType": "SR Legacy",
+   "description": "Fish, croaker, Atlantic, raw",
+   "fat": 3.17,
+   "carbs": 0,
+   "kcal": 104,
+   "protein": 17.8
+  },
+  {
+   "fdcId": 175116,
+   "dataType": "SR Legacy",
+   "description": "Fish, herring, Atlantic, raw",
+   "protein": 18,
+   "fat": 9.04,
+   "carbs": 0,
+   "kcal": 158
+  }
+ ],
+ "fish tuna light canned in water drained solids": [
+  {
+   "fdcId": 334194,
+   "dataType": "Foundation",
+   "description": "Fish, tuna, light, canned in water, drained solids",
+   "fat": 0.94,
+   "kcal": 90,
+   "protein": 19,
+   "carbs": 0.08
+  },
+  {
+   "fdcId": 173708,
+   "dataType": "SR Legacy",
+   "description": "Fish, tuna, light, canned in oil, drained solids",
+   "kcal": 198,
+   "fat": 8.21,
+   "carbs": 0,
+   "protein": 29.1
+  },
+  {
+   "fdcId": 171986,
+   "dataType": "SR Legacy",
+   "description": "Fish, tuna, light, canned in water, without salt, drained solids",
+   "protein": 25.5,
+   "fat": 0.82,
+   "kcal": 116,
+   "carbs": 0
+  },
+  {
+   "fdcId": 175158,
+   "dataType": "SR Legacy",
+   "description": "Fish, tuna, white, canned in water, drained solids",
+   "protein": 23.6,
+   "fat": 2.97,
+   "carbs": 0,
+   "kcal": 128
+  },
+  {
+   "fdcId": 174227,
+   "dataType": "SR Legacy",
+   "description": "Fish, tuna, light, canned in oil, without salt, drained solids",
+   "kcal": 198,
+   "protein": 29.1,
+   "fat": 8.21,
+   "carbs": 0
+  }
+ ],
+ "sausage pork fresh raw": [
+  {
+   "fdcId": 167811,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, backfat, raw",
+   "protein": 2.92,
+   "fat": 88.7,
+   "carbs": 0,
+   "kcal": 812
+  },
+  {
+   "fdcId": 167812,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, belly, raw",
+   "fat": 53,
+   "carbs": 0,
+   "kcal": 518,
+   "protein": 9.34
+  },
+  {
+   "fdcId": 167902,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, ground, raw",
+   "protein": 16.9,
+   "fat": 21.2,
+   "carbs": 0,
+   "kcal": 263
+  },
+  {
+   "fdcId": 174617,
+   "dataType": "SR Legacy",
+   "description": "Sausage, turkey, fresh, raw",
+   "fat": 8.08,
+   "protein": 18.8,
+   "carbs": 0.47,
+   "kcal": 155
+  },
+  {
+   "fdcId": 167813,
+   "dataType": "SR Legacy",
+   "description": "Pork, fresh, separable fat, raw",
+   "kcal": 632,
+   "fat": 65.7,
+   "protein": 9.25,
+   "carbs": 0
+  }
+ ],
+ "milk whole 3.25% milkfat": [
+  {
+   "fdcId": 746782,
+   "dataType": "Foundation",
+   "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+   "fat": 3.2,
+   "carbs": 4.63,
+   "kcal": 60,
+   "protein": 3.27
+  },
+  {
+   "fdcId": 171265,
+   "dataType": "SR Legacy",
+   "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+   "fat": 3.25,
+   "carbs": 4.8,
+   "kcal": 61,
+   "protein": 3.15
+  },
+  {
+   "fdcId": 172217,
+   "dataType": "SR Legacy",
+   "description": "Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D",
+   "carbs": 4.78,
+   "kcal": 61,
+   "fat": 3.27,
+   "protein": 3.15
+  },
+  {
+   "fdcId": 2396981,
+   "dataType": "Branded",
+   "description": "3.25% MILKFAT WHOLE MILK",
+   "protein": 3.33,
+   "kcal": 62
+  },
+  {
+   "fdcId": 2077985,
+   "dataType": "Branded",
+   "description": "DARIGOLD, 3.25% MILKFAT WHOLE HOMOGENIZED MILK",
+   "protein": 3.39,
+   "fat": 3.39,
+   "carbs": 5.51,
+   "kcal": 68
+  }
+ ],
+ "butter salted": [
+  {
+   "fdcId": 173410,
+   "dataType": "SR Legacy",
+   "description": "Butter, salted",
+   "kcal": 717,
+   "fat": 81.1,
+   "carbs": 0.06,
+   "protein": 0.85
+  },
+  {
+   "fdcId": 790508,
+   "dataType": "Foundation",
+   "description": "Butter, stick, salted",
+   "fat": 82.2
+  },
+  {
+   "fdcId": 173411,
+   "dataType": "SR Legacy",
+   "description": "Butter, whipped, with salt",
+   "fat": 78.3,
+   "protein": 0.49,
+   "carbs": 0,
+   "kcal": 731
+  },
+  {
+   "fdcId": 173430,
+   "dataType": "SR Legacy",
+   "description": "Butter, without salt",
+   "kcal": 717,
+   "fat": 81.1,
+   "carbs": 0.06,
+   "protein": 0.85
+  },
+  {
+   "fdcId": 173581,
+   "dataType": "SR Legacy",
+   "description": "Butter, light, stick, with salt",
+   "fat": 55.1,
+   "carbs": 0,
+   "protein": 3.3,
+   "kcal": 499
+  }
+ ],
+ "cheese cheddar": [
+  {
+   "fdcId": 2705709,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cheese, Cheddar",
+   "protein": 23.3,
+   "fat": 34,
+   "carbs": 2.44,
+   "kcal": 409
+  },
+  {
+   "fdcId": 328637,
+   "dataType": "Foundation",
+   "description": "Cheese, cheddar",
+   "carbs": 2.44,
+   "kcal": 408,
+   "protein": 23.3,
+   "fat": 34
+  },
+  {
+   "fdcId": 2705710,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cheese, Cheddar, reduced fat",
+   "protein": 27.35,
+   "fat": 20.41,
+   "carbs": 2.67,
+   "kcal": 316
+  },
+  {
+   "fdcId": 2705773,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cheese spread, American or Cheddar cheese base",
+   "protein": 16.41,
+   "fat": 21.23,
+   "carbs": 8.73,
+   "kcal": 290
+  },
+  {
+   "fdcId": 2705797,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cheese sandwich, cheddar cheese, on white bread",
+   "protein": 15.14,
+   "fat": 16.11,
+   "carbs": 29.95,
+   "kcal": 325
+  }
+ ],
+ "cheese mozzarella whole milk": [
+  {
+   "fdcId": 170845,
+   "dataType": "SR Legacy",
+   "description": "Cheese, mozzarella, whole milk",
+   "protein": 22.2,
+   "fat": 22.1,
+   "carbs": 2.4,
+   "kcal": 299
+  },
+  {
+   "fdcId": 170846,
+   "dataType": "SR Legacy",
+   "description": "Cheese, mozzarella, whole milk, low moisture",
+   "protein": 21.6,
+   "fat": 24.6,
+   "carbs": 2.47,
+   "kcal": 318
+  },
+  {
+   "fdcId": 170847,
+   "dataType": "SR Legacy",
+   "description": "Cheese, mozzarella, part skim milk",
+   "kcal": 254,
+   "fat": 15.9,
+   "protein": 24.3,
+   "carbs": 2.77
+  },
+  {
+   "fdcId": 746766,
+   "dataType": "Foundation",
+   "description": "Cheese, ricotta, whole milk",
+   "protein": 7.81,
+   "fat": 11,
+   "carbs": 6.86,
+   "kcal": 157
+  },
+  {
+   "fdcId": 170851,
+   "dataType": "SR Legacy",
+   "description": "Cheese, ricotta, whole milk",
+   "protein": 7.54,
+   "fat": 10.2,
+   "carbs": 7.27,
+   "kcal": 150
+  }
+ ],
+ "cheese parmesan hard": [
+  {
+   "fdcId": 170848,
+   "dataType": "SR Legacy",
+   "description": "Cheese, parmesan, hard",
+   "fat": 25,
+   "protein": 35.8,
+   "carbs": 3.22,
+   "kcal": 392
+  },
+  {
+   "fdcId": 2705730,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cheese, Parmesan, hard",
+   "protein": 29.87,
+   "fat": 28.75,
+   "carbs": 8.36,
+   "kcal": 412
+  },
+  {
+   "fdcId": 172197,
+   "dataType": "SR Legacy",
+   "description": "Cheese, goat, hard type",
+   "fat": 35.6,
+   "carbs": 2.17,
+   "kcal": 452,
+   "protein": 30.5
+  },
+  {
+   "fdcId": 2708265,
+   "dataType": "Survey (FNDDS)",
+   "description": "Pretzels, hard, cheese filled",
+   "protein": 9.85,
+   "fat": 16.92,
+   "carbs": 66.5,
+   "kcal": 463
+  },
+  {
+   "fdcId": 171247,
+   "dataType": "SR Legacy",
+   "description": "Cheese, parmesan, grated",
+   "fat": 27.8,
+   "carbs": 13.9,
+   "kcal": 420,
+   "protein": 28.4
+  }
+ ],
+ "cheese feta": [
+  {
+   "fdcId": 173420,
+   "dataType": "SR Legacy",
+   "description": "Cheese, feta",
+   "fat": 21.5,
+   "carbs": 3.88,
+   "kcal": 265,
+   "protein": 14.2
+  },
+  {
+   "fdcId": 2705714,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cheese, Feta",
+   "protein": 19.71,
+   "fat": 19.08,
+   "carbs": 5.58,
+   "kcal": 273
+  },
+  {
+   "fdcId": 2259796,
+   "dataType": "Foundation",
+   "description": "Cheese, feta, whole milk, crumbled",
+   "fat": 19.1,
+   "carbs": 5.58,
+   "protein": 19.7,
+   "kcal": 273
+  },
+  {
+   "fdcId": 2465427,
+   "dataType": "Branded",
+   "description": "FETA CHEESE, FETA",
+   "protein": 20,
+   "fat": 26.7,
+   "carbs": 3.33,
+   "kcal": 333
+  },
+  {
+   "fdcId": 2654788,
+   "dataType": "Branded",
+   "description": "FETA CHEESE, FETA",
+   "protein": 14.3,
+   "fat": 21.4,
+   "carbs": 3.57,
+   "kcal": 250
+  }
+ ],
+ "yogurt plain whole milk": [
+  {
+   "fdcId": 2259793,
+   "dataType": "Foundation",
+   "description": "Yogurt, plain, whole milk",
+   "fat": 4.48,
+   "carbs": 5.57,
+   "protein": 3.82,
+   "kcal": 78
+  },
+  {
+   "fdcId": 171284,
+   "dataType": "SR Legacy",
+   "description": "Yogurt, plain, whole milk",
+   "kcal": 61,
+   "protein": 3.47,
+   "fat": 3.25,
+   "carbs": 4.66
+  },
+  {
+   "fdcId": 2705418,
+   "dataType": "Survey (FNDDS)",
+   "description": "Yogurt, whole milk, plain",
+   "protein": 3.82,
+   "fat": 4.48,
+   "carbs": 5.57,
+   "kcal": 78
+  },
+  {
+   "fdcId": 2259794,
+   "dataType": "Foundation",
+   "description": "Yogurt, Greek, plain, whole milk",
+   "fat": 4.39,
+   "carbs": 4.75,
+   "protein": 8.78,
+   "kcal": 93.7
+  },
+  {
+   "fdcId": 171304,
+   "dataType": "SR Legacy",
+   "description": "Yogurt, Greek, plain, whole milk",
+   "protein": 9,
+   "fat": 5,
+   "carbs": 3.98,
+   "kcal": 97
+  }
+ ],
+ "cream fluid heavy whipping": [
+  {
+   "fdcId": 170859,
+   "dataType": "SR Legacy",
+   "description": "Cream, fluid, heavy whipping",
+   "fat": 36.1,
+   "kcal": 340,
+   "protein": 2.84,
+   "carbs": 2.84
+  },
+  {
+   "fdcId": 170858,
+   "dataType": "SR Legacy",
+   "description": "Cream, fluid, light whipping",
+   "kcal": 292,
+   "protein": 2.17,
+   "fat": 30.9,
+   "carbs": 2.96
+  },
+  {
+   "fdcId": 2705597,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cream, heavy",
+   "protein": 2.02,
+   "fat": 35.56,
+   "carbs": 3.8,
+   "kcal": 343
+  },
+  {
+   "fdcId": 2705598,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cream, whipped",
+   "protein": 1.9,
+   "fat": 33.45,
+   "carbs": 9.49,
+   "kcal": 346
+  },
+  {
+   "fdcId": 2346386,
+   "dataType": "Foundation",
+   "description": "Cream, heavy",
+   "fat": 35.6,
+   "protein": 2.02,
+   "carbs": 3.8,
+   "kcal": 343
+  }
+ ],
+ "sour cream cultured": [
+  {
+   "fdcId": 171257,
+   "dataType": "SR Legacy",
+   "description": "Cream, sour, cultured",
+   "protein": 2.44,
+   "fat": 19.4,
+   "carbs": 4.63,
+   "kcal": 198
+  },
+  {
+   "fdcId": 170869,
+   "dataType": "SR Legacy",
+   "description": "Sour cream, imitation, cultured",
+   "fat": 19.5,
+   "carbs": 6.63,
+   "kcal": 208,
+   "protein": 2.4
+  },
+  {
+   "fdcId": 171256,
+   "dataType": "SR Legacy",
+   "description": "Cream, sour, reduced fat, cultured",
+   "kcal": 135,
+   "fat": 12,
+   "carbs": 4.26,
+   "protein": 2.94
+  },
+  {
+   "fdcId": 171259,
+   "dataType": "SR Legacy",
+   "description": "Sour dressing, non-butterfat, cultured, filled cream-type",
+   "kcal": 178,
+   "fat": 16.6,
+   "carbs": 4.68,
+   "protein": 3.25
+  },
+  {
+   "fdcId": 2421115,
+   "dataType": "Branded",
+   "description": "CULTURED SOUR CREAM, CULTURED SOUR",
+   "protein": 3.33,
+   "fat": 20,
+   "carbs": 3.33
+  }
+ ],
+ "rice white long-grain regular raw unenriched": [
+  {
+   "fdcId": 169756,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, raw, unenriched",
+   "protein": 7.13,
+   "fat": 0.66,
+   "carbs": 80,
+   "kcal": 365
+  },
+  {
+   "fdcId": 2512381,
+   "dataType": "Foundation",
+   "description": "Rice, white, long grain, unenriched, raw",
+   "fat": 1.03,
+   "carbs": 80.3,
+   "protein": 7.04,
+   "kcal": 359
+  },
+  {
+   "fdcId": 168935,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, cooked, unenriched, with salt",
+   "protein": 2.69,
+   "fat": 0.28,
+   "carbs": 28.2,
+   "kcal": 130
+  },
+  {
+   "fdcId": 169757,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+   "fat": 0.28,
+   "carbs": 28.2,
+   "kcal": 130,
+   "protein": 2.69
+  },
+  {
+   "fdcId": 2512380,
+   "dataType": "Foundation",
+   "description": "Rice, brown, long grain, unenriched, raw",
+   "fat": 3.31,
+   "protein": 7.25,
+   "carbs": 76.7,
+   "kcal": 366
+  }
+ ],
+ "rice brown long-grain raw": [
+  {
+   "fdcId": 2512380,
+   "dataType": "Foundation",
+   "description": "Rice, brown, long grain, unenriched, raw",
+   "fat": 3.31,
+   "protein": 7.25,
+   "carbs": 76.7,
+   "kcal": 366
+  },
+  {
+   "fdcId": 2512381,
+   "dataType": "Foundation",
+   "description": "Rice, white, long grain, unenriched, raw",
+   "fat": 1.03,
+   "carbs": 80.3,
+   "protein": 7.04,
+   "kcal": 359
+  },
+  {
+   "fdcId": 168877,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, raw, enriched",
+   "fat": 0.66,
+   "carbs": 80,
+   "kcal": 365,
+   "protein": 7.13
+  },
+  {
+   "fdcId": 169756,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, raw, unenriched",
+   "protein": 7.13,
+   "fat": 0.66,
+   "carbs": 80,
+   "kcal": 365
+  },
+  {
+   "fdcId": 169703,
+   "dataType": "SR Legacy",
+   "description": "Rice, brown, long-grain, raw (Includes foods for USDA's Food Distribution Program)",
+   "fat": 3.2,
+   "carbs": 76.2,
+   "kcal": 367,
+   "protein": 7.54
+  }
+ ],
+ "pasta dry unenriched": [
+  {
+   "fdcId": 168927,
+   "dataType": "SR Legacy",
+   "description": "Pasta, dry, unenriched",
+   "protein": 13,
+   "fat": 1.51,
+   "carbs": 74.7,
+   "kcal": 371
+  },
+  {
+   "fdcId": 173916,
+   "dataType": "SR Legacy",
+   "description": "Cereals, farina, unenriched, dry",
+   "fat": 0.5,
+   "carbs": 78,
+   "kcal": 369,
+   "protein": 10.6
+  },
+  {
+   "fdcId": 169755,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, dry, unenriched",
+   "carbs": 71.3,
+   "kcal": 384,
+   "fat": 4.44,
+   "protein": 14.2
+  },
+  {
+   "fdcId": 175066,
+   "dataType": "SR Legacy",
+   "description": "Popovers, dry mix, unenriched",
+   "protein": 10.4,
+   "fat": 4.3,
+   "carbs": 71,
+   "kcal": 371
+  },
+  {
+   "fdcId": 175055,
+   "dataType": "SR Legacy",
+   "description": "Cake, yellow, unenriched, dry mix",
+   "fat": 11.6,
+   "carbs": 78.1,
+   "kcal": 432,
+   "protein": 4.4
+  }
+ ],
+ "noodles egg dry enriched": [
+  {
+   "fdcId": 169731,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, dry, enriched",
+   "carbs": 71.3,
+   "kcal": 384,
+   "protein": 14.2,
+   "fat": 4.44
+  },
+  {
+   "fdcId": 169733,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, spinach, enriched, dry",
+   "protein": 14.6,
+   "fat": 4.55,
+   "carbs": 70.3,
+   "kcal": 382
+  },
+  {
+   "fdcId": 169755,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, dry, unenriched",
+   "carbs": 71.3,
+   "kcal": 384,
+   "fat": 4.44,
+   "protein": 14.2
+  },
+  {
+   "fdcId": 169732,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, enriched, cooked",
+   "carbs": 25.2,
+   "kcal": 138,
+   "fat": 2.07,
+   "protein": 4.54
+  },
+  {
+   "fdcId": 169734,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, spinach, enriched, cooked",
+   "fat": 1.57,
+   "carbs": 24.2,
+   "kcal": 132,
+   "protein": 5.04
+  }
+ ],
+ "bread white commercially prepared": [
+  {
+   "fdcId": 174925,
+   "dataType": "SR Legacy",
+   "description": "Bread, white, commercially prepared, toasted",
+   "fat": 4,
+   "protein": 9,
+   "carbs": 54.5,
+   "kcal": 290
+  },
+  {
+   "fdcId": 174924,
+   "dataType": "SR Legacy",
+   "description": "Bread, white, commercially prepared (includes soft bread crumbs)",
+   "fat": 3.33,
+   "carbs": 49.4,
+   "kcal": 266,
+   "protein": 8.85
+  },
+  {
+   "fdcId": 172818,
+   "dataType": "SR Legacy",
+   "description": "Bread, white, commercially prepared, low sodium, no salt",
+   "carbs": 49.6,
+   "kcal": 267,
+   "fat": 3.6,
+   "protein": 8.2
+  },
+  {
+   "fdcId": 2758993,
+   "dataType": "Foundation",
+   "description": "Bread, white, commercial"
+  },
+  {
+   "fdcId": 172688,
+   "dataType": "SR Legacy",
+   "description": "Bread, whole-wheat, commercially prepared",
+   "fat": 3.5,
+   "carbs": 42.7,
+   "kcal": 252,
+   "protein": 12.4
+  }
+ ],
+ "tortillas ready-to-bake or -fry flour": [
+  {
+   "fdcId": 2707824,
+   "dataType": "Survey (FNDDS)",
+   "description": "Tortilla, flour",
+   "protein": 8.2,
+   "fat": 7.99,
+   "carbs": 49.38,
+   "kcal": 306
+  },
+  {
+   "fdcId": 172738,
+   "dataType": "SR Legacy",
+   "description": "Puff pastry, frozen, ready-to-bake, baked",
+   "protein": 7.4,
+   "fat": 38.5,
+   "carbs": 45.7,
+   "kcal": 558
+  },
+  {
+   "fdcId": 172790,
+   "dataType": "SR Legacy",
+   "description": "Puff pastry, frozen, ready-to-bake",
+   "fat": 38.1,
+   "carbs": 45.1,
+   "kcal": 551,
+   "protein": 7.3
+  },
+  {
+   "fdcId": 2708522,
+   "dataType": "Survey (FNDDS)",
+   "description": "Taco, flour tortilla, beef, cheese",
+   "protein": 16.71,
+   "fat": 12.27,
+   "carbs": 18.87,
+   "kcal": 257
+  },
+  {
+   "fdcId": 2708526,
+   "dataType": "Survey (FNDDS)",
+   "description": "Taco, flour tortilla, chicken, cheese",
+   "protein": 17.48,
+   "fat": 7.91,
+   "carbs": 18.87,
+   "kcal": 220
+  }
+ ],
+ "wheat flour white all-purpose enriched bleached": [
+  {
+   "fdcId": 168894,
+   "dataType": "SR Legacy",
+   "description": "Wheat flour, white, all-purpose, enriched, bleached",
+   "protein": 10.3,
+   "fat": 0.98,
+   "carbs": 76.3,
+   "kcal": 364
+  },
+  {
+   "fdcId": 789890,
+   "dataType": "Foundation",
+   "description": "Flour, wheat, all-purpose, enriched, bleached",
+   "protein": 10.9,
+   "fat": 1.48,
+   "carbs": 77.3,
+   "kcal": 366
+  },
+  {
+   "fdcId": 168936,
+   "dataType": "SR Legacy",
+   "description": "Wheat flour, white, all-purpose, enriched, unbleached",
+   "fat": 0.98,
+   "carbs": 76.3,
+   "kcal": 364,
+   "protein": 10.3
+  },
+  {
+   "fdcId": 169754,
+   "dataType": "SR Legacy",
+   "description": "Wheat flour, white, all-purpose, enriched, calcium-fortified",
+   "fat": 0.98,
+   "carbs": 76.3,
+   "kcal": 364,
+   "protein": 10.3
+  },
+  {
+   "fdcId": 168895,
+   "dataType": "SR Legacy",
+   "description": "Wheat flour, white, all-purpose, self-rising, enriched",
+   "fat": 0.97,
+   "carbs": 74.2,
+   "kcal": 354,
+   "protein": 9.89
+  }
+ ],
+ "sugars granulated": [
+  {
+   "fdcId": 746784,
+   "dataType": "Foundation",
+   "description": "Sugars, granulated",
+   "protein": 0,
+   "fat": 0.32,
+   "kcal": 385,
+   "carbs": 99.6
+  },
+  {
+   "fdcId": 169655,
+   "dataType": "SR Legacy",
+   "description": "Sugars, granulated",
+   "protein": 0,
+   "fat": 0,
+   "kcal": 387,
+   "carbs": 100
+  },
+  {
+   "fdcId": 2710258,
+   "dataType": "Survey (FNDDS)",
+   "description": "Sugar, white, granulated or lump",
+   "protein": 0,
+   "fat": 0.32,
+   "carbs": 99.6,
+   "kcal": 401
+  },
+  {
+   "fdcId": 170675,
+   "dataType": "SR Legacy",
+   "description": "Sweeteners, sugar substitute, granulated, brown",
+   "protein": 2.06,
+   "fat": 0,
+   "carbs": 84.8,
+   "kcal": 347
+  },
+  {
+   "fdcId": 2078624,
+   "dataType": "Branded",
+   "description": "GRANULATED SUGAR",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 100,
+   "kcal": 375
+  }
+ ],
+ "oats regular and quick not fortified dry": [
+  {
+   "fdcId": 173904,
+   "dataType": "SR Legacy",
+   "description": "Cereals, oats, regular and quick, not fortified, dry",
+   "fat": 6.52,
+   "carbs": 67.7,
+   "kcal": 379,
+   "protein": 13.2
+  },
+  {
+   "fdcId": 171661,
+   "dataType": "SR Legacy",
+   "description": "Cereals, oats, instant, fortified, plain, dry",
+   "fat": 6.9,
+   "carbs": 69.5,
+   "kcal": 362,
+   "protein": 11.9
+  },
+  {
+   "fdcId": 172989,
+   "dataType": "SR Legacy",
+   "description": "Cereals, QUAKER, Quick Oats, Dry",
+   "protein": 13.7,
+   "fat": 6.87,
+   "carbs": 68.2,
+   "kcal": 371
+  },
+  {
+   "fdcId": 174640,
+   "dataType": "SR Legacy",
+   "description": "Cereals, QUAKER, Quick Oats with Iron, Dry",
+   "protein": 13.7,
+   "carbs": 68.2,
+   "kcal": 371,
+   "fat": 6.87
+  },
+  {
+   "fdcId": 171664,
+   "dataType": "SR Legacy",
+   "description": "Cereals, oats, instant, fortified, with cinnamon and spice, dry",
+   "fat": 4.84,
+   "carbs": 76.1,
+   "kcal": 369,
+   "protein": 9.53
+  }
+ ],
+ "quinoa uncooked": [
+  {
+   "fdcId": 168874,
+   "dataType": "SR Legacy",
+   "description": "Quinoa, uncooked",
+   "protein": 14.1,
+   "fat": 6.07,
+   "carbs": 64.2,
+   "kcal": 368
+  },
+  {
+   "fdcId": 169745,
+   "dataType": "SR Legacy",
+   "description": "Spelt, uncooked",
+   "fat": 2.43,
+   "carbs": 70.2,
+   "kcal": 338,
+   "protein": 14.6
+  },
+  {
+   "fdcId": 169747,
+   "dataType": "SR Legacy",
+   "description": "Teff, uncooked",
+   "fat": 2.38,
+   "protein": 13.3,
+   "carbs": 73.1,
+   "kcal": 367
+  },
+  {
+   "fdcId": 170682,
+   "dataType": "SR Legacy",
+   "description": "Amaranth grain, uncooked",
+   "protein": 13.6,
+   "fat": 7.02,
+   "carbs": 65.2,
+   "kcal": 371
+  },
+  {
+   "fdcId": 746768,
+   "dataType": "Foundation",
+   "description": "Figs, dried, uncooked",
+   "carbs": 63.9,
+   "kcal": 249,
+   "protein": 3.3,
+   "fat": 0.92
+  }
+ ],
+ "potatoes flesh and skin raw": [
+  {
+   "fdcId": 170026,
+   "dataType": "SR Legacy",
+   "description": "Potatoes, flesh and skin, raw",
+   "fat": 0.09,
+   "kcal": 77,
+   "protein": 2.05,
+   "carbs": 17.5
+  },
+  {
+   "fdcId": 170029,
+   "dataType": "SR Legacy",
+   "description": "Potatoes, red, flesh and skin, raw",
+   "fat": 0.14,
+   "protein": 1.89,
+   "carbs": 15.9,
+   "kcal": 70
+  },
+  {
+   "fdcId": 170028,
+   "dataType": "SR Legacy",
+   "description": "Potatoes, white, flesh and skin, raw",
+   "protein": 1.68,
+   "fat": 0.1,
+   "carbs": 15.7,
+   "kcal": 69
+  },
+  {
+   "fdcId": 2346404,
+   "dataType": "Foundation",
+   "description": "Sweet potatoes, orange flesh, without skin, raw",
+   "fat": 0.375,
+   "carbs": 17.3,
+   "protein": 1.58,
+   "kcal": 79
+  },
+  {
+   "fdcId": 170111,
+   "dataType": "SR Legacy",
+   "description": "Potatoes, baked, flesh and skin, with salt",
+   "fat": 0.13,
+   "protein": 2.5,
+   "carbs": 21.2,
+   "kcal": 93
+  }
+ ],
+ "sweet potato raw unprepared": [
+  {
+   "fdcId": 168016,
+   "dataType": "SR Legacy",
+   "description": "Sweet Potato puffs, frozen, unprepared",
+   "protein": 1.36,
+   "fat": 3.58,
+   "carbs": 30.7,
+   "kcal": 161
+  },
+  {
+   "fdcId": 168482,
+   "dataType": "SR Legacy",
+   "description": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+   "carbs": 20.1,
+   "kcal": 86,
+   "fat": 0.05,
+   "protein": 1.57
+  },
+  {
+   "fdcId": 168015,
+   "dataType": "SR Legacy",
+   "description": "Sweet Potatoes, french fried, crosscut, frozen, unprepared",
+   "fat": 11.1,
+   "carbs": 25.5,
+   "kcal": 209,
+   "protein": 1.7
+  },
+  {
+   "fdcId": 170047,
+   "dataType": "SR Legacy",
+   "description": "Potato puffs, frozen, unprepared",
+   "protein": 1.93,
+   "fat": 8.71,
+   "carbs": 24.8,
+   "kcal": 178
+  },
+  {
+   "fdcId": 170453,
+   "dataType": "SR Legacy",
+   "description": "Potatoes, o'brien, frozen, unprepared",
+   "protein": 1.83,
+   "fat": 0.14,
+   "carbs": 17.5,
+   "kcal": 76
+  }
+ ],
+ "onions raw": [
+  {
+   "fdcId": 2709795,
+   "dataType": "Survey (FNDDS)",
+   "description": "Onions, raw",
+   "protein": 0.86,
+   "fat": 0.08,
+   "carbs": 8.46,
+   "kcal": 38
+  },
+  {
+   "fdcId": 170000,
+   "dataType": "SR Legacy",
+   "description": "Onions, raw",
+   "fat": 0.1,
+   "carbs": 9.34,
+   "kcal": 40,
+   "protein": 1.1
+  },
+  {
+   "fdcId": 2709794,
+   "dataType": "Survey (FNDDS)",
+   "description": "Onions, green, raw",
+   "protein": 1.83,
+   "fat": 0.19,
+   "carbs": 7.34,
+   "kcal": 32
+  },
+  {
+   "fdcId": 790577,
+   "dataType": "Foundation",
+   "description": "Onions, red, raw",
+   "protein": 0.94,
+   "fat": 0.1,
+   "carbs": 9.93,
+   "kcal": 44
+  },
+  {
+   "fdcId": 170008,
+   "dataType": "SR Legacy",
+   "description": "Onions, sweet, raw",
+   "carbs": 7.55,
+   "kcal": 32,
+   "fat": 0.08,
+   "protein": 0.8
+  }
+ ],
+ "onions spring or scallions includes tops and bulb raw": [
+  {
+   "fdcId": 170005,
+   "dataType": "SR Legacy",
+   "description": "Onions, spring or scallions (includes tops and bulb), raw",
+   "kcal": 32,
+   "fat": 0.19,
+   "protein": 1.83,
+   "carbs": 7.34
+  },
+  {
+   "fdcId": 2727585,
+   "dataType": "Foundation",
+   "description": "Green onion, (scallion), bulb and greens, root removed, raw",
+   "protein": 0.669
+  },
+  {
+   "fdcId": 2709779,
+   "dataType": "Survey (FNDDS)",
+   "description": "Fennel bulb, raw",
+   "protein": 1.24,
+   "fat": 0.2,
+   "carbs": 7.3,
+   "kcal": 31
+  },
+  {
+   "fdcId": 2747655,
+   "dataType": "Foundation",
+   "description": "Fennel, bulb, raw",
+   "fat": 0.14,
+   "kcal": 26.9,
+   "protein": 0.922,
+   "carbs": 5.49
+  },
+  {
+   "fdcId": 169385,
+   "dataType": "SR Legacy",
+   "description": "Fennel, bulb, raw",
+   "carbs": 7.3,
+   "protein": 1.24,
+   "kcal": 31,
+   "fat": 0.2
+  }
+ ],
+ "garlic raw": [
+  {
+   "fdcId": 2709786,
+   "dataType": "Survey (FNDDS)",
+   "description": "Garlic, raw",
+   "protein": 6.62,
+   "fat": 0.38,
+   "carbs": 28.2,
+   "kcal": 143
+  },
+  {
+   "fdcId": 1104647,
+   "dataType": "Foundation",
+   "description": "Garlic, raw",
+   "fat": 0.38,
+   "protein": 6.62,
+   "carbs": 28.2,
+   "kcal": 143
+  },
+  {
+   "fdcId": 169230,
+   "dataType": "SR Legacy",
+   "description": "Garlic, raw",
+   "carbs": 33.1,
+   "kcal": 149,
+   "protein": 6.36,
+   "fat": 0.5
+  },
+  {
+   "fdcId": 167782,
+   "dataType": "SR Legacy",
+   "description": "Abiyuch, raw",
+   "carbs": 17.6,
+   "kcal": 69,
+   "fat": 0.1,
+   "protein": 1.5
+  },
+  {
+   "fdcId": 2709164,
+   "dataType": "Survey (FNDDS)",
+   "description": "Clementine, raw",
+   "protein": 0.81,
+   "fat": 0.31,
+   "carbs": 13.34,
+   "kcal": 53
+  }
+ ],
+ "ginger root raw": [
+  {
+   "fdcId": 169231,
+   "dataType": "SR Legacy",
+   "description": "Ginger root, raw",
+   "fat": 0.75,
+   "protein": 1.82,
+   "carbs": 17.8,
+   "kcal": 80
+  },
+  {
+   "fdcId": 2710082,
+   "dataType": "Survey (FNDDS)",
+   "description": "Ginger root, pickled",
+   "protein": 0.33,
+   "fat": 0.1,
+   "carbs": 4.83,
+   "kcal": 20
+  },
+  {
+   "fdcId": 169974,
+   "dataType": "SR Legacy",
+   "description": "Burdock root, raw",
+   "carbs": 17.3,
+   "kcal": 72,
+   "protein": 1.53,
+   "fat": 0.15
+  },
+  {
+   "fdcId": 169993,
+   "dataType": "SR Legacy",
+   "description": "Chicory roots, raw",
+   "carbs": 17.5,
+   "kcal": 72,
+   "fat": 0.2,
+   "protein": 1.4
+  },
+  {
+   "fdcId": 169250,
+   "dataType": "SR Legacy",
+   "description": "Lotus root, raw",
+   "fat": 0.1,
+   "protein": 2.6,
+   "carbs": 17.2,
+   "kcal": 74
+  }
+ ],
+ "tomatoes red ripe raw year round average": [
+  {
+   "fdcId": 170457,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, raw, year round average",
+   "carbs": 3.89,
+   "kcal": 18,
+   "fat": 0.2,
+   "protein": 0.88
+  },
+  {
+   "fdcId": 170050,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, cooked",
+   "carbs": 4.01,
+   "kcal": 18,
+   "protein": 0.95,
+   "fat": 0.11
+  },
+  {
+   "fdcId": 333281,
+   "dataType": "Foundation",
+   "description": "Tomatoes, canned, red, ripe, diced",
+   "fat": 0.5,
+   "protein": 0.84,
+   "carbs": 3.32,
+   "kcal": 18
+  },
+  {
+   "fdcId": 170052,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, canned, stewed",
+   "carbs": 6.19,
+   "kcal": 26,
+   "protein": 0.91,
+   "fat": 0.19
+  },
+  {
+   "fdcId": 170089,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, cooked, stewed",
+   "protein": 1.96,
+   "fat": 2.68,
+   "carbs": 13,
+   "kcal": 79
+  }
+ ],
+ "tomatoes red ripe canned packed in tomato juice": [
+  {
+   "fdcId": 170051,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, canned, packed in tomato juice",
+   "fat": 0.25,
+   "carbs": 3.47,
+   "kcal": 16,
+   "protein": 0.79
+  },
+  {
+   "fdcId": 170138,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, canned, packed in tomato juice, no salt added",
+   "fat": 0.25,
+   "carbs": 3.47,
+   "kcal": 16,
+   "protein": 0.79
+  },
+  {
+   "fdcId": 333281,
+   "dataType": "Foundation",
+   "description": "Tomatoes, canned, red, ripe, diced",
+   "fat": 0.5,
+   "protein": 0.84,
+   "carbs": 3.32,
+   "kcal": 18
+  },
+  {
+   "fdcId": 170052,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, canned, stewed",
+   "carbs": 6.19,
+   "kcal": 26,
+   "protein": 0.91,
+   "fat": 0.19
+  },
+  {
+   "fdcId": 170053,
+   "dataType": "SR Legacy",
+   "description": "Tomatoes, red, ripe, canned, with green chilies",
+   "fat": 0.08,
+   "carbs": 3.62,
+   "kcal": 15,
+   "protein": 0.69
+  }
+ ],
+ "tomato products canned puree without salt added": [
+  {
+   "fdcId": 170460,
+   "dataType": "SR Legacy",
+   "description": "Tomato products, canned, puree, without salt added",
+   "carbs": 8.98,
+   "kcal": 38,
+   "protein": 1.65,
+   "fat": 0.21
+  },
+  {
+   "fdcId": 170546,
+   "dataType": "SR Legacy",
+   "description": "Tomato products, canned, puree, with salt added",
+   "carbs": 8.98,
+   "kcal": 38,
+   "fat": 0.21,
+   "protein": 1.65
+  },
+  {
+   "fdcId": 170545,
+   "dataType": "SR Legacy",
+   "description": "Tomato juice, canned, without salt added",
+   "kcal": 17,
+   "protein": 0.85,
+   "fat": 0.29,
+   "carbs": 3.53
+  },
+  {
+   "fdcId": 2685580,
+   "dataType": "Foundation",
+   "description": "Tomato, paste, canned, without salt added",
+   "fat": 0.732,
+   "kcal": 104,
+   "protein": 4.23,
+   "carbs": 20.2
+  },
+  {
+   "fdcId": 170459,
+   "dataType": "SR Legacy",
+   "description": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+   "carbs": 18.9,
+   "kcal": 82,
+   "fat": 0.47,
+   "protein": 4.32
+  }
+ ],
+ "tomato products canned paste without salt added": [
+  {
+   "fdcId": 2685580,
+   "dataType": "Foundation",
+   "description": "Tomato, paste, canned, without salt added",
+   "fat": 0.732,
+   "kcal": 104,
+   "protein": 4.23,
+   "carbs": 20.2
+  },
+  {
+   "fdcId": 170460,
+   "dataType": "SR Legacy",
+   "description": "Tomato products, canned, puree, without salt added",
+   "carbs": 8.98,
+   "kcal": 38,
+   "protein": 1.65,
+   "fat": 0.21
+  },
+  {
+   "fdcId": 170545,
+   "dataType": "SR Legacy",
+   "description": "Tomato juice, canned, without salt added",
+   "kcal": 17,
+   "protein": 0.85,
+   "fat": 0.29,
+   "carbs": 3.53
+  },
+  {
+   "fdcId": 170459,
+   "dataType": "SR Legacy",
+   "description": "Tomato products, canned, paste, without salt added (Includes foods for USDA's Food Distribution Program)",
+   "carbs": 18.9,
+   "kcal": 82,
+   "fat": 0.47,
+   "protein": 4.32
+  },
+  {
+   "fdcId": 170546,
+   "dataType": "SR Legacy",
+   "description": "Tomato products, canned, puree, with salt added",
+   "carbs": 8.98,
+   "kcal": 38,
+   "fat": 0.21,
+   "protein": 1.65
+  }
+ ],
+ "carrots raw": [
+  {
+   "fdcId": 2709660,
+   "dataType": "Survey (FNDDS)",
+   "description": "Carrots, raw",
+   "protein": 0.87,
+   "fat": 0.24,
+   "carbs": 9.68,
+   "kcal": 44
+  },
+  {
+   "fdcId": 170393,
+   "dataType": "SR Legacy",
+   "description": "Carrots, raw",
+   "protein": 0.93,
+   "fat": 0.24,
+   "carbs": 9.58,
+   "kcal": 41
+  },
+  {
+   "fdcId": 2709661,
+   "dataType": "Survey (FNDDS)",
+   "description": "Carrots, raw, salad",
+   "protein": 1.25,
+   "fat": 15.74,
+   "carbs": 17.62,
+   "kcal": 212
+  },
+  {
+   "fdcId": 2258587,
+   "dataType": "Foundation",
+   "description": "Carrots, baby, raw",
+   "fat": 0.138,
+   "protein": 0.805,
+   "carbs": 9.08,
+   "kcal": 40.8
+  },
+  {
+   "fdcId": 168568,
+   "dataType": "SR Legacy",
+   "description": "Carrots, baby, raw",
+   "carbs": 8.24,
+   "kcal": 35,
+   "protein": 0.64,
+   "fat": 0.13
+  }
+ ],
+ "broccoli raw": [
+  {
+   "fdcId": 2709643,
+   "dataType": "Survey (FNDDS)",
+   "description": "Broccoli, raw",
+   "protein": 2.57,
+   "fat": 0.34,
+   "carbs": 6.27,
+   "kcal": 39
+  },
+  {
+   "fdcId": 747447,
+   "dataType": "Foundation",
+   "description": "Broccoli, raw",
+   "carbs": 6.27,
+   "kcal": 31,
+   "fat": 0.34,
+   "protein": 2.57
+  },
+  {
+   "fdcId": 170379,
+   "dataType": "SR Legacy",
+   "description": "Broccoli, raw",
+   "carbs": 6.64,
+   "kcal": 34,
+   "fat": 0.37,
+   "protein": 2.82
+  },
+  {
+   "fdcId": 170381,
+   "dataType": "SR Legacy",
+   "description": "Broccoli raab, raw",
+   "carbs": 2.85,
+   "kcal": 22,
+   "fat": 0.49,
+   "protein": 3.17
+  },
+  {
+   "fdcId": 2709572,
+   "dataType": "Survey (FNDDS)",
+   "description": "Broccoli raab, raw",
+   "protein": 3.17,
+   "fat": 0.49,
+   "carbs": 2.85,
+   "kcal": 22
+  }
+ ],
+ "spinach raw": [
+  {
+   "fdcId": 2709614,
+   "dataType": "Survey (FNDDS)",
+   "description": "Spinach, raw",
+   "protein": 2.85,
+   "fat": 0.62,
+   "carbs": 2.41,
+   "kcal": 27
+  },
+  {
+   "fdcId": 168462,
+   "dataType": "SR Legacy",
+   "description": "Spinach, raw",
+   "protein": 2.86,
+   "fat": 0.39,
+   "carbs": 3.63,
+   "kcal": 23
+  },
+  {
+   "fdcId": 168438,
+   "dataType": "SR Legacy",
+   "description": "Mustard spinach, (tendergreen), raw",
+   "protein": 2.2,
+   "fat": 0.3,
+   "carbs": 3.9,
+   "kcal": 22
+  },
+  {
+   "fdcId": 168440,
+   "dataType": "SR Legacy",
+   "description": "New Zealand spinach, raw",
+   "protein": 1.5,
+   "fat": 0.2,
+   "carbs": 2.5,
+   "kcal": 14
+  },
+  {
+   "fdcId": 2709628,
+   "dataType": "Survey (FNDDS)",
+   "description": "Spinach, creamed",
+   "protein": 2.39,
+   "fat": 6.09,
+   "carbs": 6.11,
+   "kcal": 90
+  }
+ ],
+ "cabbage raw": [
+  {
+   "fdcId": 169975,
+   "dataType": "SR Legacy",
+   "description": "Cabbage, raw",
+   "fat": 0.1,
+   "carbs": 5.8,
+   "kcal": 25,
+   "protein": 1.28
+  },
+  {
+   "fdcId": 2709775,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cabbage, red, raw",
+   "protein": 1.24,
+   "fat": 0.21,
+   "carbs": 6.79,
+   "kcal": 34
+  },
+  {
+   "fdcId": 2709773,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cabbage, green, raw",
+   "protein": 0.96,
+   "fat": 0.23,
+   "carbs": 6.38,
+   "kcal": 31
+  },
+  {
+   "fdcId": 2709774,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cabbage, Chinese, raw",
+   "protein": 1.5,
+   "fat": 0.2,
+   "carbs": 2.18,
+   "kcal": 13
+  },
+  {
+   "fdcId": 2346407,
+   "dataType": "Foundation",
+   "description": "Cabbage, green, raw",
+   "fat": 0.228,
+   "kcal": 31.4,
+   "protein": 0.961,
+   "carbs": 6.38
+  }
+ ],
+ "lettuce cos or romaine raw": [
+  {
+   "fdcId": 169247,
+   "dataType": "SR Legacy",
+   "description": "Lettuce, cos or romaine, raw",
+   "carbs": 3.29,
+   "kcal": 17,
+   "fat": 0.3,
+   "protein": 1.23
+  },
+  {
+   "fdcId": 746769,
+   "dataType": "Foundation",
+   "description": "Lettuce, cos or romaine, raw",
+   "carbs": 3.24,
+   "kcal": 17,
+   "fat": 0.26,
+   "protein": 1.24
+  },
+  {
+   "fdcId": 2709590,
+   "dataType": "Survey (FNDDS)",
+   "description": "Romaine lettuce, raw",
+   "protein": 0.98,
+   "fat": 0.07,
+   "carbs": 4.06,
+   "kcal": 21
+  },
+  {
+   "fdcId": 2346389,
+   "dataType": "Foundation",
+   "description": "Lettuce, romaine, green, raw",
+   "fat": 0.0712,
+   "protein": 0.977,
+   "carbs": 4.06,
+   "kcal": 20.8
+  },
+  {
+   "fdcId": 2709789,
+   "dataType": "Survey (FNDDS)",
+   "description": "Lettuce, raw",
+   "protein": 0.92,
+   "fat": 0.1,
+   "carbs": 3.69,
+   "kcal": 20
+  }
+ ],
+ "cucumber with peel raw": [
+  {
+   "fdcId": 169225,
+   "dataType": "SR Legacy",
+   "description": "Cucumber, peeled, raw",
+   "kcal": 10,
+   "carbs": 2.16,
+   "fat": 0.16,
+   "protein": 0.59
+  },
+  {
+   "fdcId": 2346406,
+   "dataType": "Foundation",
+   "description": "Cucumber, with peel, raw",
+   "fat": 0.178,
+   "kcal": 15.9,
+   "protein": 0.625,
+   "carbs": 2.95
+  },
+  {
+   "fdcId": 168409,
+   "dataType": "SR Legacy",
+   "description": "Cucumber, with peel, raw",
+   "carbs": 3.63,
+   "kcal": 15,
+   "fat": 0.11,
+   "protein": 0.65
+  },
+  {
+   "fdcId": 2709784,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cucumber, raw",
+   "protein": 0.62,
+   "fat": 0.18,
+   "carbs": 2.95,
+   "kcal": 16
+  },
+  {
+   "fdcId": 167749,
+   "dataType": "SR Legacy",
+   "description": "Lemon peel, raw",
+   "kcal": 47,
+   "protein": 1.5,
+   "fat": 0.3,
+   "carbs": 16
+  }
+ ],
+ "peppers sweet red raw": [
+  {
+   "fdcId": 170108,
+   "dataType": "SR Legacy",
+   "description": "Peppers, sweet, red, raw",
+   "kcal": 26,
+   "carbs": 6.03,
+   "protein": 0.99,
+   "fat": 0.3
+  },
+  {
+   "fdcId": 2709801,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, sweet, red, raw",
+   "protein": 0.9,
+   "fat": 0.13,
+   "carbs": 6.65,
+   "kcal": 31
+  },
+  {
+   "fdcId": 2258590,
+   "dataType": "Foundation",
+   "description": "Peppers, bell, red, raw",
+   "fat": 0.126,
+   "carbs": 6.65,
+   "protein": 0.896,
+   "kcal": 31.3
+  },
+  {
+   "fdcId": 2709800,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, sweet, green, raw",
+   "protein": 0.72,
+   "fat": 0.11,
+   "carbs": 4.78,
+   "kcal": 23
+  },
+  {
+   "fdcId": 170427,
+   "dataType": "SR Legacy",
+   "description": "Peppers, sweet, green, raw",
+   "fat": 0.17,
+   "protein": 0.86,
+   "carbs": 4.64,
+   "kcal": 20
+  }
+ ],
+ "peppers sweet green raw": [
+  {
+   "fdcId": 2709800,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, sweet, green, raw",
+   "protein": 0.72,
+   "fat": 0.11,
+   "carbs": 4.78,
+   "kcal": 23
+  },
+  {
+   "fdcId": 170427,
+   "dataType": "SR Legacy",
+   "description": "Peppers, sweet, green, raw",
+   "fat": 0.17,
+   "protein": 0.86,
+   "carbs": 4.64,
+   "kcal": 20
+  },
+  {
+   "fdcId": 2258588,
+   "dataType": "Foundation",
+   "description": "Peppers, bell, green, raw",
+   "fat": 0.106,
+   "protein": 0.715,
+   "carbs": 4.78,
+   "kcal": 22.9
+  },
+  {
+   "fdcId": 170108,
+   "dataType": "SR Legacy",
+   "description": "Peppers, sweet, red, raw",
+   "kcal": 26,
+   "carbs": 6.03,
+   "protein": 0.99,
+   "fat": 0.3
+  },
+  {
+   "fdcId": 2709801,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, sweet, red, raw",
+   "protein": 0.9,
+   "fat": 0.13,
+   "carbs": 6.65,
+   "kcal": 31
+  }
+ ],
+ "peppers jalapeno raw": [
+  {
+   "fdcId": 168576,
+   "dataType": "SR Legacy",
+   "description": "Peppers, jalapeno, raw",
+   "protein": 0.91,
+   "fat": 0.37,
+   "carbs": 6.5,
+   "kcal": 29
+  },
+  {
+   "fdcId": 2747661,
+   "dataType": "Foundation",
+   "description": "Peppers, jalapeno, seeded, raw",
+   "fat": 0.149,
+   "carbs": 5.08,
+   "protein": 0.621,
+   "kcal": 24.1
+  },
+  {
+   "fdcId": 2710096,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, jalapenos",
+   "protein": 0.86,
+   "fat": 0.38,
+   "carbs": 5.53,
+   "kcal": 26
+  },
+  {
+   "fdcId": 2710045,
+   "dataType": "Survey (FNDDS)",
+   "description": "Stuffed jalapeno pepper",
+   "protein": 8.82,
+   "fat": 15.93,
+   "carbs": 16.5,
+   "kcal": 241
+  },
+  {
+   "fdcId": 2709798,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, hot, raw",
+   "protein": 1.39,
+   "fat": 0.4,
+   "carbs": 7.66,
+   "kcal": 34
+  }
+ ],
+ "mushrooms white raw": [
+  {
+   "fdcId": 169251,
+   "dataType": "SR Legacy",
+   "description": "Mushrooms, white, raw",
+   "fat": 0.34,
+   "protein": 3.09,
+   "carbs": 3.26,
+   "kcal": 22
+  },
+  {
+   "fdcId": 2709793,
+   "dataType": "Survey (FNDDS)",
+   "description": "Mushrooms, raw",
+   "protein": 2.9,
+   "fat": 0.35,
+   "carbs": 4.13,
+   "kcal": 31
+  },
+  {
+   "fdcId": 169376,
+   "dataType": "SR Legacy",
+   "description": "Mushroom, white, exposed to ultraviolet light, raw",
+   "fat": 0.34,
+   "carbs": 3.26,
+   "kcal": 22,
+   "protein": 3.09
+  },
+  {
+   "fdcId": 168422,
+   "dataType": "SR Legacy",
+   "description": "Mushrooms, Chanterelle, raw",
+   "kcal": 32,
+   "protein": 1.49,
+   "fat": 0.53,
+   "carbs": 6.86
+  },
+  {
+   "fdcId": 169382,
+   "dataType": "SR Legacy",
+   "description": "Mushrooms, enoki, raw",
+   "carbs": 7.81,
+   "kcal": 37,
+   "fat": 0.29,
+   "protein": 2.66
+  }
+ ],
+ "squash summer zucchini includes skin raw": [
+  {
+   "fdcId": 169291,
+   "dataType": "SR Legacy",
+   "description": "Squash, summer, zucchini, includes skin, raw",
+   "fat": 0.32,
+   "carbs": 3.11,
+   "kcal": 17,
+   "protein": 1.21
+  },
+  {
+   "fdcId": 2685568,
+   "dataType": "Foundation",
+   "description": "Squash, summer, green, zucchini, includes skin, raw",
+   "fat": 0.205,
+   "protein": 0.984,
+   "kcal": 19,
+   "carbs": 3.27
+  },
+  {
+   "fdcId": 168469,
+   "dataType": "SR Legacy",
+   "description": "Squash, summer, zucchini, includes skin, frozen, unprepared",
+   "carbs": 3.58,
+   "fat": 0.13,
+   "kcal": 17,
+   "protein": 1.16
+  },
+  {
+   "fdcId": 2685569,
+   "dataType": "Foundation",
+   "description": "Squash, summer, yellow, includes skin, raw",
+   "fat": 0.135,
+   "protein": 0.891,
+   "kcal": 22,
+   "carbs": 4.39
+  },
+  {
+   "fdcId": 170534,
+   "dataType": "SR Legacy",
+   "description": "Squash, summer, zucchini, includes skin, cooked, boiled, drained, with salt",
+   "protein": 1.14,
+   "fat": 0.36,
+   "kcal": 15,
+   "carbs": 2.69
+  }
+ ],
+ "eggplant raw": [
+  {
+   "fdcId": 2709785,
+   "dataType": "Survey (FNDDS)",
+   "description": "Eggplant, raw",
+   "protein": 0.98,
+   "fat": 0.18,
+   "carbs": 5.88,
+   "kcal": 25
+  },
+  {
+   "fdcId": 169228,
+   "dataType": "SR Legacy",
+   "description": "Eggplant, raw",
+   "fat": 0.18,
+   "carbs": 5.88,
+   "kcal": 25,
+   "protein": 0.98
+  },
+  {
+   "fdcId": 2685577,
+   "dataType": "Foundation",
+   "description": "Eggplant, raw",
+   "fat": 0.12,
+   "protein": 0.852,
+   "carbs": 5.4,
+   "kcal": 26.1
+  },
+  {
+   "fdcId": 2710049,
+   "dataType": "Survey (FNDDS)",
+   "description": "Eggplant dip",
+   "protein": 4.8,
+   "fat": 14.98,
+   "carbs": 8.15,
+   "kcal": 183
+  },
+  {
+   "fdcId": 169892,
+   "dataType": "SR Legacy",
+   "description": "Eggplant, pickled",
+   "fat": 0.7,
+   "carbs": 9.77,
+   "kcal": 49,
+   "protein": 0.9
+  }
+ ],
+ "celery raw": [
+  {
+   "fdcId": 2709778,
+   "dataType": "Survey (FNDDS)",
+   "description": "Celery, raw",
+   "protein": 0.49,
+   "fat": 0.16,
+   "carbs": 3.32,
+   "kcal": 17
+  },
+  {
+   "fdcId": 2346405,
+   "dataType": "Foundation",
+   "description": "Celery, raw",
+   "fat": 0.162,
+   "protein": 0.492,
+   "carbs": 3.32,
+   "kcal": 16.7
+  },
+  {
+   "fdcId": 169988,
+   "dataType": "SR Legacy",
+   "description": "Celery, raw",
+   "kcal": 14,
+   "carbs": 2.97,
+   "fat": 0.17,
+   "protein": 0.69
+  },
+  {
+   "fdcId": 2709811,
+   "dataType": "Survey (FNDDS)",
+   "description": "Celery juice",
+   "protein": 0.49,
+   "fat": 0.16,
+   "carbs": 3.32,
+   "kcal": 17
+  },
+  {
+   "fdcId": 2709906,
+   "dataType": "Survey (FNDDS)",
+   "description": "Celery, cooked",
+   "protein": 0.52,
+   "fat": 2.9,
+   "carbs": 3.46,
+   "kcal": 42
+  }
+ ],
+ "corn sweet yellow raw": [
+  {
+   "fdcId": 169998,
+   "dataType": "SR Legacy",
+   "description": "Corn, sweet, yellow, raw",
+   "protein": 3.27,
+   "fat": 1.35,
+   "carbs": 18.7,
+   "kcal": 86
+  },
+  {
+   "fdcId": 2710826,
+   "dataType": "Foundation",
+   "description": "Corn, sweet, yellow and white kernels, \u00a0fresh, raw",
+   "fat": 1.63,
+   "kcal": 84.6,
+   "protein": 2.79,
+   "carbs": 14.7
+  },
+  {
+   "fdcId": 169383,
+   "dataType": "SR Legacy",
+   "description": "Peppers, sweet, yellow, raw",
+   "carbs": 6.32,
+   "kcal": 27,
+   "protein": 1,
+   "fat": 0.21
+  },
+  {
+   "fdcId": 168538,
+   "dataType": "SR Legacy",
+   "description": "Corn, sweet, white, raw",
+   "carbs": 19,
+   "kcal": 86,
+   "protein": 3.22,
+   "fat": 1.18
+  },
+  {
+   "fdcId": 790646,
+   "dataType": "Foundation",
+   "description": "Onions, yellow, raw",
+   "protein": 0.83,
+   "fat": 0.05,
+   "carbs": 8.61,
+   "kcal": 38
+  }
+ ],
+ "peas green frozen unprepared": [
+  {
+   "fdcId": 170425,
+   "dataType": "SR Legacy",
+   "description": "Peas and carrots, frozen, unprepared",
+   "protein": 3.4,
+   "fat": 0.47,
+   "carbs": 11.2,
+   "kcal": 53
+  },
+  {
+   "fdcId": 170020,
+   "dataType": "SR Legacy",
+   "description": "Peas and onions, frozen, unprepared",
+   "fat": 0.32,
+   "carbs": 13.5,
+   "kcal": 70,
+   "protein": 3.98
+  },
+  {
+   "fdcId": 170012,
+   "dataType": "SR Legacy",
+   "description": "Peas, edible-podded, frozen, unprepared",
+   "protein": 2.8,
+   "fat": 0.3,
+   "carbs": 7.2,
+   "kcal": 42
+  },
+  {
+   "fdcId": 169258,
+   "dataType": "SR Legacy",
+   "description": "Mustard greens, frozen, unprepared",
+   "protein": 2.49,
+   "fat": 0.27,
+   "carbs": 3.41,
+   "kcal": 20
+  },
+  {
+   "fdcId": 170468,
+   "dataType": "SR Legacy",
+   "description": "Turnip greens, frozen, unprepared",
+   "fat": 0.31,
+   "carbs": 3.67,
+   "kcal": 22,
+   "protein": 2.47
+  }
+ ],
+ "beans snap green raw": [
+  {
+   "fdcId": 2346400,
+   "dataType": "Foundation",
+   "description": "Beans, snap, green, raw",
+   "fat": 0.275,
+   "kcal": 40,
+   "protein": 1.97,
+   "carbs": 7.41
+  },
+  {
+   "fdcId": 169961,
+   "dataType": "SR Legacy",
+   "description": "Beans, snap, green, raw",
+   "fat": 0.22,
+   "protein": 1.83,
+   "carbs": 6.97,
+   "kcal": 31
+  },
+  {
+   "fdcId": 169320,
+   "dataType": "SR Legacy",
+   "description": "Beans, snap, yellow, raw",
+   "carbs": 7.13,
+   "kcal": 31,
+   "protein": 1.82,
+   "fat": 0.12
+  },
+  {
+   "fdcId": 169965,
+   "dataType": "SR Legacy",
+   "description": "Beans, snap, green, microwaved",
+   "kcal": 33,
+   "protein": 2.31,
+   "fat": 0.5,
+   "carbs": 6.41
+  },
+  {
+   "fdcId": 2709769,
+   "dataType": "Survey (FNDDS)",
+   "description": "Green beans, raw",
+   "protein": 1.97,
+   "fat": 0.28,
+   "carbs": 7.41,
+   "kcal": 40
+  }
+ ],
+ "avocados raw all commercial varieties": [
+  {
+   "fdcId": 171705,
+   "dataType": "SR Legacy",
+   "description": "Avocados, raw, all commercial varieties",
+   "protein": 2,
+   "fat": 14.7,
+   "carbs": 8.53,
+   "kcal": 160
+  },
+  {
+   "fdcId": 169097,
+   "dataType": "SR Legacy",
+   "description": "Oranges, raw, all commercial varieties",
+   "fat": 0.12,
+   "carbs": 11.8,
+   "kcal": 47,
+   "protein": 0.94
+  },
+  {
+   "fdcId": 169124,
+   "dataType": "SR Legacy",
+   "description": "Pineapple, raw, all varieties",
+   "protein": 0.54,
+   "fat": 0.12,
+   "carbs": 13.1,
+   "kcal": 50
+  },
+  {
+   "fdcId": 170487,
+   "dataType": "SR Legacy",
+   "description": "Squash, summer, all varieties, raw",
+   "fat": 0.18,
+   "carbs": 3.35,
+   "kcal": 16,
+   "protein": 1.21
+  },
+  {
+   "fdcId": 170489,
+   "dataType": "SR Legacy",
+   "description": "Squash, winter, all varieties, raw",
+   "fat": 0.13,
+   "carbs": 8.59,
+   "kcal": 34,
+   "protein": 0.95
+  }
+ ],
+ "lemons raw without peel": [
+  {
+   "fdcId": 167746,
+   "dataType": "SR Legacy",
+   "description": "Lemons, raw, without peel",
+   "protein": 1.1,
+   "fat": 0.3,
+   "carbs": 9.32,
+   "kcal": 29
+  },
+  {
+   "fdcId": 167749,
+   "dataType": "SR Legacy",
+   "description": "Lemon peel, raw",
+   "kcal": 47,
+   "protein": 1.5,
+   "fat": 0.3,
+   "carbs": 16
+  },
+  {
+   "fdcId": 171689,
+   "dataType": "SR Legacy",
+   "description": "Apples, raw, without skin",
+   "carbs": 12.8,
+   "kcal": 48,
+   "protein": 0.27,
+   "fat": 0.13
+  },
+  {
+   "fdcId": 169225,
+   "dataType": "SR Legacy",
+   "description": "Cucumber, peeled, raw",
+   "kcal": 10,
+   "carbs": 2.16,
+   "fat": 0.16,
+   "protein": 0.59
+  },
+  {
+   "fdcId": 2346406,
+   "dataType": "Foundation",
+   "description": "Cucumber, with peel, raw",
+   "fat": 0.178,
+   "kcal": 15.9,
+   "protein": 0.625,
+   "carbs": 2.95
+  }
+ ],
+ "limes raw": [
+  {
+   "fdcId": 2709170,
+   "dataType": "Survey (FNDDS)",
+   "description": "Lime, raw",
+   "protein": 0.7,
+   "fat": 0.2,
+   "carbs": 10.54,
+   "kcal": 30
+  },
+  {
+   "fdcId": 168155,
+   "dataType": "SR Legacy",
+   "description": "Limes, raw",
+   "fat": 0.2,
+   "carbs": 10.5,
+   "protein": 0.7,
+   "kcal": 30
+  },
+  {
+   "fdcId": 168156,
+   "dataType": "SR Legacy",
+   "description": "Lime juice, raw",
+   "protein": 0.42,
+   "fat": 0.07,
+   "carbs": 8.42,
+   "kcal": 25
+  },
+  {
+   "fdcId": 2709164,
+   "dataType": "Survey (FNDDS)",
+   "description": "Clementine, raw",
+   "protein": 0.81,
+   "fat": 0.31,
+   "carbs": 13.34,
+   "kcal": 53
+  },
+  {
+   "fdcId": 167782,
+   "dataType": "SR Legacy",
+   "description": "Abiyuch, raw",
+   "carbs": 17.6,
+   "kcal": 69,
+   "fat": 0.1,
+   "protein": 1.5
+  }
+ ],
+ "lemon juice raw": [
+  {
+   "fdcId": 167747,
+   "dataType": "SR Legacy",
+   "description": "Lemon juice, raw",
+   "protein": 0.35,
+   "fat": 0.24,
+   "carbs": 6.9,
+   "kcal": 22
+  },
+  {
+   "fdcId": 2709168,
+   "dataType": "Survey (FNDDS)",
+   "description": "Lemon, raw",
+   "protein": 1.1,
+   "fat": 0.3,
+   "carbs": 9.32,
+   "kcal": 29
+  },
+  {
+   "fdcId": 167749,
+   "dataType": "SR Legacy",
+   "description": "Lemon peel, raw",
+   "kcal": 47,
+   "protein": 1.5,
+   "fat": 0.3,
+   "carbs": 16
+  },
+  {
+   "fdcId": 171687,
+   "dataType": "SR Legacy",
+   "description": "Acerola juice, raw",
+   "kcal": 23,
+   "protein": 0.4,
+   "fat": 0.3,
+   "carbs": 4.8
+  },
+  {
+   "fdcId": 168156,
+   "dataType": "SR Legacy",
+   "description": "Lime juice, raw",
+   "protein": 0.42,
+   "fat": 0.07,
+   "carbs": 8.42,
+   "kcal": 25
+  }
+ ],
+ "lime juice raw": [
+  {
+   "fdcId": 168156,
+   "dataType": "SR Legacy",
+   "description": "Lime juice, raw",
+   "protein": 0.42,
+   "fat": 0.07,
+   "carbs": 8.42,
+   "kcal": 25
+  },
+  {
+   "fdcId": 2709170,
+   "dataType": "Survey (FNDDS)",
+   "description": "Lime, raw",
+   "protein": 0.7,
+   "fat": 0.2,
+   "carbs": 10.54,
+   "kcal": 30
+  },
+  {
+   "fdcId": 168155,
+   "dataType": "SR Legacy",
+   "description": "Limes, raw",
+   "fat": 0.2,
+   "carbs": 10.5,
+   "protein": 0.7,
+   "kcal": 30
+  },
+  {
+   "fdcId": 171687,
+   "dataType": "SR Legacy",
+   "description": "Acerola juice, raw",
+   "kcal": 23,
+   "protein": 0.4,
+   "fat": 0.3,
+   "carbs": 4.8
+  },
+  {
+   "fdcId": 167747,
+   "dataType": "SR Legacy",
+   "description": "Lemon juice, raw",
+   "protein": 0.35,
+   "fat": 0.24,
+   "carbs": 6.9,
+   "kcal": 22
+  }
+ ],
+ "apples raw with skin": [
+  {
+   "fdcId": 1750340,
+   "dataType": "Foundation",
+   "description": "Apples, fuji, with skin, raw",
+   "fat": 0.162,
+   "protein": 0.148,
+   "carbs": 15.7,
+   "kcal": 64.7
+  },
+  {
+   "fdcId": 1750341,
+   "dataType": "Foundation",
+   "description": "Apples, gala, with skin, raw",
+   "fat": 0.15,
+   "protein": 0.133,
+   "carbs": 14.8,
+   "kcal": 61
+  },
+  {
+   "fdcId": 1750343,
+   "dataType": "Foundation",
+   "description": "Apples, honeycrisp, with skin, raw",
+   "fat": 0.1,
+   "protein": 0.102,
+   "carbs": 14.7,
+   "kcal": 60
+  },
+  {
+   "fdcId": 171689,
+   "dataType": "SR Legacy",
+   "description": "Apples, raw, without skin",
+   "carbs": 12.8,
+   "kcal": 48,
+   "protein": 0.27,
+   "fat": 0.13
+  },
+  {
+   "fdcId": 1750342,
+   "dataType": "Foundation",
+   "description": "Apples, granny smith, with skin, raw",
+   "fat": 0.138,
+   "protein": 0.266,
+   "carbs": 14.1,
+   "kcal": 58.9
+  }
+ ],
+ "bananas raw": [
+  {
+   "fdcId": 2709224,
+   "dataType": "Survey (FNDDS)",
+   "description": "Banana, raw",
+   "protein": 0.74,
+   "fat": 0.28,
+   "carbs": 22.71,
+   "kcal": 97
+  },
+  {
+   "fdcId": 173944,
+   "dataType": "SR Legacy",
+   "description": "Bananas, raw",
+   "carbs": 22.8,
+   "kcal": 89,
+   "protein": 1.09,
+   "fat": 0.33
+  },
+  {
+   "fdcId": 1105073,
+   "dataType": "Foundation",
+   "description": "Bananas, overripe, raw",
+   "fat": 0.22,
+   "protein": 0.73,
+   "carbs": 20.1,
+   "kcal": 85
+  },
+  {
+   "fdcId": 169394,
+   "dataType": "SR Legacy",
+   "description": "Pepper, banana, raw",
+   "protein": 1.66,
+   "fat": 0.45,
+   "carbs": 5.35,
+   "kcal": 27
+  },
+  {
+   "fdcId": 2709802,
+   "dataType": "Survey (FNDDS)",
+   "description": "Peppers, banana, raw",
+   "protein": 1.66,
+   "fat": 0.45,
+   "carbs": 5.35,
+   "kcal": 27
+  }
+ ],
+ "beans black mature seeds canned low sodium": [
+  {
+   "fdcId": 175238,
+   "dataType": "SR Legacy",
+   "description": "Beans, black, mature seeds, canned, low sodium",
+   "protein": 6.03,
+   "fat": 0.29,
+   "carbs": 16.6,
+   "kcal": 91
+  },
+  {
+   "fdcId": 173791,
+   "dataType": "SR Legacy",
+   "description": "Beans, great northern, mature seeds, canned, low sodium",
+   "fat": 0.39,
+   "carbs": 21,
+   "kcal": 114,
+   "protein": 7.37
+  },
+  {
+   "fdcId": 175247,
+   "dataType": "SR Legacy",
+   "description": "Beans, pinto, mature seeds, canned, solids and liquids, low sodium",
+   "fat": 0.56,
+   "carbs": 15.2,
+   "kcal": 82,
+   "protein": 4.6
+  },
+  {
+   "fdcId": 175188,
+   "dataType": "SR Legacy",
+   "description": "Beans, black turtle, mature seeds, canned",
+   "carbs": 16.6,
+   "protein": 6.03,
+   "fat": 0.29,
+   "kcal": 91
+  },
+  {
+   "fdcId": 175245,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium",
+   "protein": 5.22,
+   "fat": 0.36,
+   "carbs": 14.8,
+   "kcal": 81
+  }
+ ],
+ "beans kidney red mature seeds canned": [
+  {
+   "fdcId": 174285,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, red, mature seeds, canned, drained solids",
+   "fat": 1.05,
+   "carbs": 21.5,
+   "kcal": 124,
+   "protein": 7.98
+  },
+  {
+   "fdcId": 175195,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, red, mature seeds, canned, solids and liquids",
+   "carbs": 14.8,
+   "kcal": 81,
+   "protein": 5.22,
+   "fat": 0.36
+  },
+  {
+   "fdcId": 173744,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, red, mature seeds, raw",
+   "carbs": 61.3,
+   "kcal": 337,
+   "protein": 22.5,
+   "fat": 1.06
+  },
+  {
+   "fdcId": 173741,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, all types, mature seeds, canned",
+   "fat": 0.6,
+   "protein": 5.22,
+   "carbs": 14.5,
+   "kcal": 84
+  },
+  {
+   "fdcId": 175245,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium",
+   "protein": 5.22,
+   "fat": 0.36,
+   "carbs": 14.8,
+   "kcal": 81
+  }
+ ],
+ "chickpeas garbanzo beans mature seeds canned drained": [
+  {
+   "fdcId": 173800,
+   "dataType": "SR Legacy",
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+   "protein": 7.05,
+   "fat": 2.77,
+   "carbs": 22.5,
+   "kcal": 139
+  },
+  {
+   "fdcId": 173801,
+   "dataType": "SR Legacy",
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+   "fat": 2.47,
+   "carbs": 22.9,
+   "kcal": 138,
+   "protein": 7.04
+  },
+  {
+   "fdcId": 175206,
+   "dataType": "SR Legacy",
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids",
+   "fat": 1.95,
+   "carbs": 13.5,
+   "kcal": 88,
+   "protein": 4.92
+  },
+  {
+   "fdcId": 173756,
+   "dataType": "SR Legacy",
+   "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+   "carbs": 63,
+   "kcal": 378,
+   "protein": 20.5,
+   "fat": 6.04
+  },
+  {
+   "fdcId": 174285,
+   "dataType": "SR Legacy",
+   "description": "Beans, kidney, red, mature seeds, canned, drained solids",
+   "fat": 1.05,
+   "carbs": 21.5,
+   "kcal": 124,
+   "protein": 7.98
+  }
+ ],
+ "lentils raw": [
+  {
+   "fdcId": 172420,
+   "dataType": "SR Legacy",
+   "description": "Lentils, raw",
+   "fat": 1.06,
+   "protein": 24.6,
+   "carbs": 63.4,
+   "kcal": 352
+  },
+  {
+   "fdcId": 168427,
+   "dataType": "SR Legacy",
+   "description": "Lentils, sprouted, raw",
+   "fat": 0.55,
+   "carbs": 22.1,
+   "kcal": 106,
+   "protein": 8.96
+  },
+  {
+   "fdcId": 174284,
+   "dataType": "SR Legacy",
+   "description": "Lentils, pink or red, raw",
+   "carbs": 63.1,
+   "kcal": 358,
+   "protein": 23.9,
+   "fat": 2.17
+  },
+  {
+   "fdcId": 2707431,
+   "dataType": "Survey (FNDDS)",
+   "description": "Lentil curry",
+   "protein": 3.68,
+   "fat": 5.65,
+   "carbs": 12.33,
+   "kcal": 111
+  },
+  {
+   "fdcId": 2644283,
+   "dataType": "Foundation",
+   "description": "Lentils, dry",
+   "fat": 1.92,
+   "protein": 23.6,
+   "carbs": 62.2,
+   "kcal": 360
+  }
+ ],
+ "tofu raw firm prepared with calcium sulfate": [
+  {
+   "fdcId": 172475,
+   "dataType": "SR Legacy",
+   "description": "Tofu, raw, firm, prepared with calcium sulfate",
+   "carbs": 2.78,
+   "kcal": 144,
+   "protein": 17.3,
+   "fat": 8.72
+  },
+  {
+   "fdcId": 172476,
+   "dataType": "SR Legacy",
+   "description": "Tofu, raw, regular, prepared with calcium sulfate",
+   "carbs": 1.87,
+   "fat": 4.78,
+   "kcal": 76,
+   "protein": 8.08
+  },
+  {
+   "fdcId": 172448,
+   "dataType": "SR Legacy",
+   "description": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)",
+   "protein": 9.04,
+   "carbs": 2.85,
+   "kcal": 78,
+   "fat": 4.17
+  },
+  {
+   "fdcId": 174304,
+   "dataType": "SR Legacy",
+   "description": "Tofu, fried, prepared with calcium sulfate",
+   "protein": 18.8,
+   "carbs": 8.86,
+   "kcal": 270,
+   "fat": 20.2
+  },
+  {
+   "fdcId": 174303,
+   "dataType": "SR Legacy",
+   "description": "Tofu, dried-frozen (koyadofu), prepared with calcium sulfate",
+   "carbs": 8.3,
+   "kcal": 470,
+   "protein": 52.4,
+   "fat": 30.3
+  }
+ ],
+ "oil olive salad or cooking": [
+  {
+   "fdcId": 171413,
+   "dataType": "SR Legacy",
+   "description": "Oil, olive, salad or cooking",
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 884,
+   "protein": 0
+  },
+  {
+   "fdcId": 171024,
+   "dataType": "SR Legacy",
+   "description": "Oil, cottonseed, salad or cooking",
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 884,
+   "protein": 0
+  },
+  {
+   "fdcId": 171410,
+   "dataType": "SR Legacy",
+   "description": "Oil, peanut, salad or cooking",
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 884,
+   "protein": 0
+  },
+  {
+   "fdcId": 171016,
+   "dataType": "SR Legacy",
+   "description": "Oil, sesame, salad or cooking",
+   "protein": 0,
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 884
+  },
+  {
+   "fdcId": 171411,
+   "dataType": "SR Legacy",
+   "description": "Oil, soybean, salad or cooking",
+   "protein": 0,
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 884
+  }
+ ],
+ "oil canola": [
+  {
+   "fdcId": 748278,
+   "dataType": "Foundation",
+   "description": "Oil, canola"
+  },
+  {
+   "fdcId": 172336,
+   "dataType": "SR Legacy",
+   "description": "Oil, canola",
+   "fat": 100,
+   "protein": 0,
+   "carbs": 0,
+   "kcal": 884
+  },
+  {
+   "fdcId": 2710188,
+   "dataType": "Survey (FNDDS)",
+   "description": "Canola oil",
+   "protein": 0,
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 900
+  },
+  {
+   "fdcId": 169867,
+   "dataType": "SR Legacy",
+   "description": "Oil, corn and canola",
+   "protein": 0,
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 884
+  },
+  {
+   "fdcId": 171042,
+   "dataType": "SR Legacy",
+   "description": "Oil, industrial, canola, high oleic",
+   "protein": 0,
+   "fat": 100,
+   "carbs": 0,
+   "kcal": 900
+  }
+ ],
+ "soy sauce made from soy and wheat shoyu": [
+  {
+   "fdcId": 174277,
+   "dataType": "SR Legacy",
+   "description": "Soy sauce made from soy and wheat (shoyu)",
+   "fat": 0.57,
+   "carbs": 4.93,
+   "protein": 8.14,
+   "kcal": 53
+  },
+  {
+   "fdcId": 172473,
+   "dataType": "SR Legacy",
+   "description": "Soy sauce made from soy and wheat (shoyu), low sodium",
+   "protein": 9.05,
+   "fat": 0.3,
+   "carbs": 5.59,
+   "kcal": 57
+  },
+  {
+   "fdcId": 174278,
+   "dataType": "SR Legacy",
+   "description": "Soy sauce made from soy (tamari)",
+   "carbs": 5.57,
+   "kcal": 60,
+   "protein": 10.5,
+   "fat": 0.1
+  },
+  {
+   "fdcId": 169884,
+   "dataType": "SR Legacy",
+   "description": "Vermicelli, made from soy",
+   "fat": 0.1,
+   "carbs": 82.3,
+   "kcal": 331,
+   "protein": 0.1
+  },
+  {
+   "fdcId": 2707148,
+   "dataType": "Survey (FNDDS)",
+   "description": "Gravy, made with soy sauce",
+   "protein": 0.82,
+   "fat": 0.29,
+   "carbs": 9.82,
+   "kcal": 46
+  }
+ ],
+ "honey": [
+  {
+   "fdcId": 169640,
+   "dataType": "SR Legacy",
+   "description": "Honey",
+   "protein": 0.3,
+   "fat": 0,
+   "carbs": 82.4,
+   "kcal": 304
+  },
+  {
+   "fdcId": 2710281,
+   "dataType": "Survey (FNDDS)",
+   "description": "Honey",
+   "protein": 0.3,
+   "fat": 0,
+   "carbs": 82.4,
+   "kcal": 304
+  },
+  {
+   "fdcId": 2304639,
+   "dataType": "Branded",
+   "description": "HONEY",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 86.7,
+   "kcal": 333
+  },
+  {
+   "fdcId": 1548359,
+   "dataType": "Branded",
+   "description": "HONEY",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 81,
+   "kcal": 286
+  },
+  {
+   "fdcId": 2500312,
+   "dataType": "Branded",
+   "description": "HONEY",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 81,
+   "kcal": 286
+  }
+ ],
+ "nuts coconut milk canned liquid expressed from grated meat and water": [
+  {
+   "fdcId": 170173,
+   "dataType": "SR Legacy",
+   "description": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)",
+   "fat": 21.3,
+   "carbs": 2.81,
+   "kcal": 197,
+   "protein": 2.02
+  },
+  {
+   "fdcId": 169409,
+   "dataType": "SR Legacy",
+   "description": "Nuts, coconut milk, frozen (liquid expressed from grated meat and water)",
+   "protein": 1.61,
+   "fat": 20.8,
+   "carbs": 5.58,
+   "kcal": 202
+  },
+  {
+   "fdcId": 170172,
+   "dataType": "SR Legacy",
+   "description": "Nuts, coconut milk, raw (liquid expressed from grated meat and water)",
+   "protein": 2.29,
+   "fat": 23.8,
+   "carbs": 5.54,
+   "kcal": 230
+  },
+  {
+   "fdcId": 170580,
+   "dataType": "SR Legacy",
+   "description": "Nuts, coconut cream, raw (liquid expressed from grated meat)",
+   "protein": 3.63,
+   "fat": 34.7,
+   "carbs": 6.65,
+   "kcal": 330
+  },
+  {
+   "fdcId": 170174,
+   "dataType": "SR Legacy",
+   "description": "Nuts, coconut water (liquid from coconuts)",
+   "protein": 0.72,
+   "fat": 0.2,
+   "carbs": 3.71,
+   "kcal": 19
+  }
+ ],
+ "soup stock chicken home-prepared": [
+  {
+   "fdcId": 172884,
+   "dataType": "SR Legacy",
+   "description": "Soup, stock, chicken, home-prepared",
+   "fat": 1.2,
+   "carbs": 3.53,
+   "kcal": 36,
+   "protein": 2.52
+  },
+  {
+   "fdcId": 172883,
+   "dataType": "SR Legacy",
+   "description": "Soup, stock, beef, home-prepared",
+   "protein": 1.97,
+   "fat": 0.09,
+   "carbs": 1.2,
+   "kcal": 13
+  },
+  {
+   "fdcId": 172885,
+   "dataType": "SR Legacy",
+   "description": "Soup, stock, fish, home-prepared",
+   "protein": 2.26,
+   "fat": 0.81,
+   "carbs": 0,
+   "kcal": 16
+  },
+  {
+   "fdcId": 172455,
+   "dataType": "SR Legacy",
+   "description": "Falafel, home-prepared",
+   "protein": 13.3,
+   "fat": 17.8,
+   "carbs": 31.8,
+   "kcal": 333
+  },
+  {
+   "fdcId": 172454,
+   "dataType": "SR Legacy",
+   "description": "Hummus, home prepared",
+   "fat": 8.59,
+   "protein": 4.86,
+   "carbs": 20.1,
+   "kcal": 177
+  }
+ ],
+ "peanut butter smooth style without salt": [
+  {
+   "fdcId": 172470,
+   "dataType": "SR Legacy",
+   "description": "Peanut butter, smooth style, without salt",
+   "protein": 22.2,
+   "fat": 51.4,
+   "carbs": 22.3,
+   "kcal": 598
+  },
+  {
+   "fdcId": 172469,
+   "dataType": "SR Legacy",
+   "description": "Peanut butter, chunk style, without salt",
+   "protein": 24.1,
+   "fat": 49.9,
+   "carbs": 21.6,
+   "kcal": 589
+  },
+  {
+   "fdcId": 173430,
+   "dataType": "SR Legacy",
+   "description": "Butter, without salt",
+   "kcal": 717,
+   "fat": 81.1,
+   "carbs": 0.06,
+   "protein": 0.85
+  },
+  {
+   "fdcId": 174266,
+   "dataType": "SR Legacy",
+   "description": "Peanut butter, smooth style, with salt (Includes foods for USDA's Food Distribution Program)",
+   "protein": 22.2,
+   "fat": 51.4,
+   "carbs": 22.3,
+   "kcal": 598
+  },
+  {
+   "fdcId": 174265,
+   "dataType": "SR Legacy",
+   "description": "Peanut butter, chunk style, with salt",
+   "protein": 24.1,
+   "fat": 49.9,
+   "carbs": 21.6,
+   "kcal": 589
+  }
+ ],
+ "coriander cilantro leaves raw": [
+  {
+   "fdcId": 169997,
+   "dataType": "SR Legacy",
+   "description": "Coriander (cilantro) leaves, raw",
+   "protein": 2.13,
+   "carbs": 3.67,
+   "kcal": 23,
+   "fat": 0.52
+  },
+  {
+   "fdcId": 2709782,
+   "dataType": "Survey (FNDDS)",
+   "description": "Cilantro, raw",
+   "protein": 2.13,
+   "fat": 0.52,
+   "carbs": 3.67,
+   "kcal": 23
+  },
+  {
+   "fdcId": 168416,
+   "dataType": "SR Legacy",
+   "description": "Drumstick leaves, raw",
+   "protein": 9.4,
+   "fat": 1.4,
+   "carbs": 8.28,
+   "kcal": 64
+  },
+  {
+   "fdcId": 168385,
+   "dataType": "SR Legacy",
+   "description": "Amaranth leaves, raw",
+   "carbs": 4.02,
+   "kcal": 23,
+   "fat": 0.33,
+   "protein": 2.46
+  },
+  {
+   "fdcId": 169329,
+   "dataType": "SR Legacy",
+   "description": "Broccoli, leaves, raw",
+   "carbs": 5.06,
+   "fat": 0.35,
+   "kcal": 28,
+   "protein": 2.98
+  }
+ ],
+ "parsley fresh": [
+  {
+   "fdcId": 170416,
+   "dataType": "SR Legacy",
+   "description": "Parsley, fresh",
+   "carbs": 6.33,
+   "kcal": 36,
+   "fat": 0.79,
+   "protein": 2.97
+  },
+  {
+   "fdcId": 2709796,
+   "dataType": "Survey (FNDDS)",
+   "description": "Parsley, raw",
+   "protein": 2.97,
+   "fat": 0.79,
+   "carbs": 6.33,
+   "kcal": 36
+  },
+  {
+   "fdcId": 170486,
+   "dataType": "SR Legacy",
+   "description": "Parsley, freeze-dried",
+   "protein": 31.3,
+   "fat": 5.2,
+   "carbs": 42.4,
+   "kcal": 271
+  },
+  {
+   "fdcId": 170930,
+   "dataType": "SR Legacy",
+   "description": "Spices, parsley, dried",
+   "protein": 26.6,
+   "fat": 5.48,
+   "carbs": 50.6,
+   "kcal": 292
+  },
+  {
+   "fdcId": 2072227,
+   "dataType": "Branded",
+   "description": "FRESH CHOPPED PARSLEY",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 0,
+   "kcal": 0
+  }
+ ],
+ "basil fresh": [
+  {
+   "fdcId": 172232,
+   "dataType": "SR Legacy",
+   "description": "Basil, fresh",
+   "fat": 0.64,
+   "carbs": 2.65,
+   "kcal": 23,
+   "protein": 3.15
+  },
+  {
+   "fdcId": 2709780,
+   "dataType": "Survey (FNDDS)",
+   "description": "Basil, raw",
+   "protein": 3.15,
+   "fat": 0.64,
+   "carbs": 2.65,
+   "kcal": 23
+  },
+  {
+   "fdcId": 171317,
+   "dataType": "SR Legacy",
+   "description": "Spices, basil, dried",
+   "fat": 4.07,
+   "carbs": 47.8,
+   "kcal": 233,
+   "protein": 23
+  },
+  {
+   "fdcId": 2707500,
+   "dataType": "Survey (FNDDS)",
+   "description": "Coconut, fresh",
+   "protein": 3.33,
+   "fat": 33.49,
+   "carbs": 15.23,
+   "kcal": 354
+  },
+  {
+   "fdcId": 170416,
+   "dataType": "SR Legacy",
+   "description": "Parsley, fresh",
+   "carbs": 6.33,
+   "kcal": 36,
+   "fat": 0.79,
+   "protein": 2.97
+  }
+ ],
+ "sauce salsa ready-to-serve": [
+  {
+   "fdcId": 746777,
+   "dataType": "Foundation",
+   "description": "Sauce, salsa, ready-to-serve",
+   "protein": 1.44,
+   "carbs": 6.74,
+   "kcal": 29,
+   "fat": 0.19
+  },
+  {
+   "fdcId": 174524,
+   "dataType": "SR Legacy",
+   "description": "Sauce, salsa, ready-to-serve",
+   "protein": 1.52,
+   "carbs": 6.64,
+   "kcal": 29,
+   "fat": 0.17
+  },
+  {
+   "fdcId": 171824,
+   "dataType": "SR Legacy",
+   "description": "Sauce, salsa, verde, ready-to-serve",
+   "protein": 1.13,
+   "fat": 0.89,
+   "carbs": 6.36,
+   "kcal": 38
+  },
+  {
+   "fdcId": 171191,
+   "dataType": "SR Legacy",
+   "description": "Sauce, cheese, ready-to-serve",
+   "protein": 6.71,
+   "fat": 13.3,
+   "carbs": 6.83,
+   "kcal": 174
+  },
+  {
+   "fdcId": 174067,
+   "dataType": "SR Legacy",
+   "description": "Sauce, cocktail, ready-to-serve",
+   "protein": 1.36,
+   "fat": 1.05,
+   "carbs": 28.2,
+   "kcal": 128
+  }
+ ],
+ "spices cumin seed": [
+  {
+   "fdcId": 170923,
+   "dataType": "SR Legacy",
+   "description": "Spices, cumin seed",
+   "protein": 17.8,
+   "fat": 22.3,
+   "carbs": 44.2,
+   "kcal": 375
+  },
+  {
+   "fdcId": 171316,
+   "dataType": "SR Legacy",
+   "description": "Spices, anise seed",
+   "fat": 15.9,
+   "carbs": 50,
+   "kcal": 337,
+   "protein": 17.6
+  },
+  {
+   "fdcId": 170918,
+   "dataType": "SR Legacy",
+   "description": "Spices, caraway seed",
+   "fat": 14.6,
+   "carbs": 49.9,
+   "kcal": 333,
+   "protein": 19.8
+  },
+  {
+   "fdcId": 170920,
+   "dataType": "SR Legacy",
+   "description": "Spices, celery seed",
+   "fat": 25.3,
+   "carbs": 41.4,
+   "kcal": 392,
+   "protein": 18.1
+  },
+  {
+   "fdcId": 170922,
+   "dataType": "SR Legacy",
+   "description": "Spices, coriander seed",
+   "fat": 17.8,
+   "carbs": 55,
+   "kcal": 298,
+   "protein": 12.4
+  }
+ ],
+ "spices paprika": [
+  {
+   "fdcId": 171329,
+   "dataType": "SR Legacy",
+   "description": "Spices, paprika",
+   "protein": 14.1,
+   "fat": 12.9,
+   "carbs": 54,
+   "kcal": 282
+  },
+  {
+   "fdcId": 171332,
+   "dataType": "SR Legacy",
+   "description": "Spices, pumpkin pie spice",
+   "fat": 12.6,
+   "carbs": 69.3,
+   "kcal": 342,
+   "protein": 5.76
+  },
+  {
+   "fdcId": 170919,
+   "dataType": "SR Legacy",
+   "description": "Spices, cardamom",
+   "protein": 10.8,
+   "fat": 6.7,
+   "carbs": 68.5,
+   "kcal": 311
+  },
+  {
+   "fdcId": 170934,
+   "dataType": "SR Legacy",
+   "description": "Spices, saffron",
+   "carbs": 65.4,
+   "kcal": 310,
+   "protein": 11.4,
+   "fat": 5.85
+  },
+  {
+   "fdcId": 1126822,
+   "dataType": "Branded",
+   "description": "PAPRIKA GROUND ORGANIC SPICES",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 43.5,
+   "kcal": 217
+  }
+ ],
+ "vinegar cider": [
+  {
+   "fdcId": 173469,
+   "dataType": "SR Legacy",
+   "description": "Vinegar, cider",
+   "fat": 0,
+   "protein": 0,
+   "carbs": 0.93,
+   "kcal": 21
+  },
+  {
+   "fdcId": 2709319,
+   "dataType": "Survey (FNDDS)",
+   "description": "Apple cider",
+   "protein": 0.1,
+   "fat": 0.13,
+   "carbs": 11.3,
+   "kcal": 46
+  },
+  {
+   "fdcId": 2710621,
+   "dataType": "Survey (FNDDS)",
+   "description": "Hard cider",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 5.92,
+   "kcal": 56
+  },
+  {
+   "fdcId": 2709351,
+   "dataType": "Survey (FNDDS)",
+   "description": "Vinegar",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 0.93,
+   "kcal": 21
+  },
+  {
+   "fdcId": 172241,
+   "dataType": "SR Legacy",
+   "description": "Vinegar, balsamic",
+   "protein": 0.49,
+   "fat": 0,
+   "carbs": 17,
+   "kcal": 88
+  }
+ ],
+ "spaghetti dry enriched": [
+  {
+   "fdcId": 2758998,
+   "dataType": "Foundation",
+   "description": "Pasta, dry, enriched, spaghetti"
+  },
+  {
+   "fdcId": 168911,
+   "dataType": "SR Legacy",
+   "description": "Spaghetti, spinach, dry",
+   "protein": 13.4,
+   "fat": 1.57,
+   "carbs": 74.8,
+   "kcal": 372
+  },
+  {
+   "fdcId": 168937,
+   "dataType": "SR Legacy",
+   "description": "Spaghetti, protein-fortified, dry, enriched (n x 6.25)",
+   "protein": 21.8,
+   "fat": 2.23,
+   "carbs": 65.6,
+   "kcal": 374
+  },
+  {
+   "fdcId": 169736,
+   "dataType": "SR Legacy",
+   "description": "Pasta, dry, enriched",
+   "carbs": 74.7,
+   "kcal": 371,
+   "fat": 1.51,
+   "protein": 13
+  },
+  {
+   "fdcId": 2759000,
+   "dataType": "Foundation",
+   "description": "Pasta, dry, whole grain, spaghetti "
+  }
+ ],
+ "rice white long-grain regular cooked": [
+  {
+   "fdcId": 168878,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, enriched, cooked",
+   "protein": 2.69,
+   "fat": 0.28,
+   "carbs": 28.2,
+   "kcal": 130
+  },
+  {
+   "fdcId": 169753,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, cooked, enriched, with salt",
+   "protein": 2.69,
+   "fat": 0.28,
+   "carbs": 28.2,
+   "kcal": 130
+  },
+  {
+   "fdcId": 168935,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, cooked, unenriched, with salt",
+   "protein": 2.69,
+   "fat": 0.28,
+   "carbs": 28.2,
+   "kcal": 130
+  },
+  {
+   "fdcId": 169757,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, unenriched, cooked without salt",
+   "fat": 0.28,
+   "carbs": 28.2,
+   "kcal": 130,
+   "protein": 2.69
+  },
+  {
+   "fdcId": 168877,
+   "dataType": "SR Legacy",
+   "description": "Rice, white, long-grain, regular, raw, enriched",
+   "fat": 0.66,
+   "carbs": 80,
+   "kcal": 365,
+   "protein": 7.13
+  }
+ ],
+ "sugars brown": [
+  {
+   "fdcId": 2710260,
+   "dataType": "Survey (FNDDS)",
+   "description": "Sugar, brown",
+   "protein": 0.12,
+   "fat": 0,
+   "carbs": 98.09,
+   "kcal": 380
+  },
+  {
+   "fdcId": 168833,
+   "dataType": "SR Legacy",
+   "description": "Sugars, brown",
+   "fat": 0,
+   "carbs": 98.1,
+   "kcal": 380,
+   "protein": 0.12
+  },
+  {
+   "fdcId": 170675,
+   "dataType": "SR Legacy",
+   "description": "Sweeteners, sugar substitute, granulated, brown",
+   "protein": 2.06,
+   "fat": 0,
+   "carbs": 84.8,
+   "kcal": 347
+  },
+  {
+   "fdcId": 172801,
+   "dataType": "SR Legacy",
+   "description": "Toaster pastries, brown-sugar-cinnamon",
+   "fat": 7.98,
+   "carbs": 72.6,
+   "kcal": 370,
+   "protein": 4.06
+  }
+ ],
+ "cornstarch": [
+  {
+   "fdcId": 169698,
+   "dataType": "SR Legacy",
+   "description": "Cornstarch",
+   "fat": 0.05,
+   "carbs": 91.3,
+   "kcal": 381,
+   "protein": 0.26
+  },
+  {
+   "fdcId": 2671891,
+   "dataType": "Branded",
+   "description": "CORNSTARCH",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 87.5,
+   "kcal": 375
+  },
+  {
+   "fdcId": 2251989,
+   "dataType": "Branded",
+   "description": "CORNSTARCH",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 87.5,
+   "kcal": 375
+  },
+  {
+   "fdcId": 174806,
+   "dataType": "SR Legacy",
+   "description": "Snacks, Pretzels, gluten- free made with cornstarch and potato flour",
+   "kcal": 389,
+   "fat": 6.67,
+   "carbs": 78.6,
+   "protein": 3.52
+  }
+ ],
+ "sauce fish ready-to-serve": [
+  {
+   "fdcId": 174531,
+   "dataType": "SR Legacy",
+   "description": "Sauce, fish, ready-to-serve",
+   "fat": 0.01,
+   "carbs": 3.64,
+   "kcal": 35,
+   "protein": 5.06
+  },
+  {
+   "fdcId": 171191,
+   "dataType": "SR Legacy",
+   "description": "Sauce, cheese, ready-to-serve",
+   "protein": 6.71,
+   "fat": 13.3,
+   "carbs": 6.83,
+   "kcal": 174
+  },
+  {
+   "fdcId": 174067,
+   "dataType": "SR Legacy",
+   "description": "Sauce, cocktail, ready-to-serve",
+   "protein": 1.36,
+   "fat": 1.05,
+   "carbs": 28.2,
+   "kcal": 128
+  },
+  {
+   "fdcId": 171823,
+   "dataType": "SR Legacy",
+   "description": "Sauce, duck, ready-to-serve",
+   "fat": 0.13,
+   "kcal": 245,
+   "protein": 0.36,
+   "carbs": 60.7
+  }
+ ],
+ "chorizo pork and beef": [
+  {
+   "fdcId": 173859,
+   "dataType": "SR Legacy",
+   "description": "Sausage, pork, chorizo, link or ground, raw",
+   "fat": 25.1,
+   "carbs": 3.78,
+   "kcal": 296,
+   "protein": 13.6
+  },
+  {
+   "fdcId": 2708605,
+   "dataType": "Survey (FNDDS)",
+   "description": "Fajita, beef or pork",
+   "protein": 12.07,
+   "fat": 12.24,
+   "carbs": 17.99,
+   "kcal": 231
+  },
+  {
+   "fdcId": 2708578,
+   "dataType": "Survey (FNDDS)",
+   "description": "Nachos, beef or pork",
+   "protein": 10.73,
+   "fat": 15.96,
+   "carbs": 19.87,
+   "kcal": 265
+  },
+  {
+   "fdcId": 2708592,
+   "dataType": "Survey (FNDDS)",
+   "description": "Quesadilla, beef or pork",
+   "protein": 14.07,
+   "fat": 15.13,
+   "carbs": 27.32,
+   "kcal": 305
+  }
+ ],
+ "salad dressing mayonnaise regular": [
+  {
+   "fdcId": 171009,
+   "dataType": "SR Legacy",
+   "description": "Salad dressing, mayonnaise, regular",
+   "protein": 0.96,
+   "fat": 74.8,
+   "carbs": 0.57,
+   "kcal": 680
+  },
+  {
+   "fdcId": 171403,
+   "dataType": "SR Legacy",
+   "description": "Salad dressing, mayonnaise type, regular, with salt",
+   "protein": 0.65,
+   "fat": 21.6,
+   "carbs": 14.8,
+   "kcal": 250
+  },
+  {
+   "fdcId": 169055,
+   "dataType": "SR Legacy",
+   "description": "Salad dressing, caesar dressing, regular",
+   "fat": 57.8,
+   "carbs": 3.3,
+   "kcal": 542,
+   "protein": 2.17
+  },
+  {
+   "fdcId": 173592,
+   "dataType": "SR Legacy",
+   "description": "Salad dressing, ranch dressing, regular",
+   "protein": 1.32,
+   "fat": 44.5,
+   "carbs": 5.9,
+   "kcal": 430
+  }
+ ],
+ "egg yolk raw fresh": [
+  {
+   "fdcId": 172184,
+   "dataType": "SR Legacy",
+   "description": "Egg, yolk, raw, fresh",
+   "fat": 26.5,
+   "protein": 15.9,
+   "carbs": 3.59,
+   "kcal": 322
+  },
+  {
+   "fdcId": 2707172,
+   "dataType": "Survey (FNDDS)",
+   "description": "Egg, yolk only, raw",
+   "protein": 16.2,
+   "fat": 28.8,
+   "carbs": 1.02,
+   "kcal": 328
+  },
+  {
+   "fdcId": 329596,
+   "dataType": "Foundation",
+   "description": "Egg, yolk, raw, frozen, pasteurized",
+   "fat": 25.1,
+   "carbs": 0.59,
+   "protein": 15.6,
+   "kcal": 296
+  },
+  {
+   "fdcId": 173421,
+   "dataType": "SR Legacy",
+   "description": "Egg, yolk, raw, frozen, pasteurized",
+   "fat": 25.6,
+   "carbs": 0.81,
+   "protein": 15.5,
+   "kcal": 296
+  }
+ ],
+ "rice noodles dry": [
+  {
+   "fdcId": 169742,
+   "dataType": "SR Legacy",
+   "description": "Rice noodles, dry",
+   "fat": 0.56,
+   "kcal": 364,
+   "protein": 5.95,
+   "carbs": 80.2
+  },
+  {
+   "fdcId": 169731,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, dry, enriched",
+   "carbs": 71.3,
+   "kcal": 384,
+   "protein": 14.2,
+   "fat": 4.44
+  },
+  {
+   "fdcId": 169755,
+   "dataType": "SR Legacy",
+   "description": "Noodles, egg, dry, unenriched",
+   "carbs": 71.3,
+   "kcal": 384,
+   "fat": 4.44,
+   "protein": 14.2
+  },
+  {
+   "fdcId": 168906,
+   "dataType": "SR Legacy",
+   "description": "Noodles, japanese, soba, dry",
+   "protein": 14.4,
+   "fat": 0.71,
+   "carbs": 74.6,
+   "kcal": 336
+  }
+ ],
+ "sugars powdered": [
+  {
+   "fdcId": 169656,
+   "dataType": "SR Legacy",
+   "description": "Sugars, powdered",
+   "fat": 0,
+   "kcal": 389,
+   "protein": 0,
+   "carbs": 99.8
+  },
+  {
+   "fdcId": 2710269,
+   "dataType": "Survey (FNDDS)",
+   "description": "Sugar substitute, saccharin, powder",
+   "protein": 0.94,
+   "fat": 0,
+   "carbs": 89.11,
+   "kcal": 360
+  },
+  {
+   "fdcId": 2710271,
+   "dataType": "Survey (FNDDS)",
+   "description": "Sugar substitute, aspartame, powder",
+   "protein": 2.17,
+   "fat": 0,
+   "carbs": 89.08,
+   "kcal": 365
+  },
+  {
+   "fdcId": 2710267,
+   "dataType": "Survey (FNDDS)",
+   "description": "Sugar substitute, powder, NFS",
+   "protein": 0.66,
+   "fat": 0,
+   "carbs": 90.14,
+   "kcal": 349
+  }
+ ],
+ "alcoholic beverage wine table white": [
+  {
+   "fdcId": 174837,
+   "dataType": "SR Legacy",
+   "description": "Alcoholic beverage, wine, table, white",
+   "fat": 0,
+   "carbs": 2.6,
+   "protein": 0.07,
+   "kcal": 82
+  },
+  {
+   "fdcId": 174110,
+   "dataType": "SR Legacy",
+   "description": "Alcoholic beverage, wine, table, white, Chardonnay",
+   "fat": 0,
+   "carbs": 2.16,
+   "kcal": 84,
+   "protein": 0.07
+  },
+  {
+   "fdcId": 174843,
+   "dataType": "SR Legacy",
+   "description": "Alcoholic beverage, wine, table, white, Gewurztraminer",
+   "fat": 0,
+   "carbs": 2.6,
+   "protein": 0.07,
+   "kcal": 81
+  },
+  {
+   "fdcId": 174849,
+   "dataType": "SR Legacy",
+   "description": "Alcoholic beverage, wine, table, white, Muscat",
+   "protein": 0.07,
+   "fat": 0,
+   "carbs": 5.23,
+   "kcal": 82
+  }
+ ],
+ "nuts almonds": [
+  {
+   "fdcId": 170567,
+   "dataType": "SR Legacy",
+   "description": "Nuts, almonds",
+   "protein": 21.2,
+   "fat": 49.9,
+   "carbs": 21.6,
+   "kcal": 579
+  },
+  {
+   "fdcId": 170160,
+   "dataType": "SR Legacy",
+   "description": "Nuts, almond paste",
+   "protein": 9,
+   "fat": 27.7,
+   "carbs": 47.8,
+   "kcal": 458
+  },
+  {
+   "fdcId": 170568,
+   "dataType": "SR Legacy",
+   "description": "Nuts, almonds, blanched",
+   "protein": 21.4,
+   "fat": 52.5,
+   "carbs": 18.7,
+   "kcal": 590
+  },
+  {
+   "fdcId": 2346393,
+   "dataType": "Foundation",
+   "description": "Nuts, almonds, whole, raw",
+   "fat": 51.1,
+   "carbs": 20,
+   "protein": 21.5,
+   "kcal": 626
+  }
+ ],
+ "peanuts all types raw": [
+  {
+   "fdcId": 172430,
+   "dataType": "SR Legacy",
+   "description": "Peanuts, all types, raw",
+   "protein": 25.8,
+   "fat": 49.2,
+   "carbs": 16.1,
+   "kcal": 567
+  },
+  {
+   "fdcId": 174260,
+   "dataType": "SR Legacy",
+   "description": "Peanuts, all types, cooked, boiled, with salt",
+   "carbs": 21.3,
+   "kcal": 318,
+   "fat": 22,
+   "protein": 13.5
+  },
+  {
+   "fdcId": 174262,
+   "dataType": "SR Legacy",
+   "description": "Peanuts, all types, dry-roasted, with salt",
+   "carbs": 21.3,
+   "kcal": 587,
+   "protein": 24.4,
+   "fat": 49.7
+  },
+  {
+   "fdcId": 174261,
+   "dataType": "SR Legacy",
+   "description": "Peanuts, all types, oil-roasted, with salt",
+   "protein": 28,
+   "fat": 52.5,
+   "carbs": 15.3,
+   "kcal": 599
+  }
+ ],
+ "seeds sesame seeds whole dried": [
+  {
+   "fdcId": 170150,
+   "dataType": "SR Legacy",
+   "description": "Seeds, sesame seeds, whole, dried",
+   "protein": 17.7,
+   "fat": 49.7,
+   "carbs": 23.4,
+   "kcal": 573
+  },
+  {
+   "fdcId": 169412,
+   "dataType": "SR Legacy",
+   "description": "Seeds, sesame seed kernels, dried (decorticated)",
+   "fat": 61.2,
+   "protein": 20.4,
+   "carbs": 11.7,
+   "kcal": 631
+  },
+  {
+   "fdcId": 170151,
+   "dataType": "SR Legacy",
+   "description": "Seeds, sesame seeds, whole, roasted and toasted",
+   "fat": 48,
+   "carbs": 25.7,
+   "kcal": 565,
+   "protein": 17
+  },
+  {
+   "fdcId": 168587,
+   "dataType": "SR Legacy",
+   "description": "Seeds, sisymbrium sp. seeds, whole, dried",
+   "fat": 4.6,
+   "carbs": 58.3,
+   "kcal": 318,
+   "protein": 12.1
+  }
+ ],
+ "mustard prepared yellow": [
+  {
+   "fdcId": 326698,
+   "dataType": "Foundation",
+   "description": "Mustard, prepared, yellow",
+   "protein": 4.25,
+   "fat": 3.38,
+   "carbs": 5.3,
+   "kcal": 61
+  },
+  {
+   "fdcId": 172234,
+   "dataType": "SR Legacy",
+   "description": "Mustard, prepared, yellow",
+   "protein": 3.74,
+   "fat": 3.34,
+   "carbs": 5.83,
+   "kcal": 60
+  },
+  {
+   "fdcId": 174945,
+   "dataType": "SR Legacy",
+   "description": "Cake, yellow, commercially prepared, with vanilla frosting",
+   "fat": 17.9,
+   "carbs": 56.2,
+   "kcal": 391,
+   "protein": 2.99
+  },
+  {
+   "fdcId": 172710,
+   "dataType": "SR Legacy",
+   "description": "Cake, yellow, prepared from recipe without frosting",
+   "protein": 5.3,
+   "fat": 14.6,
+   "carbs": 53,
+   "kcal": 361
+  }
+ ],
+ "sauce oyster ready-to-serve": [
+  {
+   "fdcId": 174529,
+   "dataType": "SR Legacy",
+   "description": "Sauce, oyster, ready-to-serve",
+   "protein": 1.35,
+   "fat": 0.25,
+   "carbs": 10.9,
+   "kcal": 51
+  },
+  {
+   "fdcId": 171191,
+   "dataType": "SR Legacy",
+   "description": "Sauce, cheese, ready-to-serve",
+   "protein": 6.71,
+   "fat": 13.3,
+   "carbs": 6.83,
+   "kcal": 174
+  },
+  {
+   "fdcId": 174067,
+   "dataType": "SR Legacy",
+   "description": "Sauce, cocktail, ready-to-serve",
+   "protein": 1.36,
+   "fat": 1.05,
+   "carbs": 28.2,
+   "kcal": 128
+  },
+  {
+   "fdcId": 171823,
+   "dataType": "SR Legacy",
+   "description": "Sauce, duck, ready-to-serve",
+   "fat": 0.13,
+   "kcal": 245,
+   "protein": 0.36,
+   "carbs": 60.7
+  }
+ ],
+ "leavening agents baking powder double-acting": [
+  {
+   "fdcId": 172804,
+   "dataType": "SR Legacy",
+   "description": "Leavening agents, baking powder, double-acting, straight phosphate",
+   "fat": 0,
+   "carbs": 24.1,
+   "kcal": 51,
+   "protein": 0.1
+  },
+  {
+   "fdcId": 172803,
+   "dataType": "SR Legacy",
+   "description": "Leavening agents, baking powder, double-acting, sodium aluminum sulfate",
+   "protein": 0,
+   "fat": 0,
+   "carbs": 27.7,
+   "kcal": 53
+  },
+  {
+   "fdcId": 172805,
+   "dataType": "SR Legacy",
+   "description": "Leavening agents, baking powder, low-sodium",
+   "protein": 0.1,
+   "fat": 0.4,
+   "carbs": 46.9,
+   "kcal": 97
+  },
+  {
+   "fdcId": 175040,
+   "dataType": "SR Legacy",
+   "description": "Leavening agents, baking soda",
+   "fat": 0,
+   "carbs": 0,
+   "kcal": 0,
+   "protein": 0
+  }
+ ],
+ "spices cinnamon ground": [
+  {
+   "fdcId": 171320,
+   "dataType": "SR Legacy",
+   "description": "Spices, cinnamon, ground",
+   "protein": 3.99,
+   "fat": 1.24,
+   "carbs": 80.6,
+   "kcal": 247
+  },
+  {
+   "fdcId": 171315,
+   "dataType": "SR Legacy",
+   "description": "Spices, allspice, ground",
+   "protein": 6.09,
+   "fat": 8.69,
+   "carbs": 72.1,
+   "kcal": 263
+  },
+  {
+   "fdcId": 171321,
+   "dataType": "SR Legacy",
+   "description": "Spices, cloves, ground",
+   "fat": 13,
+   "carbs": 65.5,
+   "kcal": 274,
+   "protein": 5.97
+  },
+  {
+   "fdcId": 170926,
+   "dataType": "SR Legacy",
+   "description": "Spices, ginger, ground",
+   "protein": 8.98,
+   "fat": 4.24,
+   "carbs": 71.6,
+   "kcal": 335
+  }
+ ],
+ "vanilla extract": [
+  {
+   "fdcId": 173471,
+   "dataType": "SR Legacy",
+   "description": "Vanilla extract",
+   "fat": 0.06,
+   "carbs": 12.6,
+   "kcal": 288,
+   "protein": 0.06
+  },
+  {
+   "fdcId": 172235,
+   "dataType": "SR Legacy",
+   "description": "Vanilla extract, imitation, alcohol",
+   "protein": 0.05,
+   "fat": 0,
+   "carbs": 2.41,
+   "kcal": 237
+  },
+  {
+   "fdcId": 172236,
+   "dataType": "SR Legacy",
+   "description": "Vanilla extract, imitation, no alcohol",
+   "fat": 0,
+   "carbs": 14.4,
+   "kcal": 56,
+   "protein": 0.03
+  },
+  {
+   "fdcId": 2710006,
+   "dataType": "Survey (FNDDS)",
+   "description": "Yeast extract spread",
+   "protein": 23.88,
+   "fat": 0.9,
+   "carbs": 20.42,
+   "kcal": 185
+  }
+ ],
+ "spices thyme dried": [
+  {
+   "fdcId": 170938,
+   "dataType": "SR Legacy",
+   "description": "Spices, thyme, dried",
+   "fat": 7.43,
+   "carbs": 63.9,
+   "kcal": 276,
+   "protein": 9.11
+  },
+  {
+   "fdcId": 171317,
+   "dataType": "SR Legacy",
+   "description": "Spices, basil, dried",
+   "fat": 4.07,
+   "carbs": 47.8,
+   "kcal": 233,
+   "protein": 23
+  },
+  {
+   "fdcId": 171318,
+   "dataType": "SR Legacy",
+   "description": "Spices, chervil, dried",
+   "protein": 23.2,
+   "fat": 3.9,
+   "carbs": 49.1,
+   "kcal": 237
+  },
+  {
+   "fdcId": 170928,
+   "dataType": "SR Legacy",
+   "description": "Spices, marjoram, dried",
+   "fat": 7.04,
+   "carbs": 60.6,
+   "kcal": 271,
+   "protein": 12.7
+  }
+ ],
+ "spices turmeric ground": [
+  {
+   "fdcId": 172231,
+   "dataType": "SR Legacy",
+   "description": "Spices, turmeric, ground",
+   "fat": 3.25,
+   "carbs": 67.1,
+   "kcal": 312,
+   "protein": 9.68
+  },
+  {
+   "fdcId": 171315,
+   "dataType": "SR Legacy",
+   "description": "Spices, allspice, ground",
+   "protein": 6.09,
+   "fat": 8.69,
+   "carbs": 72.1,
+   "kcal": 263
+  },
+  {
+   "fdcId": 171320,
+   "dataType": "SR Legacy",
+   "description": "Spices, cinnamon, ground",
+   "protein": 3.99,
+   "fat": 1.24,
+   "carbs": 80.6,
+   "kcal": 247
+  },
+  {
+   "fdcId": 171321,
+   "dataType": "SR Legacy",
+   "description": "Spices, cloves, ground",
+   "fat": 13,
+   "carbs": 65.5,
+   "kcal": 274,
+   "protein": 5.97
+  }
+ ],
+ "peas green raw": [
+  {
+   "fdcId": 2709797,
+   "dataType": "Survey (FNDDS)",
+   "description": "Green peas, raw",
+   "protein": 5.42,
+   "fat": 0.4,
+   "carbs": 14.45,
+   "kcal": 81
+  },
+  {
+   "fdcId": 170419,
+   "dataType": "SR Legacy",
+   "description": "Peas, green, raw",
+   "carbs": 14.4,
+   "kcal": 81,
+   "protein": 5.42,
+   "fat": 0.4
+  },
+  {
+   "fdcId": 172428,
+   "dataType": "SR Legacy",
+   "description": "Peas, green, split, mature seeds, raw",
+   "protein": 23.1,
+   "fat": 3.89,
+   "carbs": 61.6,
+   "kcal": 364
+  },
+  {
+   "fdcId": 170010,
+   "dataType": "SR Legacy",
+   "description": "Peas, edible-podded, raw",
+   "carbs": 7.55,
+   "kcal": 42,
+   "protein": 2.8,
+   "fat": 0.2
+  }
+ ]
+}

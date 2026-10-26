@@ -22,7 +22,10 @@ export const PANTRY = [
   "garlic", "baking powder", "vinegar",
 ];
 
+const IRREGULAR = { leaves: "leaf", halves: "half", loaves: "loaf", knives: "knife", tomatoes: "tomato", potatoes: "potato" };
+
 export function singular(word) {
+  if (IRREGULAR[word]) return IRREGULAR[word];
   if (word.endsWith("ies") && word.length > 4) return word.slice(0, -3) + "y";
   if (word.endsWith("oes")) return word.slice(0, -2);
   if (word.endsWith("ses") || word.endsWith("xes") || word.endsWith("ches")) return word.slice(0, -2);

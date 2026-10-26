@@ -1,0 +1,2207 @@
+{
+ "egg": {
+  "fdcId": 171287,
+  "description": "Egg, whole, raw, fresh",
+  "kcal": 143,
+  "protein": 12.6,
+  "carbs": 0.72,
+  "fat": 9.51,
+  "query": "egg whole raw"
+ },
+ "free range egg": {
+  "fdcId": 171287,
+  "description": "Egg, whole, raw, fresh",
+  "kcal": 143,
+  "protein": 12.6,
+  "carbs": 0.72,
+  "fat": 9.51,
+  "query": "egg whole raw"
+ },
+ "chicken breast": {
+  "fdcId": 171077,
+  "description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+  "kcal": 120,
+  "protein": 22.5,
+  "carbs": 0,
+  "fat": 2.62,
+  "query": "chicken broiler fryers breast meat only raw"
+ },
+ "boneless skinless chicken breast": {
+  "fdcId": 171077,
+  "description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+  "kcal": 120,
+  "protein": 22.5,
+  "carbs": 0,
+  "fat": 2.62,
+  "query": "chicken broiler fryers breast meat only raw"
+ },
+ "chicken thigh": {
+  "fdcId": 173627,
+  "description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
+  "kcal": 121,
+  "protein": 19.7,
+  "carbs": 0,
+  "fat": 4.12,
+  "query": "chicken broilers or fryers thigh meat only raw"
+ },
+ "boneless chicken thigh": {
+  "fdcId": 173627,
+  "description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
+  "kcal": 121,
+  "protein": 19.7,
+  "carbs": 0,
+  "fat": 4.12,
+  "query": "chicken broilers or fryers thigh meat only raw"
+ },
+ "chicken": {
+  "fdcId": 171052,
+  "description": "Chicken, broilers or fryers, meat only, raw",
+  "kcal": 119,
+  "protein": 21.4,
+  "carbs": 0,
+  "fat": 3.08,
+  "query": "chicken broilers or fryers meat only raw"
+ },
+ "chicken meat": {
+  "fdcId": 171052,
+  "description": "Chicken, broilers or fryers, meat only, raw",
+  "kcal": 119,
+  "protein": 21.4,
+  "carbs": 0,
+  "fat": 3.08,
+  "query": "chicken broilers or fryers meat only raw"
+ },
+ "ground beef": {
+  "fdcId": 174036,
+  "description": "Beef, ground, 80% lean meat / 20% fat, raw",
+  "kcal": 254,
+  "protein": 17.2,
+  "carbs": 0,
+  "fat": 20,
+  "query": "beef ground 80% lean meat 20% fat raw"
+ },
+ "beef": {
+  "fdcId": 174036,
+  "description": "Beef, ground, 80% lean meat / 20% fat, raw",
+  "kcal": 254,
+  "protein": 17.2,
+  "carbs": 0,
+  "fat": 20,
+  "query": "beef ground 80% lean meat 20% fat raw"
+ },
+ "beef mince": {
+  "fdcId": 174036,
+  "description": "Beef, ground, 80% lean meat / 20% fat, raw",
+  "kcal": 254,
+  "protein": 17.2,
+  "carbs": 0,
+  "fat": 20,
+  "query": "beef ground 80% lean meat 20% fat raw"
+ },
+ "pork": {
+  "fdcId": 167902,
+  "description": "Pork, fresh, ground, raw",
+  "kcal": 263,
+  "protein": 16.9,
+  "carbs": 0,
+  "fat": 21.2,
+  "query": "sausage pork fresh raw"
+ },
+ "pork loin": {
+  "fdcId": 167818,
+  "description": "Pork, fresh, loin, whole, separable lean and fat, raw",
+  "kcal": 198,
+  "protein": 19.7,
+  "carbs": 0,
+  "fat": 12.6,
+  "query": "pork fresh loin separable lean and fat raw"
+ },
+ "pork chop": {
+  "fdcId": 167818,
+  "description": "Pork, fresh, loin, whole, separable lean and fat, raw",
+  "kcal": 198,
+  "protein": 19.7,
+  "carbs": 0,
+  "fat": 12.6,
+  "query": "pork fresh loin separable lean and fat raw"
+ },
+ "bacon": {
+  "fdcId": 168277,
+  "description": "Pork, cured, bacon, unprepared",
+  "kcal": 393,
+  "protein": 13.7,
+  "carbs": 0,
+  "fat": 37.1,
+  "query": "pork cured bacon unprepared"
+ },
+ "streaky bacon": {
+  "fdcId": 168277,
+  "description": "Pork, cured, bacon, unprepared",
+  "kcal": 393,
+  "protein": 13.7,
+  "carbs": 0,
+  "fat": 37.1,
+  "query": "pork cured bacon unprepared"
+ },
+ "bacon slice": {
+  "fdcId": 168277,
+  "description": "Pork, cured, bacon, unprepared",
+  "kcal": 393,
+  "protein": 13.7,
+  "carbs": 0,
+  "fat": 37.1,
+  "query": "pork cured bacon unprepared"
+ },
+ "sausage": {
+  "fdcId": 167902,
+  "description": "Pork, fresh, ground, raw",
+  "kcal": 263,
+  "protein": 16.9,
+  "carbs": 0,
+  "fat": 21.2,
+  "query": "sausage pork fresh raw"
+ },
+ "pork sausage": {
+  "fdcId": 167902,
+  "description": "Pork, fresh, ground, raw",
+  "kcal": 263,
+  "protein": 16.9,
+  "carbs": 0,
+  "fat": 21.2,
+  "query": "sausage pork fresh raw"
+ },
+ "ground pork": {
+  "fdcId": 167902,
+  "description": "Pork, fresh, ground, raw",
+  "kcal": 263,
+  "protein": 16.9,
+  "carbs": 0,
+  "fat": 21.2,
+  "query": "sausage pork fresh raw"
+ },
+ "lamb": {
+  "fdcId": 174370,
+  "description": "Lamb, ground, raw",
+  "kcal": 282,
+  "protein": 16.6,
+  "carbs": 0,
+  "fat": 23.4,
+  "query": "lamb ground raw"
+ },
+ "ground lamb": {
+  "fdcId": 174370,
+  "description": "Lamb, ground, raw",
+  "kcal": 282,
+  "protein": 16.6,
+  "carbs": 0,
+  "fat": 23.4,
+  "query": "lamb ground raw"
+ },
+ "lamb mince": {
+  "fdcId": 174370,
+  "description": "Lamb, ground, raw",
+  "kcal": 282,
+  "protein": 16.6,
+  "carbs": 0,
+  "fat": 23.4,
+  "query": "lamb ground raw"
+ },
+ "salmon": {
+  "fdcId": 175167,
+  "description": "Fish, salmon, Atlantic, farmed, raw",
+  "kcal": 208,
+  "protein": 20.4,
+  "carbs": 0,
+  "fat": 13.4,
+  "query": "fish salmon atlantic farmed raw"
+ },
+ "salmon fillet": {
+  "fdcId": 175167,
+  "description": "Fish, salmon, Atlantic, farmed, raw",
+  "kcal": 208,
+  "protein": 20.4,
+  "carbs": 0,
+  "fat": 13.4,
+  "query": "fish salmon atlantic farmed raw"
+ },
+ "shrimp": {
+  "fdcId": 175179,
+  "description": "Crustaceans, shrimp, raw",
+  "kcal": 85,
+  "protein": 20.1,
+  "carbs": 0,
+  "fat": 0.51,
+  "query": "crustaceans shrimp raw"
+ },
+ "prawn": {
+  "fdcId": 175179,
+  "description": "Crustaceans, shrimp, raw",
+  "kcal": 85,
+  "protein": 20.1,
+  "carbs": 0,
+  "fat": 0.51,
+  "query": "crustaceans shrimp raw"
+ },
+ "king prawn": {
+  "fdcId": 175179,
+  "description": "Crustaceans, shrimp, raw",
+  "kcal": 85,
+  "protein": 20.1,
+  "carbs": 0,
+  "fat": 0.51,
+  "query": "crustaceans shrimp raw"
+ },
+ "cod": {
+  "fdcId": 171955,
+  "description": "Fish, cod, Atlantic, raw",
+  "kcal": 82,
+  "protein": 17.8,
+  "carbs": 0,
+  "fat": 0.67,
+  "query": "fish cod atlantic raw"
+ },
+ "white fish": {
+  "fdcId": 171955,
+  "description": "Fish, cod, Atlantic, raw",
+  "kcal": 82,
+  "protein": 17.8,
+  "carbs": 0,
+  "fat": 0.67,
+  "query": "fish cod atlantic raw"
+ },
+ "cod fillet": {
+  "fdcId": 171955,
+  "description": "Fish, cod, Atlantic, raw",
+  "kcal": 82,
+  "protein": 17.8,
+  "carbs": 0,
+  "fat": 0.67,
+  "query": "fish cod atlantic raw"
+ },
+ "tuna": {
+  "fdcId": 334194,
+  "description": "Fish, tuna, light, canned in water, drained solids",
+  "kcal": 90,
+  "protein": 19,
+  "carbs": 0.08,
+  "fat": 0.94,
+  "query": "fish tuna light canned in water drained solids"
+ },
+ "tinned tuna": {
+  "fdcId": 334194,
+  "description": "Fish, tuna, light, canned in water, drained solids",
+  "kcal": 90,
+  "protein": 19,
+  "carbs": 0.08,
+  "fat": 0.94,
+  "query": "fish tuna light canned in water drained solids"
+ },
+ "milk": {
+  "fdcId": 171265,
+  "description": "Milk, whole, 3.25% milkfat, with added vitamin D",
+  "kcal": 61,
+  "protein": 3.15,
+  "carbs": 4.8,
+  "fat": 3.25,
+  "query": "milk whole 3.25% milkfat"
+ },
+ "butter": {
+  "fdcId": 173410,
+  "description": "Butter, salted",
+  "kcal": 717,
+  "protein": 0.85,
+  "carbs": 0.06,
+  "fat": 81.1,
+  "query": "butter salted"
+ },
+ "salted butter": {
+  "fdcId": 173410,
+  "description": "Butter, salted",
+  "kcal": 717,
+  "protein": 0.85,
+  "carbs": 0.06,
+  "fat": 81.1,
+  "query": "butter salted"
+ },
+ "unsalted butter": {
+  "fdcId": 173410,
+  "description": "Butter, salted",
+  "kcal": 717,
+  "protein": 0.85,
+  "carbs": 0.06,
+  "fat": 81.1,
+  "query": "butter salted"
+ },
+ "cheddar": {
+  "fdcId": 328637,
+  "description": "Cheese, cheddar",
+  "kcal": 408,
+  "protein": 23.3,
+  "carbs": 2.44,
+  "fat": 34,
+  "query": "cheese cheddar"
+ },
+ "cheddar cheese": {
+  "fdcId": 328637,
+  "description": "Cheese, cheddar",
+  "kcal": 408,
+  "protein": 23.3,
+  "carbs": 2.44,
+  "fat": 34,
+  "query": "cheese cheddar"
+ },
+ "cheese": {
+  "fdcId": 328637,
+  "description": "Cheese, cheddar",
+  "kcal": 408,
+  "protein": 23.3,
+  "carbs": 2.44,
+  "fat": 34,
+  "query": "cheese cheddar"
+ },
+ "grated cheese": {
+  "fdcId": 328637,
+  "description": "Cheese, cheddar",
+  "kcal": 408,
+  "protein": 23.3,
+  "carbs": 2.44,
+  "fat": 34,
+  "query": "cheese cheddar"
+ },
+ "shredded cheese": {
+  "fdcId": 328637,
+  "description": "Cheese, cheddar",
+  "kcal": 408,
+  "protein": 23.3,
+  "carbs": 2.44,
+  "fat": 34,
+  "query": "cheese cheddar"
+ },
+ "mozzarella": {
+  "fdcId": 170845,
+  "description": "Cheese, mozzarella, whole milk",
+  "kcal": 299,
+  "protein": 22.2,
+  "carbs": 2.4,
+  "fat": 22.1,
+  "query": "cheese mozzarella whole milk"
+ },
+ "mozzarella cheese": {
+  "fdcId": 170845,
+  "description": "Cheese, mozzarella, whole milk",
+  "kcal": 299,
+  "protein": 22.2,
+  "carbs": 2.4,
+  "fat": 22.1,
+  "query": "cheese mozzarella whole milk"
+ },
+ "mozzarella ball": {
+  "fdcId": 170845,
+  "description": "Cheese, mozzarella, whole milk",
+  "kcal": 299,
+  "protein": 22.2,
+  "carbs": 2.4,
+  "fat": 22.1,
+  "query": "cheese mozzarella whole milk"
+ },
+ "parmesan": {
+  "fdcId": 170848,
+  "description": "Cheese, parmesan, hard",
+  "kcal": 392,
+  "protein": 35.8,
+  "carbs": 3.22,
+  "fat": 25,
+  "query": "cheese parmesan hard"
+ },
+ "parmesan cheese": {
+  "fdcId": 170848,
+  "description": "Cheese, parmesan, hard",
+  "kcal": 392,
+  "protein": 35.8,
+  "carbs": 3.22,
+  "fat": 25,
+  "query": "cheese parmesan hard"
+ },
+ "parmigiano reggiano": {
+  "fdcId": 170848,
+  "description": "Cheese, parmesan, hard",
+  "kcal": 392,
+  "protein": 35.8,
+  "carbs": 3.22,
+  "fat": 25,
+  "query": "cheese parmesan hard"
+ },
+ "feta": {
+  "fdcId": 173420,
+  "description": "Cheese, feta",
+  "kcal": 265,
+  "protein": 14.2,
+  "carbs": 3.88,
+  "fat": 21.5,
+  "query": "cheese feta"
+ },
+ "feta cheese": {
+  "fdcId": 173420,
+  "description": "Cheese, feta",
+  "kcal": 265,
+  "protein": 14.2,
+  "carbs": 3.88,
+  "fat": 21.5,
+  "query": "cheese feta"
+ },
+ "yogurt": {
+  "fdcId": 171284,
+  "description": "Yogurt, plain, whole milk",
+  "kcal": 61,
+  "protein": 3.47,
+  "carbs": 4.66,
+  "fat": 3.25,
+  "query": "yogurt plain whole milk"
+ },
+ "yoghurt": {
+  "fdcId": 171284,
+  "description": "Yogurt, plain, whole milk",
+  "kcal": 61,
+  "protein": 3.47,
+  "carbs": 4.66,
+  "fat": 3.25,
+  "query": "yogurt plain whole milk"
+ },
+ "plain yogurt": {
+  "fdcId": 171284,
+  "description": "Yogurt, plain, whole milk",
+  "kcal": 61,
+  "protein": 3.47,
+  "carbs": 4.66,
+  "fat": 3.25,
+  "query": "yogurt plain whole milk"
+ },
+ "natural yogurt": {
+  "fdcId": 171284,
+  "description": "Yogurt, plain, whole milk",
+  "kcal": 61,
+  "protein": 3.47,
+  "carbs": 4.66,
+  "fat": 3.25,
+  "query": "yogurt plain whole milk"
+ },
+ "greek yogurt": {
+  "fdcId": 171284,
+  "description": "Yogurt, plain, whole milk",
+  "kcal": 61,
+  "protein": 3.47,
+  "carbs": 4.66,
+  "fat": 3.25,
+  "query": "yogurt plain whole milk"
+ },
+ "heavy cream": {
+  "fdcId": 170859,
+  "description": "Cream, fluid, heavy whipping",
+  "kcal": 340,
+  "protein": 2.84,
+  "carbs": 2.84,
+  "fat": 36.1,
+  "query": "cream fluid heavy whipping"
+ },
+ "double cream": {
+  "fdcId": 170859,
+  "description": "Cream, fluid, heavy whipping",
+  "kcal": 340,
+  "protein": 2.84,
+  "carbs": 2.84,
+  "fat": 36.1,
+  "query": "cream fluid heavy whipping"
+ },
+ "whipping cream": {
+  "fdcId": 170859,
+  "description": "Cream, fluid, heavy whipping",
+  "kcal": 340,
+  "protein": 2.84,
+  "carbs": 2.84,
+  "fat": 36.1,
+  "query": "cream fluid heavy whipping"
+ },
+ "cream": {
+  "fdcId": 170859,
+  "description": "Cream, fluid, heavy whipping",
+  "kcal": 340,
+  "protein": 2.84,
+  "carbs": 2.84,
+  "fat": 36.1,
+  "query": "cream fluid heavy whipping"
+ },
+ "sour cream": {
+  "fdcId": 171257,
+  "description": "Cream, sour, cultured",
+  "kcal": 198,
+  "protein": 2.44,
+  "carbs": 4.63,
+  "fat": 19.4,
+  "query": "sour cream cultured"
+ },
+ "rice": {
+  "fdcId": 169756,
+  "description": "Rice, white, long-grain, regular, raw, unenriched",
+  "kcal": 365,
+  "protein": 7.13,
+  "carbs": 80,
+  "fat": 0.66,
+  "query": "rice white long-grain regular raw unenriched"
+ },
+ "white rice": {
+  "fdcId": 169756,
+  "description": "Rice, white, long-grain, regular, raw, unenriched",
+  "kcal": 365,
+  "protein": 7.13,
+  "carbs": 80,
+  "fat": 0.66,
+  "query": "rice white long-grain regular raw unenriched"
+ },
+ "long grain rice": {
+  "fdcId": 169756,
+  "description": "Rice, white, long-grain, regular, raw, unenriched",
+  "kcal": 365,
+  "protein": 7.13,
+  "carbs": 80,
+  "fat": 0.66,
+  "query": "rice white long-grain regular raw unenriched"
+ },
+ "basmati rice": {
+  "fdcId": 169756,
+  "description": "Rice, white, long-grain, regular, raw, unenriched",
+  "kcal": 365,
+  "protein": 7.13,
+  "carbs": 80,
+  "fat": 0.66,
+  "query": "rice white long-grain regular raw unenriched"
+ },
+ "jasmine rice": {
+  "fdcId": 169756,
+  "description": "Rice, white, long-grain, regular, raw, unenriched",
+  "kcal": 365,
+  "protein": 7.13,
+  "carbs": 80,
+  "fat": 0.66,
+  "query": "rice white long-grain regular raw unenriched"
+ },
+ "brown rice": {
+  "fdcId": 2512380,
+  "description": "Rice, brown, long grain, unenriched, raw",
+  "kcal": 366,
+  "protein": 7.25,
+  "carbs": 76.7,
+  "fat": 3.31,
+  "query": "rice brown long-grain raw"
+ },
+ "pasta": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "penne": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "penne rigate": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "fusilli": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "macaroni": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "rigatoni": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "farfalle": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "lasagne sheet": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "lasagna noodle": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "lasagne": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "orzo": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "conchiglie": {
+  "fdcId": 168927,
+  "description": "Pasta, dry, unenriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "pasta dry unenriched"
+ },
+ "spaghetti": {
+  "fdcId": 169736,
+  "description": "Pasta, dry, enriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "spaghetti dry enriched"
+ },
+ "linguine": {
+  "fdcId": 169736,
+  "description": "Pasta, dry, enriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "spaghetti dry enriched"
+ },
+ "fettuccine": {
+  "fdcId": 169736,
+  "description": "Pasta, dry, enriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "spaghetti dry enriched"
+ },
+ "tagliatelle": {
+  "fdcId": 169736,
+  "description": "Pasta, dry, enriched",
+  "kcal": 371,
+  "protein": 13,
+  "carbs": 74.7,
+  "fat": 1.51,
+  "query": "spaghetti dry enriched"
+ },
+ "egg noodle": {
+  "fdcId": 169731,
+  "description": "Noodles, egg, dry, enriched",
+  "kcal": 384,
+  "protein": 14.2,
+  "carbs": 71.3,
+  "fat": 4.44,
+  "query": "noodles egg dry enriched"
+ },
+ "noodle": {
+  "fdcId": 169731,
+  "description": "Noodles, egg, dry, enriched",
+  "kcal": 384,
+  "protein": 14.2,
+  "carbs": 71.3,
+  "fat": 4.44,
+  "query": "noodles egg dry enriched"
+ },
+ "bread": {
+  "fdcId": 174924,
+  "description": "Bread, white, commercially prepared (includes soft bread crumbs)",
+  "kcal": 266,
+  "protein": 8.85,
+  "carbs": 49.4,
+  "fat": 3.33,
+  "query": "bread white commercially prepared"
+ },
+ "white bread": {
+  "fdcId": 174924,
+  "description": "Bread, white, commercially prepared (includes soft bread crumbs)",
+  "kcal": 266,
+  "protein": 8.85,
+  "carbs": 49.4,
+  "fat": 3.33,
+  "query": "bread white commercially prepared"
+ },
+ "breadcrumb": {
+  "fdcId": 174924,
+  "description": "Bread, white, commercially prepared (includes soft bread crumbs)",
+  "kcal": 266,
+  "protein": 8.85,
+  "carbs": 49.4,
+  "fat": 3.33,
+  "query": "bread white commercially prepared"
+ },
+ "tortilla": {
+  "fdcId": 2707824,
+  "description": "Tortilla, flour",
+  "kcal": 306,
+  "protein": 8.2,
+  "carbs": 49.38,
+  "fat": 7.99,
+  "query": "tortillas ready-to-bake or -fry flour"
+ },
+ "flour tortilla": {
+  "fdcId": 2707824,
+  "description": "Tortilla, flour",
+  "kcal": 306,
+  "protein": 8.2,
+  "carbs": 49.38,
+  "fat": 7.99,
+  "query": "tortillas ready-to-bake or -fry flour"
+ },
+ "flour": {
+  "fdcId": 168894,
+  "description": "Wheat flour, white, all-purpose, enriched, bleached",
+  "kcal": 364,
+  "protein": 10.3,
+  "carbs": 76.3,
+  "fat": 0.98,
+  "query": "wheat flour white all-purpose enriched bleached"
+ },
+ "plain flour": {
+  "fdcId": 168894,
+  "description": "Wheat flour, white, all-purpose, enriched, bleached",
+  "kcal": 364,
+  "protein": 10.3,
+  "carbs": 76.3,
+  "fat": 0.98,
+  "query": "wheat flour white all-purpose enriched bleached"
+ },
+ "all purpose flour": {
+  "fdcId": 168894,
+  "description": "Wheat flour, white, all-purpose, enriched, bleached",
+  "kcal": 364,
+  "protein": 10.3,
+  "carbs": 76.3,
+  "fat": 0.98,
+  "query": "wheat flour white all-purpose enriched bleached"
+ },
+ "sugar": {
+  "fdcId": 169655,
+  "description": "Sugars, granulated",
+  "kcal": 387,
+  "protein": 0,
+  "carbs": 100,
+  "fat": 0,
+  "query": "sugars granulated"
+ },
+ "caster sugar": {
+  "fdcId": 169655,
+  "description": "Sugars, granulated",
+  "kcal": 387,
+  "protein": 0,
+  "carbs": 100,
+  "fat": 0,
+  "query": "sugars granulated"
+ },
+ "granulated sugar": {
+  "fdcId": 169655,
+  "description": "Sugars, granulated",
+  "kcal": 387,
+  "protein": 0,
+  "carbs": 100,
+  "fat": 0,
+  "query": "sugars granulated"
+ },
+ "white sugar": {
+  "fdcId": 169655,
+  "description": "Sugars, granulated",
+  "kcal": 387,
+  "protein": 0,
+  "carbs": 100,
+  "fat": 0,
+  "query": "sugars granulated"
+ },
+ "oat": {
+  "fdcId": 173904,
+  "description": "Cereals, oats, regular and quick, not fortified, dry",
+  "kcal": 379,
+  "protein": 13.2,
+  "carbs": 67.7,
+  "fat": 6.52,
+  "query": "oats regular and quick not fortified dry"
+ },
+ "rolled oat": {
+  "fdcId": 173904,
+  "description": "Cereals, oats, regular and quick, not fortified, dry",
+  "kcal": 379,
+  "protein": 13.2,
+  "carbs": 67.7,
+  "fat": 6.52,
+  "query": "oats regular and quick not fortified dry"
+ },
+ "porridge oat": {
+  "fdcId": 173904,
+  "description": "Cereals, oats, regular and quick, not fortified, dry",
+  "kcal": 379,
+  "protein": 13.2,
+  "carbs": 67.7,
+  "fat": 6.52,
+  "query": "oats regular and quick not fortified dry"
+ },
+ "quinoa": {
+  "fdcId": 168874,
+  "description": "Quinoa, uncooked",
+  "kcal": 368,
+  "protein": 14.1,
+  "carbs": 64.2,
+  "fat": 6.07,
+  "query": "quinoa uncooked"
+ },
+ "potato": {
+  "fdcId": 170026,
+  "description": "Potatoes, flesh and skin, raw",
+  "kcal": 77,
+  "protein": 2.05,
+  "carbs": 17.5,
+  "fat": 0.09,
+  "query": "potatoes flesh and skin raw"
+ },
+ "new potato": {
+  "fdcId": 170026,
+  "description": "Potatoes, flesh and skin, raw",
+  "kcal": 77,
+  "protein": 2.05,
+  "carbs": 17.5,
+  "fat": 0.09,
+  "query": "potatoes flesh and skin raw"
+ },
+ "sweet potato": {
+  "fdcId": 168482,
+  "description": "Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",
+  "kcal": 86,
+  "protein": 1.57,
+  "carbs": 20.1,
+  "fat": 0.05,
+  "query": "sweet potato raw unprepared"
+ },
+ "onion": {
+  "fdcId": 170000,
+  "description": "Onions, raw",
+  "kcal": 40,
+  "protein": 1.1,
+  "carbs": 9.34,
+  "fat": 0.1,
+  "query": "onions raw"
+ },
+ "red onion": {
+  "fdcId": 170000,
+  "description": "Onions, raw",
+  "kcal": 40,
+  "protein": 1.1,
+  "carbs": 9.34,
+  "fat": 0.1,
+  "query": "onions raw"
+ },
+ "white onion": {
+  "fdcId": 170000,
+  "description": "Onions, raw",
+  "kcal": 40,
+  "protein": 1.1,
+  "carbs": 9.34,
+  "fat": 0.1,
+  "query": "onions raw"
+ },
+ "yellow onion": {
+  "fdcId": 170000,
+  "description": "Onions, raw",
+  "kcal": 40,
+  "protein": 1.1,
+  "carbs": 9.34,
+  "fat": 0.1,
+  "query": "onions raw"
+ },
+ "shallot": {
+  "fdcId": 170000,
+  "description": "Onions, raw",
+  "kcal": 40,
+  "protein": 1.1,
+  "carbs": 9.34,
+  "fat": 0.1,
+  "query": "onions raw"
+ },
+ "spring onion": {
+  "fdcId": 170005,
+  "description": "Onions, spring or scallions (includes tops and bulb), raw",
+  "kcal": 32,
+  "protein": 1.83,
+  "carbs": 7.34,
+  "fat": 0.19,
+  "query": "onions spring or scallions includes tops and bulb raw"
+ },
+ "scallion": {
+  "fdcId": 170005,
+  "description": "Onions, spring or scallions (includes tops and bulb), raw",
+  "kcal": 32,
+  "protein": 1.83,
+  "carbs": 7.34,
+  "fat": 0.19,
+  "query": "onions spring or scallions includes tops and bulb raw"
+ },
+ "green onion": {
+  "fdcId": 170005,
+  "description": "Onions, spring or scallions (includes tops and bulb), raw",
+  "kcal": 32,
+  "protein": 1.83,
+  "carbs": 7.34,
+  "fat": 0.19,
+  "query": "onions spring or scallions includes tops and bulb raw"
+ },
+ "garlic": {
+  "fdcId": 169230,
+  "description": "Garlic, raw",
+  "kcal": 149,
+  "protein": 6.36,
+  "carbs": 33.1,
+  "fat": 0.5,
+  "query": "garlic raw"
+ },
+ "garlic clove": {
+  "fdcId": 169230,
+  "description": "Garlic, raw",
+  "kcal": 149,
+  "protein": 6.36,
+  "carbs": 33.1,
+  "fat": 0.5,
+  "query": "garlic raw"
+ },
+ "ginger": {
+  "fdcId": 169231,
+  "description": "Ginger root, raw",
+  "kcal": 80,
+  "protein": 1.82,
+  "carbs": 17.8,
+  "fat": 0.75,
+  "query": "ginger root raw"
+ },
+ "ginger root": {
+  "fdcId": 169231,
+  "description": "Ginger root, raw",
+  "kcal": 80,
+  "protein": 1.82,
+  "carbs": 17.8,
+  "fat": 0.75,
+  "query": "ginger root raw"
+ },
+ "tomato": {
+  "fdcId": 170051,
+  "description": "Tomatoes, red, ripe, canned, packed in tomato juice",
+  "kcal": 16,
+  "protein": 0.79,
+  "carbs": 3.47,
+  "fat": 0.25,
+  "query": "tomatoes red ripe canned packed in tomato juice"
+ },
+ "cherry tomato": {
+  "fdcId": 170457,
+  "description": "Tomatoes, red, ripe, raw, year round average",
+  "kcal": 18,
+  "protein": 0.88,
+  "carbs": 3.89,
+  "fat": 0.2,
+  "query": "tomatoes red ripe raw year round average"
+ },
+ "plum tomato": {
+  "fdcId": 170457,
+  "description": "Tomatoes, red, ripe, raw, year round average",
+  "kcal": 18,
+  "protein": 0.88,
+  "carbs": 3.89,
+  "fat": 0.2,
+  "query": "tomatoes red ripe raw year round average"
+ },
+ "tinned tomato": {
+  "fdcId": 170051,
+  "description": "Tomatoes, red, ripe, canned, packed in tomato juice",
+  "kcal": 16,
+  "protein": 0.79,
+  "carbs": 3.47,
+  "fat": 0.25,
+  "query": "tomatoes red ripe canned packed in tomato juice"
+ },
+ "tomato puree": {
+  "fdcId": 170460,
+  "description": "Tomato products, canned, puree, without salt added",
+  "kcal": 38,
+  "protein": 1.65,
+  "carbs": 8.98,
+  "fat": 0.21,
+  "query": "tomato products canned puree without salt added"
+ },
+ "passata": {
+  "fdcId": 170460,
+  "description": "Tomato products, canned, puree, without salt added",
+  "kcal": 38,
+  "protein": 1.65,
+  "carbs": 8.98,
+  "fat": 0.21,
+  "query": "tomato products canned puree without salt added"
+ },
+ "tomato sauce": {
+  "fdcId": 170460,
+  "description": "Tomato products, canned, puree, without salt added",
+  "kcal": 38,
+  "protein": 1.65,
+  "carbs": 8.98,
+  "fat": 0.21,
+  "query": "tomato products canned puree without salt added"
+ },
+ "tomato paste": {
+  "fdcId": 2685580,
+  "description": "Tomato, paste, canned, without salt added",
+  "kcal": 104,
+  "protein": 4.23,
+  "carbs": 20.2,
+  "fat": 0.732,
+  "query": "tomato products canned paste without salt added"
+ },
+ "carrot": {
+  "fdcId": 170393,
+  "description": "Carrots, raw",
+  "kcal": 41,
+  "protein": 0.93,
+  "carbs": 9.58,
+  "fat": 0.24,
+  "query": "carrots raw"
+ },
+ "broccoli": {
+  "fdcId": 170379,
+  "description": "Broccoli, raw",
+  "kcal": 34,
+  "protein": 2.82,
+  "carbs": 6.64,
+  "fat": 0.37,
+  "query": "broccoli raw"
+ },
+ "spinach": {
+  "fdcId": 168462,
+  "description": "Spinach, raw",
+  "kcal": 23,
+  "protein": 2.86,
+  "carbs": 3.63,
+  "fat": 0.39,
+  "query": "spinach raw"
+ },
+ "cabbage": {
+  "fdcId": 169975,
+  "description": "Cabbage, raw",
+  "kcal": 25,
+  "protein": 1.28,
+  "carbs": 5.8,
+  "fat": 0.1,
+  "query": "cabbage raw"
+ },
+ "white cabbage": {
+  "fdcId": 169975,
+  "description": "Cabbage, raw",
+  "kcal": 25,
+  "protein": 1.28,
+  "carbs": 5.8,
+  "fat": 0.1,
+  "query": "cabbage raw"
+ },
+ "green cabbage": {
+  "fdcId": 169975,
+  "description": "Cabbage, raw",
+  "kcal": 25,
+  "protein": 1.28,
+  "carbs": 5.8,
+  "fat": 0.1,
+  "query": "cabbage raw"
+ },
+ "lettuce": {
+  "fdcId": 169247,
+  "description": "Lettuce, cos or romaine, raw",
+  "kcal": 17,
+  "protein": 1.23,
+  "carbs": 3.29,
+  "fat": 0.3,
+  "query": "lettuce cos or romaine raw"
+ },
+ "romaine lettuce": {
+  "fdcId": 169247,
+  "description": "Lettuce, cos or romaine, raw",
+  "kcal": 17,
+  "protein": 1.23,
+  "carbs": 3.29,
+  "fat": 0.3,
+  "query": "lettuce cos or romaine raw"
+ },
+ "romaine": {
+  "fdcId": 169247,
+  "description": "Lettuce, cos or romaine, raw",
+  "kcal": 17,
+  "protein": 1.23,
+  "carbs": 3.29,
+  "fat": 0.3,
+  "query": "lettuce cos or romaine raw"
+ },
+ "cucumber": {
+  "fdcId": 168409,
+  "description": "Cucumber, with peel, raw",
+  "kcal": 15,
+  "protein": 0.65,
+  "carbs": 3.63,
+  "fat": 0.11,
+  "query": "cucumber with peel raw"
+ },
+ "red pepper": {
+  "fdcId": 170108,
+  "description": "Peppers, sweet, red, raw",
+  "kcal": 26,
+  "protein": 0.99,
+  "carbs": 6.03,
+  "fat": 0.3,
+  "query": "peppers sweet red raw"
+ },
+ "bell pepper": {
+  "fdcId": 170108,
+  "description": "Peppers, sweet, red, raw",
+  "kcal": 26,
+  "protein": 0.99,
+  "carbs": 6.03,
+  "fat": 0.3,
+  "query": "peppers sweet red raw"
+ },
+ "red bell pepper": {
+  "fdcId": 170108,
+  "description": "Peppers, sweet, red, raw",
+  "kcal": 26,
+  "protein": 0.99,
+  "carbs": 6.03,
+  "fat": 0.3,
+  "query": "peppers sweet red raw"
+ },
+ "pepper": {
+  "fdcId": 170108,
+  "description": "Peppers, sweet, red, raw",
+  "kcal": 26,
+  "protein": 0.99,
+  "carbs": 6.03,
+  "fat": 0.3,
+  "query": "peppers sweet red raw"
+ },
+ "green pepper": {
+  "fdcId": 170427,
+  "description": "Peppers, sweet, green, raw",
+  "kcal": 20,
+  "protein": 0.86,
+  "carbs": 4.64,
+  "fat": 0.17,
+  "query": "peppers sweet green raw"
+ },
+ "green bell pepper": {
+  "fdcId": 170427,
+  "description": "Peppers, sweet, green, raw",
+  "kcal": 20,
+  "protein": 0.86,
+  "carbs": 4.64,
+  "fat": 0.17,
+  "query": "peppers sweet green raw"
+ },
+ "jalapeno": {
+  "fdcId": 168576,
+  "description": "Peppers, jalapeno, raw",
+  "kcal": 29,
+  "protein": 0.91,
+  "carbs": 6.5,
+  "fat": 0.37,
+  "query": "peppers jalapeno raw"
+ },
+ "green chilli": {
+  "fdcId": 168576,
+  "description": "Peppers, jalapeno, raw",
+  "kcal": 29,
+  "protein": 0.91,
+  "carbs": 6.5,
+  "fat": 0.37,
+  "query": "peppers jalapeno raw"
+ },
+ "red chilli": {
+  "fdcId": 168576,
+  "description": "Peppers, jalapeno, raw",
+  "kcal": 29,
+  "protein": 0.91,
+  "carbs": 6.5,
+  "fat": 0.37,
+  "query": "peppers jalapeno raw"
+ },
+ "chilli": {
+  "fdcId": 168576,
+  "description": "Peppers, jalapeno, raw",
+  "kcal": 29,
+  "protein": 0.91,
+  "carbs": 6.5,
+  "fat": 0.37,
+  "query": "peppers jalapeno raw"
+ },
+ "chili": {
+  "fdcId": 168576,
+  "description": "Peppers, jalapeno, raw",
+  "kcal": 29,
+  "protein": 0.91,
+  "carbs": 6.5,
+  "fat": 0.37,
+  "query": "peppers jalapeno raw"
+ },
+ "mushroom": {
+  "fdcId": 169251,
+  "description": "Mushrooms, white, raw",
+  "kcal": 22,
+  "protein": 3.09,
+  "carbs": 3.26,
+  "fat": 0.34,
+  "query": "mushrooms white raw"
+ },
+ "button mushroom": {
+  "fdcId": 169251,
+  "description": "Mushrooms, white, raw",
+  "kcal": 22,
+  "protein": 3.09,
+  "carbs": 3.26,
+  "fat": 0.34,
+  "query": "mushrooms white raw"
+ },
+ "zucchini": {
+  "fdcId": 169291,
+  "description": "Squash, summer, zucchini, includes skin, raw",
+  "kcal": 17,
+  "protein": 1.21,
+  "carbs": 3.11,
+  "fat": 0.32,
+  "query": "squash summer zucchini includes skin raw"
+ },
+ "courgette": {
+  "fdcId": 169291,
+  "description": "Squash, summer, zucchini, includes skin, raw",
+  "kcal": 17,
+  "protein": 1.21,
+  "carbs": 3.11,
+  "fat": 0.32,
+  "query": "squash summer zucchini includes skin raw"
+ },
+ "eggplant": {
+  "fdcId": 169228,
+  "description": "Eggplant, raw",
+  "kcal": 25,
+  "protein": 0.98,
+  "carbs": 5.88,
+  "fat": 0.18,
+  "query": "eggplant raw"
+ },
+ "aubergine": {
+  "fdcId": 169228,
+  "description": "Eggplant, raw",
+  "kcal": 25,
+  "protein": 0.98,
+  "carbs": 5.88,
+  "fat": 0.18,
+  "query": "eggplant raw"
+ },
+ "celery": {
+  "fdcId": 169988,
+  "description": "Celery, raw",
+  "kcal": 14,
+  "protein": 0.69,
+  "carbs": 2.97,
+  "fat": 0.17,
+  "query": "celery raw"
+ },
+ "corn": {
+  "fdcId": 169998,
+  "description": "Corn, sweet, yellow, raw",
+  "kcal": 86,
+  "protein": 3.27,
+  "carbs": 18.7,
+  "fat": 1.35,
+  "query": "corn sweet yellow raw"
+ },
+ "sweetcorn": {
+  "fdcId": 169998,
+  "description": "Corn, sweet, yellow, raw",
+  "kcal": 86,
+  "protein": 3.27,
+  "carbs": 18.7,
+  "fat": 1.35,
+  "query": "corn sweet yellow raw"
+ },
+ "sweet corn": {
+  "fdcId": 169998,
+  "description": "Corn, sweet, yellow, raw",
+  "kcal": 86,
+  "protein": 3.27,
+  "carbs": 18.7,
+  "fat": 1.35,
+  "query": "corn sweet yellow raw"
+ },
+ "green bean": {
+  "fdcId": 169961,
+  "description": "Beans, snap, green, raw",
+  "kcal": 31,
+  "protein": 1.83,
+  "carbs": 6.97,
+  "fat": 0.22,
+  "query": "beans snap green raw"
+ },
+ "avocado": {
+  "fdcId": 171705,
+  "description": "Avocados, raw, all commercial varieties",
+  "kcal": 160,
+  "protein": 2,
+  "carbs": 8.53,
+  "fat": 14.7,
+  "query": "avocados raw all commercial varieties"
+ },
+ "lemon": {
+  "fdcId": 167746,
+  "description": "Lemons, raw, without peel",
+  "kcal": 29,
+  "protein": 1.1,
+  "carbs": 9.32,
+  "fat": 0.3,
+  "query": "lemons raw without peel"
+ },
+ "lime": {
+  "fdcId": 168155,
+  "description": "Limes, raw",
+  "kcal": 30,
+  "protein": 0.7,
+  "carbs": 10.5,
+  "fat": 0.2,
+  "query": "limes raw"
+ },
+ "lemon juice": {
+  "fdcId": 167747,
+  "description": "Lemon juice, raw",
+  "kcal": 22,
+  "protein": 0.35,
+  "carbs": 6.9,
+  "fat": 0.24,
+  "query": "lemon juice raw"
+ },
+ "lime juice": {
+  "fdcId": 168156,
+  "description": "Lime juice, raw",
+  "kcal": 25,
+  "protein": 0.42,
+  "carbs": 8.42,
+  "fat": 0.07,
+  "query": "lime juice raw"
+ },
+ "apple": {
+  "fdcId": 1750340,
+  "description": "Apples, fuji, with skin, raw",
+  "kcal": 64.7,
+  "protein": 0.148,
+  "carbs": 15.7,
+  "fat": 0.162,
+  "query": "apples raw with skin"
+ },
+ "banana": {
+  "fdcId": 173944,
+  "description": "Bananas, raw",
+  "kcal": 89,
+  "protein": 1.09,
+  "carbs": 22.8,
+  "fat": 0.33,
+  "query": "bananas raw"
+ },
+ "black bean": {
+  "fdcId": 175238,
+  "description": "Beans, black, mature seeds, canned, low sodium",
+  "kcal": 91,
+  "protein": 6.03,
+  "carbs": 16.6,
+  "fat": 0.29,
+  "query": "beans black mature seeds canned low sodium"
+ },
+ "kidney bean": {
+  "fdcId": 174285,
+  "description": "Beans, kidney, red, mature seeds, canned, drained solids",
+  "kcal": 124,
+  "protein": 7.98,
+  "carbs": 21.5,
+  "fat": 1.05,
+  "query": "beans kidney red mature seeds canned"
+ },
+ "red kidney bean": {
+  "fdcId": 174285,
+  "description": "Beans, kidney, red, mature seeds, canned, drained solids",
+  "kcal": 124,
+  "protein": 7.98,
+  "carbs": 21.5,
+  "fat": 1.05,
+  "query": "beans kidney red mature seeds canned"
+ },
+ "chickpea": {
+  "fdcId": 173800,
+  "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+  "kcal": 139,
+  "protein": 7.05,
+  "carbs": 22.5,
+  "fat": 2.77,
+  "query": "chickpeas garbanzo beans mature seeds canned drained"
+ },
+ "garbanzo bean": {
+  "fdcId": 173800,
+  "description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained solids",
+  "kcal": 139,
+  "protein": 7.05,
+  "carbs": 22.5,
+  "fat": 2.77,
+  "query": "chickpeas garbanzo beans mature seeds canned drained"
+ },
+ "lentil": {
+  "fdcId": 172420,
+  "description": "Lentils, raw",
+  "kcal": 352,
+  "protein": 24.6,
+  "carbs": 63.4,
+  "fat": 1.06,
+  "query": "lentils raw"
+ },
+ "red lentil": {
+  "fdcId": 172420,
+  "description": "Lentils, raw",
+  "kcal": 352,
+  "protein": 24.6,
+  "carbs": 63.4,
+  "fat": 1.06,
+  "query": "lentils raw"
+ },
+ "green lentil": {
+  "fdcId": 172420,
+  "description": "Lentils, raw",
+  "kcal": 352,
+  "protein": 24.6,
+  "carbs": 63.4,
+  "fat": 1.06,
+  "query": "lentils raw"
+ },
+ "tofu": {
+  "fdcId": 172475,
+  "description": "Tofu, raw, firm, prepared with calcium sulfate",
+  "kcal": 144,
+  "protein": 17.3,
+  "carbs": 2.78,
+  "fat": 8.72,
+  "query": "tofu raw firm prepared with calcium sulfate"
+ },
+ "firm tofu": {
+  "fdcId": 172475,
+  "description": "Tofu, raw, firm, prepared with calcium sulfate",
+  "kcal": 144,
+  "protein": 17.3,
+  "carbs": 2.78,
+  "fat": 8.72,
+  "query": "tofu raw firm prepared with calcium sulfate"
+ },
+ "olive oil": {
+  "fdcId": 171413,
+  "description": "Oil, olive, salad or cooking",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil olive salad or cooking"
+ },
+ "extra virgin olive oil": {
+  "fdcId": 171413,
+  "description": "Oil, olive, salad or cooking",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil olive salad or cooking"
+ },
+ "vegetable oil": {
+  "fdcId": 172336,
+  "description": "Oil, canola",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil canola"
+ },
+ "canola oil": {
+  "fdcId": 172336,
+  "description": "Oil, canola",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil canola"
+ },
+ "sunflower oil": {
+  "fdcId": 172336,
+  "description": "Oil, canola",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil canola"
+ },
+ "oil": {
+  "fdcId": 172336,
+  "description": "Oil, canola",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil canola"
+ },
+ "cooking oil": {
+  "fdcId": 172336,
+  "description": "Oil, canola",
+  "kcal": 884,
+  "protein": 0,
+  "carbs": 0,
+  "fat": 100,
+  "query": "oil canola"
+ },
+ "soy sauce": {
+  "fdcId": 174277,
+  "description": "Soy sauce made from soy and wheat (shoyu)",
+  "kcal": 53,
+  "protein": 8.14,
+  "carbs": 4.93,
+  "fat": 0.57,
+  "query": "soy sauce made from soy and wheat shoyu"
+ },
+ "light soy sauce": {
+  "fdcId": 174277,
+  "description": "Soy sauce made from soy and wheat (shoyu)",
+  "kcal": 53,
+  "protein": 8.14,
+  "carbs": 4.93,
+  "fat": 0.57,
+  "query": "soy sauce made from soy and wheat shoyu"
+ },
+ "dark soy sauce": {
+  "fdcId": 174277,
+  "description": "Soy sauce made from soy and wheat (shoyu)",
+  "kcal": 53,
+  "protein": 8.14,
+  "carbs": 4.93,
+  "fat": 0.57,
+  "query": "soy sauce made from soy and wheat shoyu"
+ },
+ "honey": {
+  "fdcId": 169640,
+  "description": "Honey",
+  "kcal": 304,
+  "protein": 0.3,
+  "carbs": 82.4,
+  "fat": 0,
+  "query": "honey"
+ },
+ "coconut milk": {
+  "fdcId": 170173,
+  "description": "Nuts, coconut milk, canned (liquid expressed from grated meat and water)",
+  "kcal": 197,
+  "protein": 2.02,
+  "carbs": 2.81,
+  "fat": 21.3,
+  "query": "nuts coconut milk canned liquid expressed from grated meat and water"
+ },
+ "chicken stock": {
+  "fdcId": 172884,
+  "description": "Soup, stock, chicken, home-prepared",
+  "kcal": 36,
+  "protein": 2.52,
+  "carbs": 3.53,
+  "fat": 1.2,
+  "query": "soup stock chicken home-prepared"
+ },
+ "chicken broth": {
+  "fdcId": 172884,
+  "description": "Soup, stock, chicken, home-prepared",
+  "kcal": 36,
+  "protein": 2.52,
+  "carbs": 3.53,
+  "fat": 1.2,
+  "query": "soup stock chicken home-prepared"
+ },
+ "stock": {
+  "fdcId": 172884,
+  "description": "Soup, stock, chicken, home-prepared",
+  "kcal": 36,
+  "protein": 2.52,
+  "carbs": 3.53,
+  "fat": 1.2,
+  "query": "soup stock chicken home-prepared"
+ },
+ "peanut butter": {
+  "fdcId": 172470,
+  "description": "Peanut butter, smooth style, without salt",
+  "kcal": 598,
+  "protein": 22.2,
+  "carbs": 22.3,
+  "fat": 51.4,
+  "query": "peanut butter smooth style without salt"
+ },
+ "coriander": {
+  "fdcId": 169997,
+  "description": "Coriander (cilantro) leaves, raw",
+  "kcal": 23,
+  "protein": 2.13,
+  "carbs": 3.67,
+  "fat": 0.52,
+  "query": "coriander cilantro leaves raw"
+ },
+ "cilantro": {
+  "fdcId": 169997,
+  "description": "Coriander (cilantro) leaves, raw",
+  "kcal": 23,
+  "protein": 2.13,
+  "carbs": 3.67,
+  "fat": 0.52,
+  "query": "coriander cilantro leaves raw"
+ },
+ "parsley": {
+  "fdcId": 170416,
+  "description": "Parsley, fresh",
+  "kcal": 36,
+  "protein": 2.97,
+  "carbs": 6.33,
+  "fat": 0.79,
+  "query": "parsley fresh"
+ },
+ "basil": {
+  "fdcId": 172232,
+  "description": "Basil, fresh",
+  "kcal": 23,
+  "protein": 3.15,
+  "carbs": 2.65,
+  "fat": 0.64,
+  "query": "basil fresh"
+ },
+ "basil leaf": {
+  "fdcId": 172232,
+  "description": "Basil, fresh",
+  "kcal": 23,
+  "protein": 3.15,
+  "carbs": 2.65,
+  "fat": 0.64,
+  "query": "basil fresh"
+ },
+ "salsa": {
+  "fdcId": 174524,
+  "description": "Sauce, salsa, ready-to-serve",
+  "kcal": 29,
+  "protein": 1.52,
+  "carbs": 6.64,
+  "fat": 0.17,
+  "query": "sauce salsa ready-to-serve"
+ },
+ "cumin": {
+  "fdcId": 170923,
+  "description": "Spices, cumin seed",
+  "kcal": 375,
+  "protein": 17.8,
+  "carbs": 44.2,
+  "fat": 22.3,
+  "query": "spices cumin seed"
+ },
+ "ground cumin": {
+  "fdcId": 170923,
+  "description": "Spices, cumin seed",
+  "kcal": 375,
+  "protein": 17.8,
+  "carbs": 44.2,
+  "fat": 22.3,
+  "query": "spices cumin seed"
+ },
+ "cumin seed": {
+  "fdcId": 170923,
+  "description": "Spices, cumin seed",
+  "kcal": 375,
+  "protein": 17.8,
+  "carbs": 44.2,
+  "fat": 22.3,
+  "query": "spices cumin seed"
+ },
+ "paprika": {
+  "fdcId": 171329,
+  "description": "Spices, paprika",
+  "kcal": 282,
+  "protein": 14.1,
+  "carbs": 54,
+  "fat": 12.9,
+  "query": "spices paprika"
+ },
+ "smoked paprika": {
+  "fdcId": 171329,
+  "description": "Spices, paprika",
+  "kcal": 282,
+  "protein": 14.1,
+  "carbs": 54,
+  "fat": 12.9,
+  "query": "spices paprika"
+ },
+ "vinegar": {
+  "fdcId": 173469,
+  "description": "Vinegar, cider",
+  "kcal": 21,
+  "protein": 0,
+  "carbs": 0.93,
+  "fat": 0,
+  "query": "vinegar cider"
+ },
+ "cider vinegar": {
+  "fdcId": 173469,
+  "description": "Vinegar, cider",
+  "kcal": 21,
+  "protein": 0,
+  "carbs": 0.93,
+  "fat": 0,
+  "query": "vinegar cider"
+ },
+ "apple cider vinegar": {
+  "fdcId": 173469,
+  "description": "Vinegar, cider",
+  "kcal": 21,
+  "protein": 0,
+  "carbs": 0.93,
+  "fat": 0,
+  "query": "vinegar cider"
+ },
+ "brown sugar": {
+  "fdcId": 168833,
+  "description": "Sugars, brown",
+  "kcal": 380,
+  "protein": 0.12,
+  "carbs": 98.1,
+  "fat": 0,
+  "query": "sugars brown"
+ },
+ "light brown sugar": {
+  "fdcId": 168833,
+  "description": "Sugars, brown",
+  "kcal": 380,
+  "protein": 0.12,
+  "carbs": 98.1,
+  "fat": 0,
+  "query": "sugars brown"
+ },
+ "dark brown sugar": {
+  "fdcId": 168833,
+  "description": "Sugars, brown",
+  "kcal": 380,
+  "protein": 0.12,
+  "carbs": 98.1,
+  "fat": 0,
+  "query": "sugars brown"
+ },
+ "muscovado sugar": {
+  "fdcId": 168833,
+  "description": "Sugars, brown",
+  "kcal": 380,
+  "protein": 0.12,
+  "carbs": 98.1,
+  "fat": 0,
+  "query": "sugars brown"
+ },
+ "cornstarch": {
+  "fdcId": 169698,
+  "description": "Cornstarch",
+  "kcal": 381,
+  "protein": 0.26,
+  "carbs": 91.3,
+  "fat": 0.05,
+  "query": "cornstarch"
+ },
+ "cornflour": {
+  "fdcId": 169698,
+  "description": "Cornstarch",
+  "kcal": 381,
+  "protein": 0.26,
+  "carbs": 91.3,
+  "fat": 0.05,
+  "query": "cornstarch"
+ },
+ "corn starch": {
+  "fdcId": 169698,
+  "description": "Cornstarch",
+  "kcal": 381,
+  "protein": 0.26,
+  "carbs": 91.3,
+  "fat": 0.05,
+  "query": "cornstarch"
+ },
+ "fish sauce": {
+  "fdcId": 174531,
+  "description": "Sauce, fish, ready-to-serve",
+  "kcal": 35,
+  "protein": 5.06,
+  "carbs": 3.64,
+  "fat": 0.01,
+  "query": "sauce fish ready-to-serve"
+ },
+ "chorizo": {
+  "fdcId": 173859,
+  "description": "Sausage, pork, chorizo, link or ground, raw",
+  "kcal": 296,
+  "protein": 13.6,
+  "carbs": 3.78,
+  "fat": 25.1,
+  "query": "chorizo pork and beef"
+ },
+ "mayonnaise": {
+  "fdcId": 171009,
+  "description": "Salad dressing, mayonnaise, regular",
+  "kcal": 680,
+  "protein": 0.96,
+  "carbs": 0.57,
+  "fat": 74.8,
+  "query": "salad dressing mayonnaise regular"
+ },
+ "mayo": {
+  "fdcId": 171009,
+  "description": "Salad dressing, mayonnaise, regular",
+  "kcal": 680,
+  "protein": 0.96,
+  "carbs": 0.57,
+  "fat": 74.8,
+  "query": "salad dressing mayonnaise regular"
+ },
+ "egg yolk": {
+  "fdcId": 172184,
+  "description": "Egg, yolk, raw, fresh",
+  "kcal": 322,
+  "protein": 15.9,
+  "carbs": 3.59,
+  "fat": 26.5,
+  "query": "egg yolk raw fresh"
+ },
+ "rice noodle": {
+  "fdcId": 169742,
+  "description": "Rice noodles, dry",
+  "kcal": 364,
+  "protein": 5.95,
+  "carbs": 80.2,
+  "fat": 0.56,
+  "query": "rice noodles dry"
+ },
+ "flat rice noodle": {
+  "fdcId": 169742,
+  "description": "Rice noodles, dry",
+  "kcal": 364,
+  "protein": 5.95,
+  "carbs": 80.2,
+  "fat": 0.56,
+  "query": "rice noodles dry"
+ },
+ "rice vermicelli": {
+  "fdcId": 169742,
+  "description": "Rice noodles, dry",
+  "kcal": 364,
+  "protein": 5.95,
+  "carbs": 80.2,
+  "fat": 0.56,
+  "query": "rice noodles dry"
+ },
+ "icing sugar": {
+  "fdcId": 169656,
+  "description": "Sugars, powdered",
+  "kcal": 389,
+  "protein": 0,
+  "carbs": 99.8,
+  "fat": 0,
+  "query": "sugars powdered"
+ },
+ "powdered sugar": {
+  "fdcId": 169656,
+  "description": "Sugars, powdered",
+  "kcal": 389,
+  "protein": 0,
+  "carbs": 99.8,
+  "fat": 0,
+  "query": "sugars powdered"
+ },
+ "confectioner sugar": {
+  "fdcId": 169656,
+  "description": "Sugars, powdered",
+  "kcal": 389,
+  "protein": 0,
+  "carbs": 99.8,
+  "fat": 0,
+  "query": "sugars powdered"
+ },
+ "white wine": {
+  "fdcId": 174837,
+  "description": "Alcoholic beverage, wine, table, white",
+  "kcal": 82,
+  "protein": 0.07,
+  "carbs": 2.6,
+  "fat": 0,
+  "query": "alcoholic beverage wine table white"
+ },
+ "dry white wine": {
+  "fdcId": 174837,
+  "description": "Alcoholic beverage, wine, table, white",
+  "kcal": 82,
+  "protein": 0.07,
+  "carbs": 2.6,
+  "fat": 0,
+  "query": "alcoholic beverage wine table white"
+ },
+ "almond": {
+  "fdcId": 170567,
+  "description": "Nuts, almonds",
+  "kcal": 579,
+  "protein": 21.2,
+  "carbs": 21.6,
+  "fat": 49.9,
+  "query": "nuts almonds"
+ },
+ "flaked almond": {
+  "fdcId": 170567,
+  "description": "Nuts, almonds",
+  "kcal": 579,
+  "protein": 21.2,
+  "carbs": 21.6,
+  "fat": 49.9,
+  "query": "nuts almonds"
+ },
+ "ground almond": {
+  "fdcId": 170567,
+  "description": "Nuts, almonds",
+  "kcal": 579,
+  "protein": 21.2,
+  "carbs": 21.6,
+  "fat": 49.9,
+  "query": "nuts almonds"
+ },
+ "peanut": {
+  "fdcId": 172430,
+  "description": "Peanuts, all types, raw",
+  "kcal": 567,
+  "protein": 25.8,
+  "carbs": 16.1,
+  "fat": 49.2,
+  "query": "peanuts all types raw"
+ },
+ "roasted peanut": {
+  "fdcId": 172430,
+  "description": "Peanuts, all types, raw",
+  "kcal": 567,
+  "protein": 25.8,
+  "carbs": 16.1,
+  "fat": 49.2,
+  "query": "peanuts all types raw"
+ },
+ "sesame seed": {
+  "fdcId": 170150,
+  "description": "Seeds, sesame seeds, whole, dried",
+  "kcal": 573,
+  "protein": 17.7,
+  "carbs": 23.4,
+  "fat": 49.7,
+  "query": "seeds sesame seeds whole dried"
+ },
+ "mustard": {
+  "fdcId": 172234,
+  "description": "Mustard, prepared, yellow",
+  "kcal": 60,
+  "protein": 3.74,
+  "carbs": 5.83,
+  "fat": 3.34,
+  "query": "mustard prepared yellow"
+ },
+ "dijon mustard": {
+  "fdcId": 172234,
+  "description": "Mustard, prepared, yellow",
+  "kcal": 60,
+  "protein": 3.74,
+  "carbs": 5.83,
+  "fat": 3.34,
+  "query": "mustard prepared yellow"
+ },
+ "yellow mustard": {
+  "fdcId": 172234,
+  "description": "Mustard, prepared, yellow",
+  "kcal": 60,
+  "protein": 3.74,
+  "carbs": 5.83,
+  "fat": 3.34,
+  "query": "mustard prepared yellow"
+ },
+ "oyster sauce": {
+  "fdcId": 174529,
+  "description": "Sauce, oyster, ready-to-serve",
+  "kcal": 51,
+  "protein": 1.35,
+  "carbs": 10.9,
+  "fat": 0.25,
+  "query": "sauce oyster ready-to-serve"
+ },
+ "baking powder": {
+  "fdcId": 172804,
+  "description": "Leavening agents, baking powder, double-acting, straight phosphate",
+  "kcal": 51,
+  "protein": 0.1,
+  "carbs": 24.1,
+  "fat": 0,
+  "query": "leavening agents baking powder double-acting"
+ },
+ "cinnamon": {
+  "fdcId": 171320,
+  "description": "Spices, cinnamon, ground",
+  "kcal": 247,
+  "protein": 3.99,
+  "carbs": 80.6,
+  "fat": 1.24,
+  "query": "spices cinnamon ground"
+ },
+ "ground cinnamon": {
+  "fdcId": 171320,
+  "description": "Spices, cinnamon, ground",
+  "kcal": 247,
+  "protein": 3.99,
+  "carbs": 80.6,
+  "fat": 1.24,
+  "query": "spices cinnamon ground"
+ },
+ "cinnamon stick": {
+  "fdcId": 171320,
+  "description": "Spices, cinnamon, ground",
+  "kcal": 247,
+  "protein": 3.99,
+  "carbs": 80.6,
+  "fat": 1.24,
+  "query": "spices cinnamon ground"
+ },
+ "vanilla extract": {
+  "fdcId": 173471,
+  "description": "Vanilla extract",
+  "kcal": 288,
+  "protein": 0.06,
+  "carbs": 12.6,
+  "fat": 0.06,
+  "query": "vanilla extract"
+ },
+ "vanilla": {
+  "fdcId": 173471,
+  "description": "Vanilla extract",
+  "kcal": 288,
+  "protein": 0.06,
+  "carbs": 12.6,
+  "fat": 0.06,
+  "query": "vanilla extract"
+ },
+ "thyme": {
+  "fdcId": 170938,
+  "description": "Spices, thyme, dried",
+  "kcal": 276,
+  "protein": 9.11,
+  "carbs": 63.9,
+  "fat": 7.43,
+  "query": "spices thyme dried"
+ },
+ "dried thyme": {
+  "fdcId": 170938,
+  "description": "Spices, thyme, dried",
+  "kcal": 276,
+  "protein": 9.11,
+  "carbs": 63.9,
+  "fat": 7.43,
+  "query": "spices thyme dried"
+ },
+ "turmeric": {
+  "fdcId": 172231,
+  "description": "Spices, turmeric, ground",
+  "kcal": 312,
+  "protein": 9.68,
+  "carbs": 67.1,
+  "fat": 3.25,
+  "query": "spices turmeric ground"
+ },
+ "ground turmeric": {
+  "fdcId": 172231,
+  "description": "Spices, turmeric, ground",
+  "kcal": 312,
+  "protein": 9.68,
+  "carbs": 67.1,
+  "fat": 3.25,
+  "query": "spices turmeric ground"
+ },
+ "turmeric powder": {
+  "fdcId": 172231,
+  "description": "Spices, turmeric, ground",
+  "kcal": 312,
+  "protein": 9.68,
+  "carbs": 67.1,
+  "fat": 3.25,
+  "query": "spices turmeric ground"
+ },
+ "pea": {
+  "fdcId": 170419,
+  "description": "Peas, green, raw",
+  "kcal": 81,
+  "protein": 5.42,
+  "carbs": 14.4,
+  "fat": 0.4,
+  "query": "peas green raw"
+ },
+ "green pea": {
+  "fdcId": 170419,
+  "description": "Peas, green, raw",
+  "kcal": 81,
+  "protein": 5.42,
+  "carbs": 14.4,
+  "fat": 0.4,
+  "query": "peas green raw"
+ }
+}

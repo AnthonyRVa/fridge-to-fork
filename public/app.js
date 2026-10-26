@@ -223,10 +223,10 @@ async function nutrition(r) {
       <div class="split" role="img" aria-label="Calories from protein ${Math.round(kc.protein / sum * 100)}%, carbs ${Math.round(kc.carbs / sum * 100)}%, fat ${Math.round(kc.fat / sum * 100)}%">
         <i style="width:${kc.protein / sum * 100}%;background:var(--protein)"></i><i style="width:${kc.carbs / sum * 100}%;background:var(--carbs)"></i><i style="width:${kc.fat / sum * 100}%;background:var(--fat)"></i>
       </div>
-      <p class="muted" style="font-size:13px">Estimate for ${j.servings} servings, from USDA FoodData Central. ${j.matched} of ${j.rows.length} ingredients matched.</p>
+      <p class="muted" style="font-size:13px">Estimate for ${j.servings} servings, from USDA FoodData Central. ${j.matched} of ${j.rows.length} ingredients matched, ${j.rows.filter(x => x.from === "baked").length} of them from hand-checked USDA entries.</p>
       <details><summary>See each ingredient</summary><div class="tbl"><table>
         <thead><tr><th>Ingredient</th><th>USDA match</th><th class="n">g</th><th class="n">kcal</th></tr></thead>
-        <tbody>${j.rows.map(x => `<tr><td>${esc(x.name)}</td><td>${esc(x.match || "no match")}</td><td class="n">${x.grams}</td><td class="n">${x.kcal}</td></tr>`).join("")}</tbody>
+        <tbody>${j.rows.map(x => `<tr><td>${esc(x.name)}</td><td>${esc(x.match || (x.grams ? "no match" : "garnish, not counted"))}${x.from === "baked" ? " ✓" : ""}</td><td class="n">${x.grams}</td><td class="n">${x.kcal}</td></tr>`).join("")}</tbody>
       </table></div></details>`;
   } catch (e) {
     box.innerHTML = `<h3>Nutrition per serving</h3><p class="err">${esc(e.message || "Couldn't load nutrition.")}</p>`;
