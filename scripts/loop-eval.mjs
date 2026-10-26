@@ -57,8 +57,8 @@ for (const [fname, fridge] of Object.entries(FRIDGES)) {
     if (useful.length < MIN_OPTIONS) fails.push(`only ${useful.length} useful options`);
     if (cuisine !== "any" && inStyle.length < MIN_OPTIONS && !out.note) fails.push(`only ${inStyle.length} ${cuisine} and no note shown`);
     // Is a shortfall our logic, or does the database simply not have more? styleHits is how many
-    // in-style recipes use any fridge item at all; 40 or fewer means every one of them was checked.
-    const dataLimited = out.styleHits != null && out.styleHits <= 40;
+    // in-style recipes use any fridge item at all; 60 or fewer means every one of them was checked.
+    const dataLimited = out.styleHits != null && out.styleHits <= 60;
     if (cuisine !== "any" && inStyle.length < MIN_OPTIONS) fails.push(`only ${inStyle.length} ${cuisine} options${dataLimited ? " (database limit)" : ""}`);
     // With no style chosen the top pick must need at most 5 items. With a style chosen it must be
     // the in-style recipe that needs the fewest items (the best that style can offer).
