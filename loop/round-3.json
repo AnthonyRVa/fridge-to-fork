@@ -1,0 +1,908 @@
+{
+  "summary": {
+    "round": "3",
+    "passed": 36,
+    "total": 64,
+    "at": "2026-10-26T05:45:30.557Z",
+    "failsByType": {
+      "only N Indian options (database limit)": 5,
+      "only N Mexican options (database limit)": 6,
+      "only N Latin American options (database limit)": 4,
+      "only N Italian options (database limit)": 5,
+      "only N Mediterranean options (database limit)": 2,
+      "only N American options (database limit)": 4,
+      "only N Mediterranean options": 1,
+      "only N Asian options": 1
+    }
+  },
+  "rows": [
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 2,
+      "top": "Paszteciki (Polish Pasties)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Mexican",
+      "options": 12,
+      "inStyle": 6,
+      "topNeed": 3,
+      "top": "Salt cod tortilla",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 8,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Latin American",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 3,
+      "top": "Flan",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 38,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 3,
+      "top": "Ramen Noodles with Boiled Egg",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 31,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Italian",
+      "options": 12,
+      "inStyle": 3,
+      "topNeed": 7,
+      "top": "Potato Gratin with Chicken",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 10,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 3,
+      "top": "Salt cod tortilla",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 80,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 2,
+      "topNeed": 7,
+      "top": "Jamaican Curry Chicken Recipe",
+      "falseMatches": [],
+      "note": "Only 2 Indian recipes use your ingredients, so other styles are included too.",
+      "styleHits": 11,
+      "pass": false,
+      "fails": [
+        "only 2 Indian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "American",
+      "options": 12,
+      "inStyle": 6,
+      "topNeed": 5,
+      "top": "Saskatoon Pie",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 18,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "any",
+      "options": 9,
+      "inStyle": 9,
+      "topNeed": 4,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Mexican",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [],
+      "note": "None of our Mexican recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 1,
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Latin American",
+      "options": 11,
+      "inStyle": 2,
+      "topNeed": 9,
+      "top": "Brown Stew Chicken",
+      "falseMatches": [],
+      "note": "Only 2 Latin American recipes use your ingredients, so other styles are included too.",
+      "styleHits": 8,
+      "pass": false,
+      "fails": [
+        "only 2 Latin American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 3,
+      "top": "Ramen Noodles with Boiled Egg",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 56,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Italian",
+      "options": 10,
+      "inStyle": 1,
+      "topNeed": 10,
+      "top": "Chicken Alfredo Primavera",
+      "falseMatches": [],
+      "note": "Only 1 Italian recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 2,
+      "pass": false,
+      "fails": [
+        "only 1 Italian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 2,
+      "topNeed": 8,
+      "top": "Chicken & chorizo rice pot",
+      "falseMatches": [],
+      "note": "Only 2 Mediterranean recipes use your ingredients, so other styles are included too.",
+      "styleHits": 11,
+      "pass": false,
+      "fails": [
+        "only 2 Mediterranean options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 3,
+      "topNeed": 8,
+      "top": "Katsu Chicken curry",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 4,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "American",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [],
+      "note": "None of our American recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 3,
+      "pass": false,
+      "fails": [
+        "only 0 American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 1,
+      "top": "Algerian Kefta (Meatballs)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Mexican",
+      "options": 12,
+      "inStyle": 7,
+      "topNeed": 4,
+      "top": "Mango Tropical Salsa",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 8,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Latin American",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 3,
+      "top": "Corned Beef and Cabbage – Jamaican Style",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 32,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 2,
+      "top": "Bistek",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 34,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Italian",
+      "options": 12,
+      "inStyle": 7,
+      "topNeed": 5,
+      "top": "Lasagna Sandwiches",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 12,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 1,
+      "top": "Algerian Kefta (Meatballs)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 76,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 9,
+      "topNeed": 5,
+      "top": "Thai prawn curry",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 12,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "American",
+      "options": 12,
+      "inStyle": 6,
+      "topNeed": 5,
+      "top": "Pate Chinois",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 11,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "any",
+      "options": 8,
+      "inStyle": 8,
+      "topNeed": 4,
+      "top": "Baked salmon with fennel & tomatoes",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Mexican",
+      "options": 8,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Baked salmon with fennel & tomatoes",
+      "falseMatches": [],
+      "note": "None of our Mexican recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 1,
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Latin American",
+      "options": 8,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Baked salmon with fennel & tomatoes",
+      "falseMatches": [],
+      "note": "None of our Latin American recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 1,
+      "pass": false,
+      "fails": [
+        "only 0 Latin American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Asian",
+      "options": 11,
+      "inStyle": 3,
+      "topNeed": 5,
+      "top": "Beef Mechado",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 12,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Italian",
+      "options": 8,
+      "inStyle": 1,
+      "topNeed": 7,
+      "top": "Salmon Prawn Risotto",
+      "falseMatches": [],
+      "note": "Only 1 Italian recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 1,
+      "pass": false,
+      "fails": [
+        "only 1 Italian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Mediterranean",
+      "options": 10,
+      "inStyle": 6,
+      "topNeed": 4,
+      "top": "Portuguese barbecued pork (Febras assadas)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 27,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Indian",
+      "options": 9,
+      "inStyle": 1,
+      "topNeed": 7,
+      "top": "Thai Green Curry",
+      "falseMatches": [],
+      "note": "Only 1 Indian recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 2,
+      "pass": false,
+      "fails": [
+        "only 1 Indian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "American",
+      "options": 10,
+      "inStyle": 2,
+      "topNeed": 4,
+      "top": "Portuguese barbecued pork (Febras assadas)",
+      "falseMatches": [],
+      "note": "Only 2 American recipes use your ingredients, so other styles are included too.",
+      "styleHits": 5,
+      "pass": false,
+      "fails": [
+        "only 2 American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "any",
+      "options": 10,
+      "inStyle": 10,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Mexican",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [],
+      "note": "None of our Mexican recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 0,
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Latin American",
+      "options": 11,
+      "inStyle": 1,
+      "topNeed": 15,
+      "top": "Jerk chicken with rice & peas",
+      "falseMatches": [],
+      "note": "Only 1 Latin American recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 9,
+      "pass": false,
+      "fails": [
+        "only 1 Latin American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 34,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Italian",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [],
+      "note": "None of our Italian recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 3,
+      "pass": false,
+      "fails": [
+        "only 0 Italian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 2,
+      "topNeed": 13,
+      "top": "Lamb tomato and sweet spices",
+      "falseMatches": [],
+      "note": "Only 2 Mediterranean recipes use your ingredients, so other styles are included too.",
+      "styleHits": 19,
+      "pass": false,
+      "fails": [
+        "only 2 Mediterranean options"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Indian",
+      "options": 11,
+      "inStyle": 1,
+      "topNeed": 7,
+      "top": "Kidney Bean Curry",
+      "falseMatches": [],
+      "note": "Only 1 Indian recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 7,
+      "pass": false,
+      "fails": [
+        "only 1 Indian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "American",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [],
+      "note": "None of our American recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 4,
+      "pass": false,
+      "fails": [
+        "only 0 American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Mexican",
+      "options": 12,
+      "inStyle": 1,
+      "topNeed": 10,
+      "top": "Chickpea Fajitas",
+      "falseMatches": [],
+      "note": "Only 1 Mexican recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 5,
+      "pass": false,
+      "fails": [
+        "only 1 Mexican options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Latin American",
+      "options": 12,
+      "inStyle": 1,
+      "topNeed": 10,
+      "top": "Chickpea Fajitas",
+      "falseMatches": [],
+      "note": "Only 1 Latin American recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 9,
+      "pass": false,
+      "fails": [
+        "only 1 Latin American options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 1,
+      "topNeed": 11,
+      "top": "Turkish lahmacun",
+      "falseMatches": [],
+      "note": "Only 1 Asian recipe uses your ingredients, so other styles are included too.",
+      "styleHits": 19,
+      "pass": false,
+      "fails": [
+        "only 1 Asian options"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Italian",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [],
+      "note": "None of our Italian recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 2,
+      "pass": false,
+      "fails": [
+        "only 0 Italian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 46,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [],
+      "note": "None of our Indian recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 3,
+      "pass": false,
+      "fails": [
+        "only 0 Indian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "American",
+      "options": 12,
+      "inStyle": 4,
+      "topNeed": 5,
+      "top": "Portuguese barbecued pork (Febras assadas)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 6,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 0,
+      "top": "Bread omelette",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Mexican",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 0,
+      "top": "Bread omelette",
+      "falseMatches": [],
+      "note": "None of our Mexican recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 3,
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Latin American",
+      "options": 12,
+      "inStyle": 10,
+      "topNeed": 1,
+      "top": "Empanadas Fritas de Queso",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 19,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 4,
+      "topNeed": 2,
+      "top": "Apam balik",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 20,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Italian",
+      "options": 12,
+      "inStyle": 3,
+      "topNeed": 2,
+      "top": "Spaghetti alla Carbonara",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 6,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 2,
+      "top": "Spaghetti alla Carbonara",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 34,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 0,
+      "top": "Bread omelette",
+      "falseMatches": [],
+      "note": "None of our Indian recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 2,
+      "pass": false,
+      "fails": [
+        "only 0 Indian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "American",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 0,
+      "top": "Polskie Nalesniki (Polish Pancakes)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 24,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "any",
+      "options": 10,
+      "inStyle": 10,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": null,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Mexican",
+      "options": 10,
+      "inStyle": 2,
+      "topNeed": 4,
+      "top": "Mango Tropical Salsa",
+      "falseMatches": [],
+      "note": "Only 2 Mexican recipes use your ingredients, so other styles are included too.",
+      "styleHits": 4,
+      "pass": false,
+      "fails": [
+        "only 2 Mexican options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Latin American",
+      "options": 11,
+      "inStyle": 4,
+      "topNeed": 4,
+      "top": "Mango Tropical Salsa",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 11,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Asian",
+      "options": 12,
+      "inStyle": 9,
+      "topNeed": 6,
+      "top": "Beef Banh Mi Bowls with Sriracha Mayo, Carrot & Pickled Cucumber",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 30,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Italian",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [],
+      "note": "None of our Italian recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 1,
+      "pass": false,
+      "fails": [
+        "only 0 Italian options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Mediterranean",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [],
+      "note": "None of our Mediterranean recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 14,
+      "pass": false,
+      "fails": [
+        "only 0 Mediterranean options (database limit)"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 5,
+      "topNeed": 7,
+      "top": "Thai Green Curry",
+      "falseMatches": [],
+      "note": "",
+      "styleHits": 6,
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "American",
+      "options": 10,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [],
+      "note": "None of our American recipes use your ingredients yet, so here are the closest matches in other styles.",
+      "styleHits": 1,
+      "pass": false,
+      "fails": [
+        "only 0 American options (database limit)"
+      ]
+    }
+  ]
+}

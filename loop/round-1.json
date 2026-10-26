@@ -1,0 +1,915 @@
+{
+  "summary": {
+    "round": "1",
+    "passed": 10,
+    "total": 56,
+    "at": "2026-10-26T05:43:29.835Z",
+    "failsByType": {
+      "only N Mexican options": 8,
+      "best match needs N items": 11,
+      "only N Indian options": 8,
+      "N false ingredient matches": 30,
+      "only N Italian options": 6,
+      "only N useful options": 7,
+      "only N Mediterranean and no note shown": 3,
+      "only N Mediterranean options": 3,
+      "only N American options": 5,
+      "only N Italian and no note shown": 2,
+      "only N Asian and no note shown": 1,
+      "only N Asian options": 1,
+      "only N Mexican and no note shown": 1
+    }
+  },
+  "rows": [
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 2,
+      "top": "Paszteciki (Polish Pasties)",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Mexican",
+      "options": 11,
+      "inStyle": 1,
+      "topNeed": 7,
+      "top": "Cajun spiced fish tacos",
+      "falseMatches": [],
+      "note": "Only 2 Mexican recipes use your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 1 Mexican options",
+        "best match needs 7 items"
+      ]
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Asian",
+      "options": 6,
+      "inStyle": 6,
+      "topNeed": 3,
+      "top": "Ramen Noodles with Boiled Egg",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Italian",
+      "options": 3,
+      "inStyle": 3,
+      "topNeed": 6,
+      "top": "Pilchard puttanesca",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "best match needs 6 items"
+      ]
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Mediterranean",
+      "options": 5,
+      "inStyle": 5,
+      "topNeed": 3,
+      "top": "Salt cod tortilla",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 2,
+      "top": "Paszteciki (Polish Pasties)",
+      "falseMatches": [],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options"
+      ]
+    },
+    {
+      "fridge": "Breakfast leftovers",
+      "cuisine": "American",
+      "options": 3,
+      "inStyle": 3,
+      "topNeed": 2,
+      "top": "Timbits",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "any",
+      "options": 7,
+      "inStyle": 7,
+      "topNeed": 3,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [
+        "Drunken noodles (pad kee mao): Flat Rice Noodles"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Mexican",
+      "options": 7,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [
+        "Drunken noodles (pad kee mao): Flat Rice Noodles"
+      ],
+      "note": "No Mexican recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Asian",
+      "options": 10,
+      "inStyle": 10,
+      "topNeed": 3,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [
+        "Drunken noodles (pad kee mao): Flat Rice Noodles",
+        "Air Fryer Egg Rolls: Rice Vinegar",
+        "Vietnamese veg parcels: Rice Noodles",
+        "Vietnamese veg parcels: Rice Vinegar"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "4 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Italian",
+      "options": 7,
+      "inStyle": 1,
+      "topNeed": 8,
+      "top": "Salmon Prawn Risotto",
+      "falseMatches": [
+        "Drunken noodles (pad kee mao): Flat Rice Noodles"
+      ],
+      "note": "Only 2 Italian recipes use your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 1 Italian options",
+        "best match needs 8 items",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Mediterranean",
+      "options": 2,
+      "inStyle": 2,
+      "topNeed": 3,
+      "top": "Turkish rice (vermicelli rice)",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 2 useful options",
+        "only 2 Mediterranean and no note shown",
+        "only 2 Mediterranean options"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "Indian",
+      "options": 7,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Drunken noodles (pad kee mao)",
+      "falseMatches": [
+        "Drunken noodles (pad kee mao): Flat Rice Noodles"
+      ],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Chicken & rice",
+      "cuisine": "American",
+      "options": 6,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Rappie Pie",
+      "falseMatches": [
+        "Drunken noodles (pad kee mao): Flat Rice Noodles"
+      ],
+      "note": "Only 1 American recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 0 American options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 1,
+      "top": "Algerian Kefta (Meatballs)",
+      "falseMatches": [
+        "Venezuelan turnovers: Tomato Sauce",
+        "Pastel de Papas (Chilean Potato Pie): Tomato Puree"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "2 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Mexican",
+      "options": 12,
+      "inStyle": 1,
+      "topNeed": 8,
+      "top": "Stuffed Bell Peppers with Quinoa and Black Beans",
+      "falseMatches": [
+        "Golabki (cabbage roll): Tomato Puree",
+        "Venezuelan turnovers: Tomato Sauce",
+        "Pastel de Papas (Chilean Potato Pie): Tomato Puree",
+        "Cabbage with Ground Beef: Tomato Puree"
+      ],
+      "note": "Only 1 Mexican recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 1 Mexican options",
+        "best match needs 8 items",
+        "4 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Asian",
+      "options": 10,
+      "inStyle": 10,
+      "topNeed": 2,
+      "top": "Bistek",
+      "falseMatches": [
+        "Beef Mechado: Tomato Puree"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Italian",
+      "options": 7,
+      "inStyle": 7,
+      "topNeed": 5,
+      "top": "Pilchard puttanesca",
+      "falseMatches": [
+        "Pilchard puttanesca: Tomato Puree",
+        "Lasagne: Tomato Puree"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "2 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Mediterranean",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 1,
+      "top": "Burek",
+      "falseMatches": [
+        "Air fryer patatas bravas: Tomato Puree",
+        "Moussaka: Tomato Puree",
+        "Chicken & chorizo rice pot: Tomato Puree",
+        "Arroz con gambas y calamar: Tomato Puree",
+        "Ezme: Tomato Puree"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "5 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 1,
+      "top": "Algerian Kefta (Meatballs)",
+      "falseMatches": [
+        "Golabki (cabbage roll): Tomato Puree",
+        "Venezuelan turnovers: Tomato Sauce",
+        "Pastel de Papas (Chilean Potato Pie): Tomato Puree",
+        "Cabbage with Ground Beef: Tomato Puree"
+      ],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options",
+        "4 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Pasta night",
+      "cuisine": "American",
+      "options": 3,
+      "inStyle": 3,
+      "topNeed": 5,
+      "top": "Pate Chinois",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "any",
+      "options": 6,
+      "inStyle": 6,
+      "topNeed": 3,
+      "top": "Honey Teriyaki Salmon",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Mexican",
+      "options": 5,
+      "inStyle": 0,
+      "topNeed": 9,
+      "top": "Cajun spiced fish tacos",
+      "falseMatches": [],
+      "note": "Only 1 Mexican recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options",
+        "best match needs 9 items"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Asian",
+      "options": 3,
+      "inStyle": 3,
+      "topNeed": 3,
+      "top": "Honey Teriyaki Salmon",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Italian",
+      "options": 6,
+      "inStyle": 1,
+      "topNeed": 7,
+      "top": "Salmon Prawn Risotto",
+      "falseMatches": [],
+      "note": "Only 1 Italian recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 1 Italian options",
+        "best match needs 7 items"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Mediterranean",
+      "options": 3,
+      "inStyle": 3,
+      "topNeed": 3,
+      "top": "Chicken wings with cumin, lemon & garlic",
+      "falseMatches": [
+        "Portuguese barbecued pork (Febras assadas): Lemon Juice"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "Indian",
+      "options": 6,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Honey Teriyaki Salmon",
+      "falseMatches": [],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options"
+      ]
+    },
+    {
+      "fridge": "Fish dinner",
+      "cuisine": "American",
+      "options": 6,
+      "inStyle": 1,
+      "topNeed": 4,
+      "top": "BeaverTails",
+      "falseMatches": [],
+      "note": "Only 2 American recipes use your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 1 American options"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "any",
+      "options": 6,
+      "inStyle": 6,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [
+        "Air Fryer Egg Rolls: Rice Vinegar"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Mexican",
+      "options": 6,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [
+        "Air Fryer Egg Rolls: Rice Vinegar"
+      ],
+      "note": "No Mexican recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Asian",
+      "options": 8,
+      "inStyle": 8,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [
+        "Air Fryer Egg Rolls: Rice Vinegar"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Italian",
+      "options": 0,
+      "inStyle": 0,
+      "topNeed": 8,
+      "top": "Salmon Prawn Risotto",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 0 useful options",
+        "only 0 Italian and no note shown",
+        "only 0 Italian options",
+        "best match needs 8 items"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Mediterranean",
+      "options": 0,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Turkish rice (vermicelli rice)",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 0 useful options",
+        "only 0 Mediterranean and no note shown",
+        "only 0 Mediterranean options"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "Indian",
+      "options": 6,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Chicken Congee",
+      "falseMatches": [
+        "Air Fryer Egg Rolls: Rice Vinegar"
+      ],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Plant based",
+      "cuisine": "American",
+      "options": 6,
+      "inStyle": 0,
+      "topNeed": 5,
+      "top": "Jiggs Dinner",
+      "falseMatches": [
+        "Air Fryer Egg Rolls: Rice Vinegar"
+      ],
+      "note": "Only 2 American recipes use your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 0 American options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "any",
+      "options": 9,
+      "inStyle": 9,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [
+        "Falafel Pita Sandwich with Tahini Sauce: Lemon Juice"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Mexican",
+      "options": 9,
+      "inStyle": 1,
+      "topNeed": 9,
+      "top": "Cajun spiced fish tacos",
+      "falseMatches": [
+        "Cacik: Lemon Juice"
+      ],
+      "note": "Only 2 Mexican recipes use your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 1 Mexican options",
+        "best match needs 9 items",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Asian",
+      "options": 3,
+      "inStyle": 3,
+      "topNeed": 3,
+      "top": "Bistek",
+      "falseMatches": [
+        "Beef Mechado: Tomato Puree",
+        "Beef Asado: Tomato Puree",
+        "Beef Asado: Tomato Sauce"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "3 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Italian",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 8,
+      "top": "Salmon Prawn Risotto",
+      "falseMatches": [
+        "Cacik: Lemon Juice"
+      ],
+      "note": "Only 1 Italian recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 0 Italian options",
+        "best match needs 8 items",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Mediterranean",
+      "options": 11,
+      "inStyle": 11,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [
+        "Cacik: Lemon Juice",
+        "Moussaka: Tomato Puree",
+        "Tuna and Egg Briks: Lemon Juice"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "3 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "Indian",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 2,
+      "top": "Hummus",
+      "falseMatches": [
+        "Cacik: Lemon Juice"
+      ],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Mezze",
+      "cuisine": "American",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "BeaverTails",
+      "falseMatches": [
+        "Cacik: Lemon Juice"
+      ],
+      "note": "Only 1 American recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 0 American options",
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "any",
+      "options": 12,
+      "inStyle": 12,
+      "topNeed": 0,
+      "top": "Bread omelette",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Mexican",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 0,
+      "top": "Bread omelette",
+      "falseMatches": [],
+      "note": "No Mexican recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Mexican options"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Asian",
+      "options": 2,
+      "inStyle": 2,
+      "topNeed": 2,
+      "top": "Apam balik",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 2 useful options",
+        "only 2 Asian and no note shown",
+        "only 2 Asian options"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Italian",
+      "options": 2,
+      "inStyle": 2,
+      "topNeed": 2,
+      "top": "Spaghetti alla Carbonara",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 2 useful options",
+        "only 2 Italian and no note shown",
+        "only 2 Italian options"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Mediterranean",
+      "options": 6,
+      "inStyle": 6,
+      "topNeed": 2,
+      "top": "Spaghetti alla Carbonara",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "Indian",
+      "options": 12,
+      "inStyle": 0,
+      "topNeed": 0,
+      "top": "Bread omelette",
+      "falseMatches": [],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options"
+      ]
+    },
+    {
+      "fridge": "Diner",
+      "cuisine": "American",
+      "options": 6,
+      "inStyle": 6,
+      "topNeed": 1,
+      "top": "Timbits",
+      "falseMatches": [],
+      "note": "",
+      "pass": true,
+      "fails": []
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "any",
+      "options": 8,
+      "inStyle": 8,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [
+        "Mango Tropical Salsa: Lime juice"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "1 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Mexican",
+      "options": 1,
+      "inStyle": 1,
+      "topNeed": 9,
+      "top": "Chickpea Fajitas",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 1 useful options",
+        "only 1 Mexican and no note shown",
+        "only 1 Mexican options",
+        "best match needs 9 items"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Asian",
+      "options": 7,
+      "inStyle": 7,
+      "topNeed": 5,
+      "top": "Salmon noodle wraps",
+      "falseMatches": [
+        "Salmon noodle wraps: Rice Noodles",
+        "Laksa King Prawn Noodles: rice noodles",
+        "Salmon noodle soup: Rice Noodles",
+        "Pad Thai: Rice Noodles",
+        "Spicy Thai prawn noodles: Rice Noodles"
+      ],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "5 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Italian",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 8,
+      "top": "Salmon Prawn Risotto",
+      "falseMatches": [
+        "Mango Tropical Salsa: Lime juice",
+        "Jamaican Pepper Shrimp: Shrimp Stock"
+      ],
+      "note": "Only 1 Italian recipe uses your ingredients, so other styles are included too.",
+      "pass": false,
+      "fails": [
+        "only 0 Italian options",
+        "best match needs 8 items",
+        "2 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Mediterranean",
+      "options": 0,
+      "inStyle": 0,
+      "topNeed": 3,
+      "top": "Turkish rice (vermicelli rice)",
+      "falseMatches": [],
+      "note": "",
+      "pass": false,
+      "fails": [
+        "only 0 useful options",
+        "only 0 Mediterranean and no note shown",
+        "only 0 Mediterranean options"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "Indian",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [
+        "Mango Tropical Salsa: Lime juice",
+        "Jamaican Pepper Shrimp: Shrimp Stock"
+      ],
+      "note": "No Indian recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 Indian options",
+        "2 false ingredient matches"
+      ]
+    },
+    {
+      "fridge": "Taco Tuesday",
+      "cuisine": "American",
+      "options": 9,
+      "inStyle": 0,
+      "topNeed": 4,
+      "top": "Ají de Aguacate Recipe (Colombian Spicy Avocado Sauce)",
+      "falseMatches": [
+        "Mango Tropical Salsa: Lime juice",
+        "Jamaican Pepper Shrimp: Shrimp Stock"
+      ],
+      "note": "No American recipes use your ingredients yet. Here are the closest matches in other styles.",
+      "pass": false,
+      "fails": [
+        "only 0 American options",
+        "2 false ingredient matches"
+      ]
+    }
+  ]
+}

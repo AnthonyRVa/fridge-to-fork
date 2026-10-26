@@ -7,7 +7,13 @@ const FILLER = new Set([
   "jar", "pack", "bunch", "handful", "piece", "pieces", "whole", "raw", "cooked", "old", "and",
 ]);
 
-const MODIFIERS = new Set(["black", "white", "cayenne", "powder", "flake", "dried", "paprika"]);
+const MODIFIERS = new Set(["black", "white", "cayenne", "powder", "flake", "dried", "paprika", "coconut", "almond", "oat"]);
+
+// Products made from an ingredient: having the ingredient doesn't mean having these.
+const PRODUCTS = new Set(["stock", "broth", "sauce", "powder", "paste", "puree", "passata", "vinegar", "noodle",
+  "extract", "seasoning", "cube", "gravy", "oil", "juice", "zest", "flour", "wine", "ketchup", "jam", "syrup", "milk", "cream"]);
+const CITRUS = new Set(["lemon", "lime", "orange"]);
+const CITRUS_PARTS = new Set(["juice", "zest"]);
 
 // Things most kitchens already have. Used when the cook ticks "I have basics".
 export const PANTRY = [
@@ -57,6 +63,9 @@ export function covers(fridgeItem, recipeIngredient) {
   // fridge word must appear in the recipe ingredient.
   const head = b[b.length - 1];
   if (a.includes(head)) return true;
+  // "rice" doesn't give you rice noodles, and "tomatoes" aren't tomato puree.
+  // A lemon or lime does give you its juice and zest, though.
+  if (PRODUCTS.has(head) && !(CITRUS_PARTS.has(head) && a.some(w => CITRUS.has(w)))) return false;
   return a.every(w => bs.has(w));
 }
 
