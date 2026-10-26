@@ -1,0 +1,200 @@
+<title>Fridge to Fork Loop</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Chivo:wght@400;500;700&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a lab notebook pinned to the fridge. Scoreboard up top, then the prompt, the rounds, and the final grid. */
+:root{
+  --bg:#eef3f4; --paper:#fbfdfd; --ink:#17262b; --muted:#5b6d72; --line:#d3dfe1;
+  --accent:#0f7a73; --pass:#2f7d3a; --limit:#c99a1b; --fail:#b4531a;
+  --pass-bg:#d9efdc; --limit-bg:#fbefc8; --fail-bg:#fbdccc; --mag:#ffd84d; --mag-ink:#17262b;
+  --display:"Bagel Fat One","Arial Rounded MT Bold",system-ui,sans-serif;
+  --body:"Chivo",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1719; --paper:#162124; --ink:#e6eff0; --muted:#94a8ac; --line:#2a3a3e; --accent:#4cc3b8;
+  --pass:#7ccf86; --limit:#e8c25a; --fail:#f0965a; --pass-bg:#1d3a24; --limit-bg:#3d3418; --fail-bg:#43261a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1719; --paper:#162124; --ink:#e6eff0; --muted:#94a8ac; --line:#2a3a3e; --accent:#4cc3b8;
+  --pass:#7ccf86; --limit:#e8c25a; --fail:#f0965a; --pass-bg:#1d3a24; --limit-bg:#3d3418; --fail-bg:#43261a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:32px 56px}
+.wrap{max-width:980px;margin:0 auto;display:grid;gap:36px;grid-template-columns:minmax(0,1fr)}
+a{color:var(--accent)}
+.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.1em;font-weight:700;color:var(--muted);margin:0 0 6px}
+h1{font-family:var(--display);font-weight:400;font-size:clamp(34px,6vw,58px);line-height:1;margin:0 0 12px;text-wrap:balance}
+h2{font-family:var(--display);font-weight:400;font-size:28px;margin:0 0 10px}
+p{margin:0 0 10px;max-width:68ch}
+.muted{color:var(--muted)}
+.links{display:flex;gap:16px;flex-wrap:wrap;font-weight:500}
+.score{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:12px}
+.stat{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px}
+.stat b{display:block;font-family:var(--mono);font-size:28px;font-variant-numeric:tabular-nums;line-height:1.2}
+.stat .from{color:var(--muted);font-size:16px}
+.stat span{font-size:13px;color:var(--muted)}
+.prompt{background:var(--paper);border:1px solid var(--line);border-left:6px solid var(--mag);border-radius:10px;padding:16px 18px;font-family:var(--mono);font-size:13px;white-space:pre-wrap;line-height:1.6;overflow-x:auto}
+.copy{margin-top:8px;font:inherit;font-size:14px;padding:8px 12px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink);cursor:pointer}
+.copy:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+ol.rules{margin:0;padding-left:1.3em;display:grid;gap:6px;max-width:70ch}
+.chart{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px;overflow-x:auto}
+.chart svg{display:block;width:100%;min-width:560px;height:auto}
+.tbl{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:14px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{padding:10px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:700}
+td.n{font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+.tag{display:inline-block;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;padding:2px 7px;border-radius:6px}
+.tag.up{background:var(--pass-bg);color:var(--pass)} .tag.down{background:var(--fail-bg);color:var(--fail)} .tag.flat{background:var(--limit-bg);color:var(--limit)}
+.grid{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:12px}
+.grid table{min-width:700px;font-size:13px}
+.grid th,.grid td{text-align:center;padding:7px 6px;border:0}
+.grid th:first-child,.grid td:first-child{text-align:left;white-space:nowrap}
+.c{display:block;border-radius:7px;padding:6px 0;font-family:var(--mono);font-weight:500;font-variant-numeric:tabular-nums}
+.c.p{background:var(--pass-bg);color:var(--pass)} .c.l{background:var(--limit-bg);color:var(--limit)} .c.f{background:var(--fail-bg);color:var(--fail)}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;color:var(--muted);margin-top:10px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+.next{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:12px}
+.next div{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px}
+.next h3{margin:0 0 6px;font-size:16px}
+.next p{font-size:14px;margin:0}
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Step 4 · Prototyping with AI · Loop</p>
+    <h1>Does every fridge get real choices?</h1>
+    <p>Fridge to Fork finds recipes from what's in your fridge. I gave Claude one goal and a checklist, and it ran a test → score → fix loop on the live recipe search: 8 realistic fridges × 8 cuisine choices = 64 combinations, scored after every change, over 9 rounds.</p>
+    <div class="links">
+      <a href="https://fridge-to-fork-ten.vercel.app" target="_blank" rel="noopener">Live site</a>
+      <a href="https://github.com/AnthonyRVa/fridge-to-fork" target="_blank" rel="noopener">Code and round-by-round results on GitHub</a>
+    </div>
+  </header>
+
+  <section aria-labelledby="sc">
+    <h2 id="sc">Scoreboard</h2>
+    <div class="score">
+      <div class="stat"><b><span class="from">18% →</span> 59%</b><span>of combinations pass every check (10/56 in round 1 → 38/64 at the end)</span></div>
+      <div class="stat"><b><span class="from">30 →</span> 0</b><span>combinations with false ingredient matches ("rice" ticking off rice noodles)</span></div>
+      <div class="stat"><b>0</b><span>recipes shown under the wrong style (a check added mid-loop)</span></div>
+      <div class="stat"><b>64 / 64</b><span>combinations show 3+ recipes or an honest note when a style runs short</span></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="pr">
+    <h2 id="pr">The loop prompt</h2>
+    <p class="muted">The goal, checklist and stopping rule Claude worked from:</p>
+    <div class="prompt" id="loopPrompt">Run a quality loop on Fridge to Fork's recipe search.
+
+Test set: 8 realistic fridges (breakfast leftovers, chicken & rice, pasta night, fish dinner, plant based, mezze, diner, taco Tuesday) × 8 cuisine choices (any, Mexican, Latin American, Asian, Italian, Mediterranean, Indian, American) = 64 combinations, run against the real TheMealDB data.
+
+Every combination must pass:
+1. At least 3 useful recipes (each uses 2+ fridge items).
+2. When a cuisine is chosen, at least 3 of them in that style; if not, the page must say so.
+3. The top pick is sensible: needs at most 5 store items (no style chosen), or is the in-style recipe that needs the fewest.
+4. No false ingredient matches (having "chicken" must not tick off "chicken stock").
+
+Each round: run the test, group the failures, fix the biggest cause in the code, re-run. Tell apart failures caused by our code and failures caused by recipes the database doesn't have. Stop when only database limits remain or a round stops improving, at most 10 rounds. After the loop, deploy and re-run the Playwright browser test on the live site.</div>
+    <button class="copy" id="copyBtn" type="button">Copy prompt</button>
+  </section>
+
+  <section aria-labelledby="ch">
+    <h2 id="ch">Pass rate by round</h2>
+    <div class="chart">
+      <svg viewBox="0 0 640 260" role="img" aria-label="Pass rate by round: 18, 42, 56, 56, 47, 48, 59, 59, 59 percent">
+        <g font-family="JetBrains Mono, monospace" font-size="11" fill="var(--muted)">
+          <line x1="44" y1="210" x2="628" y2="210" stroke="var(--line)"/>
+          <line x1="44" y1="150" x2="628" y2="150" stroke="var(--line)" stroke-dasharray="3 4"/>
+          <line x1="44" y1="90" x2="628" y2="90" stroke="var(--line)" stroke-dasharray="3 4"/>
+          <line x1="44" y1="30" x2="628" y2="30" stroke="var(--line)" stroke-dasharray="3 4"/>
+          <text x="36" y="214" text-anchor="end">0%</text>
+          <text x="36" y="154" text-anchor="end">33%</text>
+          <text x="36" y="94" text-anchor="end">67%</text>
+          <text x="36" y="34" text-anchor="end">100%</text>
+        </g>
+        <g id="bars"></g>
+      </svg>
+    </div>
+    <p class="muted" style="margin-top:8px">Round 5 drops on purpose: the live browser test caught "Spanish Tortilla" listed as Mexican, so a wrong-style check was added and rounds 3–4 turned out to be inflated.</p>
+  </section>
+
+  <section aria-labelledby="rd">
+    <h2 id="rd">What each round found and fixed</h2>
+    <div class="tbl"><table>
+      <thead><tr><th>Round</th><th>Pass</th><th>What the checker found</th><th>What changed</th></tr></thead>
+      <tbody id="rounds"></tbody>
+    </table></div>
+  </section>
+
+  <section aria-labelledby="fg">
+    <h2 id="fg">Final results: in-style options per combination</h2>
+    <p class="muted">Each number is how many useful recipes appear in that style (or overall, for "Any").</p>
+    <div class="grid"><table id="grid"></table></div>
+    <div class="legend">
+      <span><i style="background:var(--pass-bg);border:1px solid var(--pass)"></i>Passes (3+)</span>
+      <span><i style="background:var(--limit-bg);border:1px solid var(--limit)"></i>Short because the database has no more recipes for it (19)</span>
+      <span><i style="background:var(--fail-bg);border:1px solid var(--fail)"></i>Short in a very large style the search stops checking (7)</span>
+    </div>
+  </section>
+
+  <section aria-labelledby="nx">
+    <h2 id="nx">What would close the gap</h2>
+    <p>Every remaining shortfall comes from the free recipe database: it has only 6 Mexican and 21 Italian recipes. The page already says so and shows the closest matches from other styles. Three ways to get more options:</p>
+    <div class="next">
+      <div><h3>Second recipe source</h3><p>Add Spoonacular (free key, 150 requests a day) for thousands more recipes with photos, searched by ingredient and cuisine.</p></div>
+      <div><h3>Claude fills the gaps</h3><p>The site already has a "write a custom recipe" route. With an Anthropic API key, it could create the missing in-style options on demand.</p></div>
+      <div><h3>TheMealDB premium</h3><p>A supporter key unlocks the full database and multi-ingredient search for a few dollars.</p></div>
+    </div>
+  </section>
+</div>
+
+<script>
+const ROUNDS = [
+  [1, 10, 56, "30 combinations had false matches (rice → rice noodles, tomatoes → tomato puree). 11 top picks needed 6+ items.", "Starting point."],
+  [2, 27, 64, "False matches gone. Styles still thin; poor in-style picks ranked first.", "Products (stock, sauce, puree, noodles, milk…) no longer match their raw ingredient, except citrus juice and zest. Recipes using 2+ fridge items rank first. Wider region lists per style. New Latin American chip (8 more combinations)."],
+  [3, 36, 64, "Most failures now marked as database limits.", "Dish names count toward a style (tacos are Mexican even if labeled American). Checker now separates our bugs from database limits."],
+  [4, 36, 64, "No logic failures left, so the loop looked done.", "Check up to 40 in-style recipes instead of 18."],
+  [5, 30, 64, "Live browser test showed “Spanish Tortilla” under Mexican. Rounds 3–4 were inflated.", "Dish names only decide style for unlabeled or melting-pot recipes. Added a wrong-style check to the loop."],
+  [6, 31, 64, "Indian and American searches found nothing at all.", "TheMealDB files recipes as “India” and “United States”, not “Indian”/“American”. Both spellings mapped."],
+  [7, 38, 64, "Chicken Mandi (uses Basmati Rice) was invisible to a search for “rice”. 6 big-style combos lost their overall options.", "When a style is chosen, every recipe in it is checked directly. All spellings of each ingredient are searched."],
+  [8, 38, 64, "Overall options restored (6 → 0 failures of that kind).", "Other-style backups are picked by fridge fit, so in-style recipes can't crowd them out."],
+  [9, 38, 64, "No improvement, and Mediterranean searches slowed to 2.8 s.", "Tried checking 100 in-style recipes; reverted to 60. Stop rule reached."],
+];
+const tb = document.getElementById("rounds");
+const bars = document.getElementById("bars");
+const ns = "http://www.w3.org/2000/svg";
+ROUNDS.forEach(([r, p, t, found, changed], i) => {
+  const prev = ROUNDS[i - 1];
+  const pct = Math.round(p / t * 100), prevPct = prev ? Math.round(prev[1] / prev[2] * 100) : null;
+  const dir = prevPct == null ? "" : pct > prevPct ? "up" : pct < prevPct ? "down" : "flat";
+  const tr = document.createElement("tr");
+  tr.innerHTML = `<td class="n">${r}</td><td class="n">${p}/${t} ${dir ? `<span class="tag ${dir}">${dir === "up" ? "▲" : dir === "down" ? "▼" : "="} ${pct}%</span>` : `<span class="tag flat">${pct}%</span>`}</td><td></td><td></td>`;
+  tr.children[2].textContent = found; tr.children[3].textContent = changed;
+  tb.append(tr);
+  const x = 60 + i * 64, h = pct / 100 * 180, y = 210 - h;
+  const rect = document.createElementNS(ns, "rect");
+  Object.entries({ x, y, width: 40, height: h, rx: 5, fill: i === ROUNDS.length - 1 ? "var(--accent)" : r === 5 ? "var(--limit)" : "var(--pass)" }).forEach(([k, v]) => rect.setAttribute(k, v));
+  const lab = document.createElementNS(ns, "text");
+  Object.entries({ x: x + 20, y: y - 6, "text-anchor": "middle", "font-family": "JetBrains Mono, monospace", "font-size": 12, fill: "var(--ink)" }).forEach(([k, v]) => lab.setAttribute(k, v));
+  lab.textContent = pct + "%";
+  const rl = document.createElementNS(ns, "text");
+  Object.entries({ x: x + 20, y: 228, "text-anchor": "middle", "font-family": "JetBrains Mono, monospace", "font-size": 11, fill: "var(--muted)" }).forEach(([k, v]) => rl.setAttribute(k, v));
+  rl.textContent = "R" + r;
+  bars.append(rect, lab, rl);
+});
+
+// [count, status] where status 1 = pass, 2 = database limit, 0 = beyond the check limit
+const FINAL = {"Breakfast leftovers": {"any": [12, 1], "Mexican": [3, 1], "Latin American": [12, 1], "Asian": [12, 1], "Italian": [3, 1], "Mediterranean": [12, 1], "Indian": [1, 2], "American": [9, 1]}, "Chicken & rice": {"any": [12, 1], "Mexican": [1, 2], "Latin American": [4, 1], "Asian": [12, 1], "Italian": [1, 2], "Mediterranean": [4, 1], "Indian": [1, 2], "American": [3, 1]}, "Pasta night": {"any": [12, 1], "Mexican": [4, 1], "Latin American": [12, 1], "Asian": [12, 1], "Italian": [10, 1], "Mediterranean": [12, 1], "Indian": [9, 1], "American": [9, 1]}, "Fish dinner": {"any": [8, 1], "Mexican": [0, 2], "Latin American": [1, 0], "Asian": [3, 1], "Italian": [1, 2], "Mediterranean": [7, 1], "Indian": [0, 2], "American": [4, 1]}, "Plant based": {"any": [10, 1], "Mexican": [0, 2], "Latin American": [1, 0], "Asian": [12, 1], "Italian": [0, 2], "Mediterranean": [2, 0], "Indian": [1, 2], "American": [0, 2]}, "Mezze": {"any": [12, 1], "Mexican": [1, 2], "Latin American": [1, 0], "Asian": [1, 0], "Italian": [1, 2], "Mediterranean": [12, 1], "Indian": [3, 1], "American": [2, 0]}, "Diner": {"any": [12, 1], "Mexican": [1, 2], "Latin American": [12, 1], "Asian": [6, 1], "Italian": [5, 1], "Mediterranean": [12, 1], "Indian": [1, 2], "American": [12, 1]}, "Taco Tuesday": {"any": [10, 1], "Mexican": [1, 2], "Latin American": [7, 1], "Asian": [12, 1], "Italian": [0, 2], "Mediterranean": [0, 0], "Indian": [2, 2], "American": [1, 2]}};
+const CU = ["any", "Mexican", "Latin American", "Asian", "Italian", "Mediterranean", "Indian", "American"];
+const g = document.getElementById("grid");
+g.innerHTML = `<thead><tr><th>Fridge</th>${CU.map(c => `<th>${c === "any" ? "Any" : c}</th>`).join("")}</tr></thead><tbody>${
+  Object.entries(FINAL).map(([f, row]) => `<tr><td>${f}</td>${CU.map(c => { const [n, s] = row[c]; return `<td><span class="c ${s === 1 ? "p" : s === 2 ? "l" : "f"}">${n}</span></td>`; }).join("")}</tr>`).join("")}</tbody>`;
+
+document.getElementById("copyBtn").addEventListener("click", async e => {
+  const text = document.getElementById("loopPrompt").textContent;
+  try { await navigator.clipboard.writeText(text); e.target.textContent = "Copied"; }
+  catch { const r = document.createRange(); r.selectNodeContents(document.getElementById("loopPrompt")); const s = getSelection(); s.removeAllRanges(); s.addRange(r); e.target.textContent = "Selected. Press Ctrl+C"; }
+});
+</script>
