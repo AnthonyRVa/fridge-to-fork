@@ -188,10 +188,7 @@ function showRecipe(r) {
   $("#favBtn").onclick = () => toggleFav(r);
   $("#priceNeed").onclick = () => prices(c.need.map(i => i.name));
   $("#priceAll").onclick = () => prices((r.ingredients || []).map(i => i.name));
-  if (!state.config.prices) {
-    $("#priceOut").innerHTML = `<p class="muted">Store prices aren't switched on for this site yet.</p>`;
-    $("#prices").querySelectorAll("button,input").forEach(b => b.disabled = true);
-  }
+  $("#prices").hidden = !state.config.prices; // shows up automatically once Kroger keys are added
   nutrition(r);
 }
 
